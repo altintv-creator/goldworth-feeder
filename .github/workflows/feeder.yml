@@ -23,23 +23,43 @@ jobs:
             "https://api.metals.dev/v1/latest?api_key=$METALS_API_KEY&currency=USD&unit=toz" \
             -o metals.json
 
-          for S in ALTIN GUMUSTRY USDTRY EURTRY GBPTRY; do
-            curl -sS -f -H "X-API-Key: $ALTINAPI_KEY" \
-              "https://altinapi.com/api/v1/prices/$S" -o "tr_$S.json" || echo "{}" > "tr_$S.json"
-          done
+          curl -sS -f -H "X-API-Key: $ALTINAPI_KEY" \
+            "https://altinapi.com/api/v1/prices" -o altinapi.json
 
           node -e "
             const fs = require('fs');
+
+            // Onceki calistirmanin fiyatlari — degisim hesabi icin
+            let prev = {};
+            try {
+              const old = JSON.parse(fs.readFileSync('prices.json','utf8'));
+              for (const s of (old.tr?.symbols || [])) prev[s.symbol] = s.bid;
+            } catch {}
+
             const m = JSON.parse(fs.readFileSync('metals.json','utf8'));
             const metals = m.metals || {};
             const c = m.currencies || {};
-
-            const bid = (f) => {
-              try { const v = Number(JSON.parse(fs.readFileSync(f,'utf8')).bid); return v > 0 ? v : null; }
-              catch { return null; }
-            };
-
             const inv = (x) => (x > 0 ? 1 / x : null);
+
+            const a = JSON.parse(fs.readFileSync('altinapi.json','utf8'));
+            const rows = Array.isArray(a.data) ? a.data : [];
+            if (rows.length === 0) { console.error('altinapi bos dondu'); process.exit(1); }
+
+            const symbols = rows.map((r) => {
+              const bid = Number(r.bid) > 0 ? Number(r.bid) : null;
+              const ask = Number(r.ask) > 0 ? Number(r.ask) : null;
+              const p = prev[r.symbol];
+              const change = (bid != null && p > 0) ? bid - p : null;
+              return {
+                symbol: r.symbol,
+                category: r.category || null,
+                bid, ask,
+                change,
+                changePct: (change != null && p > 0) ? (change / p) * 100 : null
+              };
+            });
+
+            const find = (sym) => symbols.find((s) => s.symbol === sym)?.bid ?? null;
 
             const out = {
               updatedAt: new Date().toISOString(),
@@ -55,21 +75,25 @@ jobs:
                 }
               },
               tr: {
-                altin: bid('tr_ALTIN.json'),
-                gumus: bid('tr_GUMUSTRY.json'),
-                usd: bid('tr_USDTRY.json'),
-                eur: bid('tr_EURTRY.json'),
-                gbp: bid('tr_GBPTRY.json')
+                // Mevcut ekranlarin kullandigi alanlar — degismedi
+                altin: find('ALTIN'),
+                gumus: find('GUMTRY'),
+                usd: find('USDTRY'),
+                eur: find('EURTRY'),
+                gbp: find('GBPTRY'),
+                stale: a.stale === true,
+                sourceUpdatedAt: a.updatedAt || null,
+                symbols
               }
             };
 
             if (out.global.goldPerOz == null) { console.error('metals.dev altin gelmedi'); process.exit(1); }
-            if (out.tr.altin == null) { console.error('altinapi altin gelmedi'); process.exit(1); }
+            if (out.tr.altin == null) { console.error('altinapi ALTIN gelmedi'); process.exit(1); }
 
             fs.writeFileSync('prices.json', JSON.stringify(out, null, 2));
           "
 
-          rm -f metals.json tr_*.json
+          rm -f metals.json altinapi.json
 
       - name: Degistiyse kaydet
         run: |
