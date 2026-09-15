@@ -1,0 +1,48 @@
+name: GoldWorth Feeder
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fiyatlari cek
+        env:
+          METALS_API_KEY: ${{ secrets.METALS_API_KEY }}
+        run: |
+          curl -sS -f \
+            "https://api.metals.dev/v1/latest?api_key=$METALS_API_KEY&currency=USD&unit=toz" \
+            -o raw.json
+          node -e "
+            const r = JSON.parse(require('fs').readFileSync('raw.json','utf8'));
+            const m = r.metals || {};
+            const c = r.currencies || {};
+            const out = {
+              updatedAt: new Date().toISOString(),
+              base: 'USD',
+              metals: { XAU: m.gold ?? null, XAG: m.silver ?? null },
+              rates: {
+                TRY: c.TRY ?? null, EUR: c.EUR ?? null,
+                INR: c.INR ?? null, AED: c.AED ?? null, SAR: c.SAR ?? null
+              }
+            };
+            if (out.metals.XAU == null) { console.error('Altin fiyati gelmedi'); process.exit(1); }
+            require('fs').writeFileSync('prices.json', JSON.stringify(out, null, 2));
+          "
+          rm -f raw.json
+
+      - name: Degistiyse kaydet
+        run: |
+          git config user.name "goldworth-feeder"
+          git config user.email "feeder@users.noreply.github.com"
+          git add prices.json
+          git diff --staged --quiet || git commit -m "fiyat guncelleme"
+          git push
