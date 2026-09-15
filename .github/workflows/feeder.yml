@@ -17,27 +17,59 @@ jobs:
       - name: Fiyatlari cek
         env:
           METALS_API_KEY: ${{ secrets.METALS_API_KEY }}
+          ALTINAPI_KEY: ${{ secrets.ALTINAPI_KEY }}
         run: |
           curl -sS -f \
             "https://api.metals.dev/v1/latest?api_key=$METALS_API_KEY&currency=USD&unit=toz" \
-            -o raw.json
+            -o metals.json
+
+          for S in ALTIN GUMUSTRY USDTRY EURTRY GBPTRY; do
+            curl -sS -f -H "X-API-Key: $ALTINAPI_KEY" \
+              "https://altinapi.com/api/v1/prices/$S" -o "tr_$S.json" || echo "{}" > "tr_$S.json"
+          done
+
           node -e "
-            const r = JSON.parse(require('fs').readFileSync('raw.json','utf8'));
-            const m = r.metals || {};
-            const c = r.currencies || {};
+            const fs = require('fs');
+            const m = JSON.parse(fs.readFileSync('metals.json','utf8'));
+            const metals = m.metals || {};
+            const c = m.currencies || {};
+
+            const bid = (f) => {
+              try { const v = Number(JSON.parse(fs.readFileSync(f,'utf8')).bid); return v > 0 ? v : null; }
+              catch { return null; }
+            };
+
+            const inv = (x) => (x > 0 ? 1 / x : null);
+
             const out = {
               updatedAt: new Date().toISOString(),
-              base: 'USD',
-              metals: { XAU: m.gold ?? null, XAG: m.silver ?? null },
-              rates: {
-                TRY: c.TRY ?? null, EUR: c.EUR ?? null,
-                INR: c.INR ?? null, AED: c.AED ?? null, SAR: c.SAR ?? null
+              global: {
+                base: 'USD',
+                goldPerOz: metals.gold ?? null,
+                silverPerOz: metals.silver ?? null,
+                goldPerGram: metals.gold ? metals.gold / 31.1034768 : null,
+                silverPerGram: metals.silver ? metals.silver / 31.1034768 : null,
+                unitsPerUsd: {
+                  TRY: inv(c.TRY), EUR: inv(c.EUR), INR: inv(c.INR),
+                  AED: inv(c.AED), SAR: inv(c.SAR)
+                }
+              },
+              tr: {
+                altin: bid('tr_ALTIN.json'),
+                gumus: bid('tr_GUMUSTRY.json'),
+                usd: bid('tr_USDTRY.json'),
+                eur: bid('tr_EURTRY.json'),
+                gbp: bid('tr_GBPTRY.json')
               }
             };
-            if (out.metals.XAU == null) { console.error('Altin fiyati gelmedi'); process.exit(1); }
-            require('fs').writeFileSync('prices.json', JSON.stringify(out, null, 2));
+
+            if (out.global.goldPerOz == null) { console.error('metals.dev altin gelmedi'); process.exit(1); }
+            if (out.tr.altin == null) { console.error('altinapi altin gelmedi'); process.exit(1); }
+
+            fs.writeFileSync('prices.json', JSON.stringify(out, null, 2));
           "
-          rm -f raw.json
+
+          rm -f metals.json tr_*.json
 
       - name: Degistiyse kaydet
         run: |
