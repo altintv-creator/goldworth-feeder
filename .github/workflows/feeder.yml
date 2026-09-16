@@ -63,12 +63,14 @@ jobs:
 
             const out = {
               updatedAt: new Date().toISOString(),
-              global: {
+                            global: {
                 base: 'USD',
                 goldPerOz: metals.gold ?? null,
                 silverPerOz: metals.silver ?? null,
                 goldPerGram: metals.gold ? metals.gold / 31.1034768 : null,
                 silverPerGram: metals.silver ? metals.silver / 31.1034768 : null,
+                allMetals: metals,
+                allCurrencies: c,
                 unitsPerUsd: {
                   TRY: inv(c.TRY), EUR: inv(c.EUR), INR: inv(c.INR),
                   AED: inv(c.AED), SAR: inv(c.SAR)
