@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T08:00:46.187Z",
+  "updatedAt": "2026-10-10T08:30:38.145Z",
   "global": {
     "base": "USD",
     "goldPerOz": 4194.345,
@@ -18,14 +18,14 @@
       "lbma_platinum_pm": 1674.75,
       "lbma_palladium_am": 1154.35,
       "lbma_palladium_pm": 1141.2,
-      "mcx_gold": 4878.5695,
-      "mcx_gold_am": 4803.5713,
-      "mcx_gold_pm": 4795.1665,
-      "mcx_silver": 72.6976,
-      "mcx_silver_am": 71.3332,
-      "mcx_silver_pm": 71.2279,
-      "ibja_gold": 4811.9512,
-      "ibja_silver": 71.2022,
+      "mcx_gold": 4878.8181,
+      "mcx_gold_am": 4803.8161,
+      "mcx_gold_pm": 4795.4107,
+      "mcx_silver": 72.7013,
+      "mcx_silver_am": 71.3368,
+      "mcx_silver_pm": 71.2315,
+      "ibja_gold": 4812.1969,
+      "ibja_silver": 71.2053,
       "copper": 0.4637,
       "aluminum": 0.0946,
       "lead": 0.0584,
@@ -39,196 +39,196 @@
     },
     "allCurrencies": {
       "AED": 0.2722940776,
-      "AFN": 0.0150669825,
-      "ALL": 0.0122140395,
-      "AMD": 0.0027594979,
+      "AFN": 0.0150791212,
+      "ALL": 0.0122139927,
+      "AMD": 0.0027595477,
       "ANG": 0.5559174395,
-      "AOA": 0.0010899871,
-      "ARS": 0.0006592008,
-      "AUD": 0.698556691,
+      "AOA": 0.0010899861,
+      "ARS": 0.0006591693,
+      "AUD": 0.6985818222,
       "AWG": 0.5586592179,
-      "AZN": 0.5882351839,
-      "BAM": 0.5727422608,
+      "AZN": 0.5882352739,
+      "BAM": 0.5727465758,
       "BBD": 0.5,
-      "BDT": 0.0081104287,
-      "BGN": 0.5727422608,
+      "BDT": 0.0081104285,
+      "BGN": 0.5727465758,
       "BHD": 2.6595744681,
-      "BIF": 0.0003336343,
+      "BIF": 0.000333647,
       "BMD": 1,
-      "BND": 0.7808928943,
-      "BOB": 0.084534022,
-      "BRL": 0.2004097306,
+      "BND": 0.780876663,
+      "BOB": 0.0845340197,
+      "BRL": 0.2004195917,
       "BSD": 1,
-      "BTC": 82734.8843366317,
-      "BTN": 0.0103531808,
-      "BWP": 0.0727530878,
+      "BTC": 82811.6201265362,
+      "BTN": 0.0103537082,
+      "BWP": 0.0727640834,
       "BYN": 0.33112582781457,
       "BYR": 0.000036561,
-      "BZD": 0.4964268168,
-      "CAD": 0.7014783543,
+      "BZD": 0.4964288603,
+      "CAD": 0.7014954816,
       "CDF": 0.0004350245,
-      "CHF": 1.204446008,
-      "CLP": 0.0010233334,
-      "CNH": 0.1494843724,
-      "CNY": 0.1493388947,
-      "COP": 0.0003137341,
-      "CRC": 0.0022025659,
+      "CHF": 1.2044747845,
+      "CLP": 0.0010233202,
+      "CNH": 0.1494715784,
+      "CNY": 0.1492393387,
+      "COP": 0.0003128813,
+      "CRC": 0.0022027532,
       "CUC": 1,
       "CUP": 0.04166666666667,
-      "CVE": 0.0101585789,
-      "CZK": 0.0459528011,
+      "CVE": 0.0101586554,
+      "CZK": 0.0459518519,
       "DJF": 0.0056097174,
-      "DKK": 0.1498653437,
-      "DOP": 0.0163181962,
-      "DZD": 0.0074259267,
-      "EEK": 0.0715927826,
-      "EGP": 0.019085572,
+      "DKK": 0.1498650147,
+      "DOP": 0.0163181955,
+      "DZD": 0.0074261387,
+      "EEK": 0.071593322,
+      "EGP": 0.0190829106,
       "ERN": 0.0666666667,
-      "ETB": 0.0062059584,
-      "EUR": 1.1201864958,
-      "FJD": 0.4430534545,
-      "FKP": 1.3232681318,
-      "GBP": 1.3232681318,
-      "GEL": 0.3851039917,
-      "GGP": 1.3232681318,
-      "GHS": 0.0845904372,
-      "GIP": 1.3232681318,
-      "GMD": 0.0135919062,
-      "GNF": 0.0001137982,
-      "GTQ": 0.1308265937,
-      "GYD": 0.0047745609,
-      "HKD": 0.1274227621,
-      "HNL": 0.0371408182,
-      "HRK": 0.1486742977,
-      "HTG": 0.0076379674,
-      "HUF": 0.0030696507,
-      "IDR": 0.0000558663,
-      "ILS": 0.3265279602,
-      "IMP": 1.3232681318,
-      "INR": 0.0103531808,
-      "IQD": 0.0007026512,
+      "ETB": 0.0062060431,
+      "EUR": 1.1201949354,
+      "FJD": 0.4430637901,
+      "FKP": 1.3232573997,
+      "GBP": 1.3232573997,
+      "GEL": 0.3851037992,
+      "GGP": 1.3232573997,
+      "GHS": 0.0840689625,
+      "GIP": 1.3232573997,
+      "GMD": 0.0135910624,
+      "GNF": 0.0001138337,
+      "GTQ": 0.1308266442,
+      "GYD": 0.0047745608,
+      "HKD": 0.1274232772,
+      "HNL": 0.0371407428,
+      "HRK": 0.1486754178,
+      "HTG": 0.0076379568,
+      "HUF": 0.0030695615,
+      "IDR": 0.0000558665,
+      "ILS": 0.3264243563,
+      "IMP": 1.3232573997,
+      "INR": 0.0103537082,
+      "IQD": 0.0007026247,
       "IRR": 5.6220203e-7,
-      "ISK": 0.0081882898,
-      "JEP": 1.3232681318,
-      "JMD": 0.0063096067,
+      "ISK": 0.008188355,
+      "JEP": 1.3232573997,
+      "JMD": 0.0063096484,
       "JOD": 1.4104372355,
-      "JPY": 0.0063165341,
-      "KES": 0.00770546,
+      "JPY": 0.0063164612,
+      "KES": 0.0077054104,
       "KGS": 0.0114336804,
-      "KHR": 0.0002456431,
-      "KMF": 0.0022769511,
+      "KHR": 0.0002456256,
+      "KMF": 0.0022769682,
       "KPW": 0.0011109408,
-      "KRW": 0.0007461257,
-      "KWD": 3.2173953768,
-      "KYD": 1.2014899674,
-      "KZT": 0.0022043848,
+      "KRW": 0.0007461123,
+      "KWD": 3.2173487879,
+      "KYD": 1.2014904595,
+      "KZT": 0.0022034726,
       "LAK": 0.000044537,
-      "LBP": 0.0000110503,
-      "LKR": 0.0030225886,
-      "LRD": 0.0058495607,
-      "LSL": 0.0605744646,
-      "LTL": 0.3244284337,
-      "LVL": 1.5938908591,
-      "LYD": 0.1556070026,
-      "MAD": 0.1025145803,
-      "MDL": 0.0559090388,
+      "LBP": 0.000011071,
+      "LKR": 0.0030225986,
+      "LRD": 0.0058495333,
+      "LSL": 0.0605903656,
+      "LTL": 0.324430878,
+      "LVL": 1.5939028676,
+      "LYD": 0.1556069993,
+      "MAD": 0.10251068,
+      "MDL": 0.0559085691,
       "MGA": 0.0002245749,
-      "MKD": 0.0182089746,
-      "MMK": 0.0004763005,
-      "MNT": 0.0002783463,
-      "MOP": 0.1237114195,
-      "MRU": 0.0250266104,
-      "MUR": 0.021066116,
-      "MVR": 0.0648190391,
+      "MKD": 0.0182091188,
+      "MMK": 0.0004764979,
+      "MNT": 0.0002783609,
+      "MOP": 0.1237119197,
+      "MRU": 0.0250231081,
+      "MUR": 0.0210664821,
+      "MVR": 0.064818922,
       "MWK": 0.0005740032,
-      "MXN": 0.0543101159,
-      "MYR": 0.2447203551,
-      "MZN": 0.0156470121,
-      "NAD": 0.0605744646,
-      "NGN": 0.0007508816,
-      "NIO": 0.0271309716,
-      "NOK": 0.1046294202,
-      "NPR": 0.0064677063,
+      "MXN": 0.0543103488,
+      "MYR": 0.2447232352,
+      "MZN": 0.0156469947,
+      "NAD": 0.0605903656,
+      "NGN": 0.0007519228,
+      "NIO": 0.0271315588,
+      "NOK": 0.1046319614,
+      "NPR": 0.0064680357,
       "NTD": 0.0337206,
-      "NZD": 0.5612674158,
-      "OMR": 2.5979345728,
+      "NZD": 0.5612642278,
+      "OMR": 2.5991208168,
       "PAB": 1,
-      "PEN": 0.2913587409,
+      "PEN": 0.2913587331,
       "PGK": 0.2246282321,
-      "PHP": 0.0159283681,
-      "PKR": 0.0036105493,
-      "PLN": 0.255429525,
-      "PYG": 0.0001759032,
+      "PHP": 0.015928521,
+      "PKR": 0.0036105724,
+      "PLN": 0.2554147532,
+      "PYG": 0.0001759055,
       "QAR": 0.2747252747,
-      "RON": 0.2095885863,
-      "RSD": 0.0095382411,
+      "RON": 0.2095887494,
+      "RSD": 0.0095383006,
       "RUB": 0.01175017713392,
-      "RWF": 0.0006780481,
+      "RWF": 0.0006782434,
       "SAR": 0.2666666667,
       "SBD": 0.1238659649,
-      "SCR": 0.0722836878,
-      "SDG": 0.0016662197,
-      "SEK": 0.1000367768,
-      "SGD": 0.7808928943,
-      "SHP": 1.3232681318,
-      "SKK": 0.0371833797,
+      "SCR": 0.0722836865,
+      "SDG": 0.001666234,
+      "SEK": 0.1000379386,
+      "SGD": 0.780876663,
+      "SHP": 1.3232573997,
+      "SKK": 0.0371836598,
       "SLE": 0.0435507362,
       "SLL": 0.0000440506,
       "SOS": 0.0017499695,
       "SPL": 6.000000024,
-      "SRD": 0.0265246622,
-      "STN": 0.045421707,
+      "SRD": 0.0265245289,
+      "STN": 0.0454211132,
       "SVC": 0.1142857143,
       "SYP": 0.00822909809085,
-      "SZL": 0.0605744646,
-      "THB": 0.0298310497,
-      "TJS": 0.1087027365,
-      "TMT": 0.2837306407,
-      "TND": 0.3325666511,
+      "SZL": 0.0605903656,
+      "THB": 0.0298310305,
+      "TJS": 0.1087026893,
+      "TMT": 0.2833666482,
+      "TND": 0.3325685511,
       "TOP": 0.4161440063,
-      "TRY": 0.0202252497,
-      "TTD": 0.1477982931,
-      "TVD": 0.698556691,
-      "TWD": 0.0313111853,
-      "TZS": 0.0003785832,
-      "UAH": 0.0222686254,
-      "UGX": 0.0002465692,
+      "TRY": 0.0202369227,
+      "TTD": 0.1477982893,
+      "TVD": 0.6985818222,
+      "TWD": 0.0313115085,
+      "TZS": 0.0003789792,
+      "UAH": 0.0222688319,
+      "UGX": 0.0002466026,
       "USD": 1,
-      "UYU": 0.0249164898,
-      "UZS": 0.0000841023,
-      "VED": 0.0011423061,
+      "UYU": 0.0249200653,
+      "UZS": 0.0000841079,
+      "VED": 0.0011421331,
       "VEF": 2.77168e-7,
-      "VES": 0.0011423061,
-      "VND": 0.0000387081,
+      "VES": 0.0011421331,
+      "VND": 0.000038914,
       "VUV": 0.0083542333,
       "WST": 0.3590013488,
-      "XAF": 0.0017077133,
-      "XCD": 0.3700261542,
+      "XAF": 0.0017077262,
+      "XCD": 0.3700260571,
       "XDR": 1.3602582376,
-      "XOF": 0.0017077133,
-      "XPF": 0.0093871628,
-      "YER": 0.0042337947,
-      "ZAR": 0.0605744646,
+      "XOF": 0.0017077262,
+      "XPF": 0.0093872336,
+      "YER": 0.0042337993,
+      "ZAR": 0.0605903656,
       "ZMW": 0.0502247697,
       "ZWD": 0.00276319,
       "ZWL": 0.0000149889
     },
     "unitsPerUsd": {
-      "TRY": 49.44314729523463,
-      "EUR": 0.8927084942992757,
-      "INR": 96.58867350215694,
+      "TRY": 49.414627649884736,
+      "EUR": 0.8927017685925523,
+      "INR": 96.58375344207595,
       "AED": 3.6725000000514147,
       "SAR": 3.74999999953125
     }
   },
   "tr": {
-    "altin": 6611.14,
-    "gumus": 89.6483,
-    "usd": 49.1,
-    "eur": 54.891,
-    "gbp": 64.651,
+    "altin": 6612.49,
+    "gumus": 89.6665,
+    "usd": 49.11,
+    "eur": 54.902,
+    "gbp": 64.665,
     "stale": false,
-    "sourceUpdatedAt": "2026-10-10T08:00:30.888Z",
+    "sourceUpdatedAt": "2026-10-10T08:30:30.914Z",
     "symbols": [
       {
         "symbol": "PARUSD",
@@ -241,10 +241,10 @@
       {
         "symbol": "ALTIN",
         "category": "GRAM ALTIN",
-        "bid": 6611.14,
+        "bid": 6612.49,
         "ask": 6644.78,
-        "change": 0,
-        "changePct": 0
+        "change": 1.3499999999994543,
+        "changePct": 0.020420078836622037
       },
       {
         "symbol": "PAREUR",
@@ -305,98 +305,98 @@
       {
         "symbol": "GUMTRY",
         "category": "MADEN",
-        "bid": 89.6483,
+        "bid": 89.6665,
         "ask": 97.0393,
-        "change": 0,
-        "changePct": 0
+        "change": 0.01819999999999311,
+        "changePct": 0.020301556192357368
       },
       {
         "symbol": "AUDTRY",
         "category": "DOVIZ",
-        "bid": 33.564,
+        "bid": 33.571,
         "ask": 34.19,
-        "change": 0,
-        "changePct": 0
+        "change": 0.006999999999997897,
+        "changePct": 0.020855678703366395
       },
       {
         "symbol": "USDTRY",
         "category": "DOVIZ",
-        "bid": 49.1,
+        "bid": 49.11,
         "ask": 49.21,
-        "change": 0,
-        "changePct": 0
+        "change": 0.00999999999999801,
+        "changePct": 0.02036659877800002
       },
       {
         "symbol": "EURTRY",
         "category": "DOVIZ",
-        "bid": 54.891,
+        "bid": 54.902,
         "ask": 55.098,
-        "change": 0,
-        "changePct": 0
+        "change": 0.011000000000002785,
+        "changePct": 0.0200397150716926
       },
       {
         "symbol": "GBPTRY",
         "category": "DOVIZ",
-        "bid": 64.651,
+        "bid": 64.665,
         "ask": 65.019,
-        "change": 0,
-        "changePct": 0
+        "change": 0.014000000000010004,
+        "changePct": 0.02165473078530882
       },
       {
         "symbol": "CADTRY",
         "category": "DOVIZ",
-        "bid": 34.127,
+        "bid": 34.134,
         "ask": 34.474,
-        "change": 0,
-        "changePct": 0
+        "change": 0.006999999999997897,
+        "changePct": 0.020511618366682968
       },
       {
         "symbol": "CHFTRY",
         "category": "DOVIZ",
-        "bid": 58.57,
+        "bid": 58.582,
         "ask": 59.171,
-        "change": 0,
-        "changePct": 0
+        "change": 0.012000000000000455,
+        "changePct": 0.020488304592795725
       },
       {
         "symbol": "SARTRY",
         "category": "DOVIZ",
-        "bid": 12.788,
+        "bid": 12.79,
         "ask": 13.229,
-        "change": 0,
-        "changePct": 0
+        "change": 0.0019999999999988916,
+        "changePct": 0.015639662183288175
       },
       {
         "symbol": "JPYTRY",
         "category": "DOVIZ",
-        "bid": 0.3034,
+        "bid": 0.3035,
         "ask": 0.3109,
-        "change": 0,
-        "changePct": 0
+        "change": 0.00009999999999998899,
+        "changePct": 0.0329597890573464
       },
       {
         "symbol": "NOKTRY",
         "category": "DOVIZ",
-        "bid": 3.6216,
+        "bid": 3.6223,
         "ask": 5.1289,
-        "change": 0,
-        "changePct": 0
+        "change": 0.000700000000000145,
+        "changePct": 0.01932847360283148
       },
       {
         "symbol": "SEKTRY",
         "category": "DOVIZ",
-        "bid": 3.5082,
+        "bid": 3.5089,
         "ask": 4.9058,
-        "change": 0,
-        "changePct": 0
+        "change": 0.000700000000000145,
+        "changePct": 0.019953252380142096
       },
       {
         "symbol": "DKKTRY",
         "category": "DOVIZ",
-        "bid": 1.5098,
+        "bid": 1.5101,
         "ask": 7.2144,
-        "change": 0,
-        "changePct": 0
+        "change": 0.00029999999999996696,
+        "changePct": 0.01987018148098867
       },
       {
         "symbol": "EURUSD",
@@ -593,10 +593,10 @@
       {
         "symbol": "XUSDTRY",
         "category": "DOVIZ",
-        "bid": 49.0999,
+        "bid": 49.1099,
         "ask": 49.2103,
-        "change": 0,
-        "changePct": 0
+        "change": 0.010000000000005116,
+        "changePct": 0.020366640257933555
       },
       {
         "symbol": "FARKEUR",
@@ -657,122 +657,122 @@
       {
         "symbol": "AYAR22",
         "category": "SARRAFIYE",
-        "bid": 6014.14,
+        "bid": 6015.36,
         "ask": 6226.09,
-        "change": 0,
-        "changePct": 0
+        "change": 1.2199999999993452,
+        "changePct": 0.02028552710777177
       },
       {
         "symbol": "KULCEALTIN",
         "category": "SARRAFIYE",
-        "bid": 6578.08,
+        "bid": 6579.43,
         "ask": 6664.71,
-        "change": 0,
-        "changePct": 0
+        "change": 1.3500000000003638,
+        "changePct": 0.020522705713526802
       },
       {
         "symbol": "CEYREK_YENI",
         "category": "SARRAFIYE",
-        "bid": 10776,
+        "bid": 10778,
         "ask": 10863,
-        "change": 0,
-        "changePct": 0
+        "change": 2,
+        "changePct": 0.01855976243504083
       },
       {
         "symbol": "CEYREK_ESKI",
         "category": "SARRAFIYE",
-        "bid": 10644,
+        "bid": 10646,
         "ask": 10723,
-        "change": 0,
-        "changePct": 0
+        "change": 2,
+        "changePct": 0.018789928598271326
       },
       {
         "symbol": "YARIM_YENI",
         "category": "SARRAFIYE",
-        "bid": 21552,
+        "bid": 21557,
         "ask": 21719,
-        "change": 0,
-        "changePct": 0
+        "change": 5,
+        "changePct": 0.023199703043801038
       },
       {
         "symbol": "YARIM_ESKI",
         "category": "SARRAFIYE",
-        "bid": 21175,
+        "bid": 21180,
         "ask": 21340,
-        "change": 0,
-        "changePct": 0
+        "change": 5,
+        "changePct": 0.023612750885478158
       },
       {
         "symbol": "TEK_YENI",
         "category": "SARRAFIYE",
-        "bid": 42992,
+        "bid": 43001,
         "ask": 43311,
-        "change": 0,
-        "changePct": 0
+        "change": 9,
+        "changePct": 0.02093412727949386
       },
       {
         "symbol": "TEK_ESKI",
         "category": "SARRAFIYE",
-        "bid": 42377,
+        "bid": 42386,
         "ask": 42713,
-        "change": 0,
-        "changePct": 0
+        "change": 9,
+        "changePct": 0.021237935672652617
       },
       {
         "symbol": "ATA_YENI",
         "category": "SARRAFIYE",
-        "bid": 43766,
+        "bid": 43775,
         "ask": 44407,
-        "change": 0,
-        "changePct": 0
+        "change": 9,
+        "changePct": 0.0205639080564822
       },
       {
         "symbol": "ATA_ESKI",
         "category": "SARRAFIYE",
-        "bid": 43719,
+        "bid": 43728,
         "ask": 44075,
-        "change": 0,
-        "changePct": 0
+        "change": 9,
+        "changePct": 0.02058601523365127
       },
       {
         "symbol": "ATA5_YENI",
         "category": "SARRAFIYE",
-        "bid": 218168,
+        "bid": 218212,
         "ask": 221653,
-        "change": 0,
-        "changePct": 0
+        "change": 44,
+        "changePct": 0.020167943969784753
       },
       {
         "symbol": "ATA5_ESKI",
         "category": "SARRAFIYE",
-        "bid": 217837,
+        "bid": 217882,
         "ask": 220324,
-        "change": 0,
-        "changePct": 0
+        "change": 45,
+        "changePct": 0.020657647690704516
       },
       {
         "symbol": "GREMESE_YENI",
         "category": "SARRAFIYE",
-        "bid": 106638,
+        "bid": 106659,
         "ask": 107762,
-        "change": 0,
-        "changePct": 0
+        "change": 21,
+        "changePct": 0.019692792437967704
       },
       {
         "symbol": "GREMESE_ESKI",
         "category": "SARRAFIYE",
-        "bid": 105778,
+        "bid": 105800,
         "ask": 106765,
-        "change": 0,
-        "changePct": 0
+        "change": 22,
+        "changePct": 0.020798275633874718
       },
       {
         "symbol": "AYAR14",
         "category": "SARRAFIYE",
-        "bid": 3612.24,
+        "bid": 3612.99,
         "ask": 4819.11,
-        "change": 0,
-        "changePct": 0
+        "change": 0.75,
+        "changePct": 0.0207627400172746
       },
       {
         "symbol": "ONS",
@@ -801,10 +801,10 @@
       {
         "symbol": "GUMUSTRY",
         "category": "MADEN",
-        "bid": 89.64,
+        "bid": 89.659,
         "ask": 97.037,
-        "change": 0,
-        "changePct": 0
+        "change": 0.019000000000005457,
+        "changePct": 0.02119589468987668
       },
       {
         "symbol": "GUMUSUSD",
@@ -849,10 +849,10 @@
       {
         "symbol": "JODTRY",
         "category": "DOVIZ",
-        "bid": 66.7749,
+        "bid": 66.7885,
         "ask": 70.3721,
-        "change": 0,
-        "changePct": 0
+        "change": 0.013599999999996726,
+        "changePct": 0.020366934282187957
       },
       {
         "symbol": "USDILS",
@@ -897,10 +897,10 @@
       {
         "symbol": "KWDTRY",
         "category": "DOVIZ",
-        "bid": 150.8359,
+        "bid": 150.8667,
         "ask": 161.5356,
-        "change": 0,
-        "changePct": 0
+        "change": 0.030799999999999272,
+        "changePct": 0.020419542032101952
       },
       {
         "symbol": "ILSTRY",
@@ -921,10 +921,10 @@
       {
         "symbol": "DS_XUSD",
         "category": "DOVIZ",
-        "bid": 49.1,
+        "bid": 49.11,
         "ask": 49.21,
-        "change": 0,
-        "changePct": 0
+        "change": 0.00999999999999801,
+        "changePct": 0.02036659877800002
       },
       {
         "symbol": "DS_USDSAR",
@@ -1009,10 +1009,10 @@
       {
         "symbol": "DS_GBPTRY",
         "category": "DOVIZ",
-        "bid": 64.65,
+        "bid": 64.663,
         "ask": 65.017,
-        "change": 0,
-        "changePct": 0
+        "change": 0.012999999999991019,
+        "changePct": 0.02010827532867907
       },
       {
         "symbol": "DS_AUDTRY",
@@ -1025,26 +1025,26 @@
       {
         "symbol": "DS_SARTRY",
         "category": "DOVIZ",
-        "bid": 12.904,
+        "bid": 12.907,
         "ask": 13.14,
-        "change": 0,
-        "changePct": 0
+        "change": 0.0030000000000001137,
+        "changePct": 0.023248605083695858
       },
       {
         "symbol": "DS_JPYTRY",
         "category": "DOVIZ",
-        "bid": 0.3072,
+        "bid": 0.3073,
         "ask": 0.3303,
-        "change": 0,
-        "changePct": 0
+        "change": 0.0001000000000000445,
+        "changePct": 0.032552083333347824
       },
       {
         "symbol": "DS_NOKTRY",
         "category": "DOVIZ",
-        "bid": 4.37,
-        "ask": 4.38,
-        "change": 0,
-        "changePct": 0
+        "bid": 4.371,
+        "ask": 4.381,
+        "change": 0.001000000000000334,
+        "changePct": 0.02288329519451565
       },
       {
         "symbol": "DS_SEKTRY",
@@ -1057,10 +1057,10 @@
       {
         "symbol": "DS_CADTRY",
         "category": "DOVIZ",
-        "bid": 34.13,
+        "bid": 34.137,
         "ask": 34.553,
-        "change": 0,
-        "changePct": 0
+        "change": 0.006999999999997897,
+        "changePct": 0.02050981541165513
       },
       {
         "symbol": "DS_DKKTRY",
@@ -1073,18 +1073,18 @@
       {
         "symbol": "DS_CHFTRY",
         "category": "DOVIZ",
-        "bid": 58.571,
+        "bid": 58.583,
         "ask": 59.168,
-        "change": 0,
-        "changePct": 0
+        "change": 0.012000000000000455,
+        "changePct": 0.020487954789913877
       },
       {
         "symbol": "DS_KULCEALTIN",
         "category": "DOVIZ",
-        "bid": 6578.13,
+        "bid": 6579.48,
         "ask": 6664.66,
-        "change": 0,
-        "changePct": 0
+        "change": 1.3499999999994543,
+        "changePct": 0.020522549721569115
       },
       {
         "symbol": "DS_EURUSD",
@@ -1113,18 +1113,18 @@
       {
         "symbol": "DS_USDTRY",
         "category": "DOVIZ",
-        "bid": 49.1,
+        "bid": 49.11,
         "ask": 49.21,
-        "change": 0,
-        "changePct": 0
+        "change": 0.00999999999999801,
+        "changePct": 0.02036659877800002
       },
       {
         "symbol": "DS_ALTIN",
         "category": "MADEN",
-        "bid": 6611.19,
+        "bid": 6612.54,
         "ask": 6644.73,
-        "change": 0,
-        "changePct": 0
+        "change": 1.3500000000003638,
+        "changePct": 0.02041992440090761
       },
       {
         "symbol": "DS_BANKAALTIN",
@@ -1153,10 +1153,10 @@
       {
         "symbol": "DS_EURTRY",
         "category": "DOVIZ",
-        "bid": 54.891,
+        "bid": 54.902,
         "ask": 55.098,
-        "change": 0,
-        "changePct": 0
+        "change": 0.011000000000002785,
+        "changePct": 0.0200397150716926
       },
       {
         "symbol": "DS_BANKAUSD",
@@ -1257,18 +1257,18 @@
       {
         "symbol": "DS_14AYAR",
         "category": "DOVIZ",
-        "bid": 3612.27,
+        "bid": 3613.02,
         "ask": 4819.07,
-        "change": 0,
-        "changePct": 0
+        "change": 0.75,
+        "changePct": 0.02076256758215748
       },
       {
         "symbol": "DS_22AYAR",
         "category": "DOVIZ",
-        "bid": 6014.18,
+        "bid": 6015.41,
         "ask": 6232.49,
-        "change": 0,
-        "changePct": 0
+        "change": 1.2299999999995634,
+        "changePct": 0.0204516658962579
       },
       {
         "symbol": "DS_GUMUSUSD",
@@ -1289,98 +1289,98 @@
       {
         "symbol": "DS_CEYREK_ESKI",
         "category": "DOVIZ",
-        "bid": 10677,
+        "bid": 10679,
         "ask": 10856,
-        "change": 0,
-        "changePct": 0
+        "change": 2,
+        "changePct": 0.018731853516905497
       },
       {
         "symbol": "DS_CEYREK_YENI",
         "category": "DOVIZ",
-        "bid": 10776,
+        "bid": 10778,
         "ask": 10869,
-        "change": 0,
-        "changePct": 0
+        "change": 2,
+        "changePct": 0.01855976243504083
       },
       {
         "symbol": "DS_YARIM_ESKI",
         "category": "DOVIZ",
-        "bid": 21155.8,
+        "bid": 21160.1,
         "ask": 21372.8,
-        "change": 0,
-        "changePct": 0
+        "change": 4.299999999999272,
+        "changePct": 0.02032539539983963
       },
       {
         "symbol": "DS_YARIM_YENI",
         "category": "DOVIZ",
-        "bid": 21552.5,
+        "bid": 21556.9,
         "ask": 21718.3,
-        "change": 0,
-        "changePct": 0
+        "change": 4.400000000001455,
+        "changePct": 0.020415265050464936
       },
       {
         "symbol": "DS_TEK_ESKI",
         "category": "DOVIZ",
-        "bid": 42457.1,
+        "bid": 42465.7,
         "ask": 42745.6,
-        "change": 0,
-        "changePct": 0
+        "change": 8.599999999998545,
+        "changePct": 0.020255740500407578
       },
       {
         "symbol": "DS_TEK_YENI",
         "category": "DOVIZ",
-        "bid": 42992.6,
+        "bid": 43001.3,
         "ask": 43330.4,
-        "change": 0,
-        "changePct": 0
+        "change": 8.700000000004366,
+        "changePct": 0.020236040620954226
       },
       {
         "symbol": "DS_ATA_ESKI",
         "category": "DOVIZ",
-        "bid": 43766.1,
+        "bid": 43775,
         "ask": 44074.6,
-        "change": 0,
-        "changePct": 0
+        "change": 8.900000000001455,
+        "changePct": 0.020335373725329547
       },
       {
         "symbol": "DS_ATA_YENI",
         "category": "DOVIZ",
-        "bid": 44063.6,
+        "bid": 44072.6,
         "ask": 44426.7,
-        "change": 0,
-        "changePct": 0
+        "change": 9,
+        "changePct": 0.020425022013634837
       },
       {
         "symbol": "DS_GREMESE_ESKI",
         "category": "DOVIZ",
-        "bid": 105779,
+        "bid": 105800.6,
         "ask": 107030.2,
-        "change": 0,
-        "changePct": 0
+        "change": 21.60000000000582,
+        "changePct": 0.02041993212263854
       },
       {
         "symbol": "DS_GREMESE_YENI",
         "category": "DOVIZ",
-        "bid": 107101.3,
+        "bid": 107123.1,
         "ask": 108359.1,
-        "change": 0,
-        "changePct": 0
+        "change": 21.80000000000291,
+        "changePct": 0.020354561522598614
       },
       {
         "symbol": "DS_ATA5_ESKI",
         "category": "DOVIZ",
-        "bid": 218830.4,
+        "bid": 218875.1,
         "ask": 220987.3,
-        "change": 0,
-        "changePct": 0
+        "change": 44.70000000001164,
+        "changePct": 0.02042677799794345
       },
       {
         "symbol": "DS_ATA5_YENI",
         "category": "DOVIZ",
-        "bid": 219491.5,
+        "bid": 219536.3,
         "ask": 222648.5,
-        "change": 0,
-        "changePct": 0
+        "change": 44.79999999998836,
+        "changePct": 0.02041081317499236
       },
       {
         "symbol": "DS_USDILS",
