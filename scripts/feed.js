@@ -108,8 +108,10 @@ for (const [k, v] of Object.entries(current)) {
   state.last[k] = v;
 }
 
+// Durumda kapanis yoksa (ilk gun / gecmis sonradan dolduruldu) gunluk dosyadaki dunku kapanis kullanilir
+const dailyPrevClose = prevCloseFromDaily(today);
 const dayInfo = (key, value) => {
-  const pc = state.prevClose[key] ?? null;
+  const pc = state.prevClose[key] ?? dailyPrevClose[key] ?? null;
   const change = value != null && pc > 0 ? value - pc : null;
   return {
     prevClose: pc,
