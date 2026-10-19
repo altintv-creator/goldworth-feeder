@@ -1,16 +1,75 @@
 {
-  "updatedAt": "2026-10-19T06:00:51.951Z",
+  "updatedAt": "2026-10-19T06:30:38.833Z",
+  "historyFiles": {
+    "daily": "history/daily.json",
+    "intraday": "history/intraday.json"
+  },
   "global": {
     "base": "USD",
-    "goldPerOz": 4184.935,
-    "silverPerOz": 57.811,
-    "goldPerGram": 134.54878459118115,
-    "silverPerGram": 1.8586668098789523,
+    "goldPerOz": 4175.57,
+    "silverPerOz": 57.672,
+    "goldPerGram": 134.24769284956594,
+    "silverPerGram": 1.854197856105913,
+    "platinumPerOz": 1654,
+    "palladiumPerOz": 1129.636,
+    "day": {
+      "gold": {
+        "price": 4175.57,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4175.57,
+        "dayHigh": 4175.57,
+        "dayLow": 4175.57
+      },
+      "silver": {
+        "price": 57.672,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 57.672,
+        "dayHigh": 57.672,
+        "dayLow": 57.672
+      },
+      "platinum": {
+        "price": 1654,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1654,
+        "dayHigh": 1654,
+        "dayLow": 1654
+      },
+      "palladium": {
+        "price": 1129.636,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1129.636,
+        "dayHigh": 1129.636,
+        "dayLow": 1129.636
+      }
+    },
+    "lbma": {
+      "goldAm": 4181.9,
+      "goldPm": 4189.2,
+      "silver": 57.705,
+      "platinumAm": 1634.65,
+      "platinumPm": 1639.9,
+      "palladiumAm": 1132.95,
+      "palladiumPm": 1128.55
+    },
+    "india": {
+      "ibjaGold": 4805.6279,
+      "ibjaSilver": 69.2209,
+      "mcxGold": 4860.4284,
+      "mcxSilver": 69.5671
+    },
     "allMetals": {
-      "gold": 4184.935,
-      "silver": 57.811,
-      "platinum": 1657.151,
-      "palladium": 1134.075,
+      "gold": 4175.57,
+      "silver": 57.672,
+      "platinum": 1654,
+      "palladium": 1129.636,
       "lbma_gold_am": 4181.9,
       "lbma_gold_pm": 4189.2,
       "lbma_silver": 57.705,
@@ -18,17 +77,17 @@
       "lbma_platinum_pm": 1639.9,
       "lbma_palladium_am": 1132.95,
       "lbma_palladium_pm": 1128.55,
-      "mcx_gold": 4864.8178,
-      "mcx_gold_am": 4782.7954,
-      "mcx_gold_pm": 4782.7954,
-      "mcx_silver": 69.6097,
-      "mcx_silver_am": 69.0613,
-      "mcx_silver_pm": 69.0613,
-      "ibja_gold": 4800.3745,
-      "ibja_silver": 69.1431,
-      "copper": 0.4582,
-      "aluminum": 0.0931,
-      "lead": 0.0586,
+      "mcx_gold": 4860.4284,
+      "mcx_gold_am": 4788.0307,
+      "mcx_gold_pm": 4788.0307,
+      "mcx_silver": 69.5671,
+      "mcx_silver_am": 69.1369,
+      "mcx_silver_pm": 69.1369,
+      "ibja_gold": 4805.6279,
+      "ibja_silver": 69.2209,
+      "copper": 0.4575,
+      "aluminum": 0.093,
+      "lead": 0.0587,
       "nickel": 0.4774,
       "zinc": 0.1151,
       "lme_copper": 0.4505,
@@ -39,380 +98,521 @@
     },
     "allCurrencies": {
       "AED": 0.2722940776,
-      "AFN": 0.015388699,
-      "ALL": 0.0123253453,
-      "AMD": 0.0027628587,
-      "ANG": 0.5539512801,
-      "AOA": 0.0010873522,
-      "ARS": 0.0006586296,
-      "AUD": 0.6974750308,
+      "AFN": 0.0153930727,
+      "ALL": 0.0123141736,
+      "AMD": 0.0027627978,
+      "ANG": 0.5539333697,
+      "AOA": 0.0010873469,
+      "ARS": 0.0006588876,
+      "AUD": 0.6972232223,
       "AWG": 0.5586592179,
-      "AZN": 0.5882343879,
-      "BAM": 0.5740502748,
+      "AZN": 0.5882304641,
+      "BAM": 0.5736211331,
       "BBD": 0.5,
-      "BDT": 0.0081066884,
-      "BGN": 0.5740502748,
+      "BDT": 0.0081025478,
+      "BGN": 0.5736211331,
       "BHD": 2.6595744681,
-      "BIF": 0.0003330696,
+      "BIF": 0.0003331307,
       "BMD": 1,
-      "BND": 0.7816475099,
-      "BOB": 0.0855300784,
-      "BRL": 0.1975088394,
+      "BND": 0.7815041551,
+      "BOB": 0.0855825948,
+      "BRL": 0.1974976038,
       "BSD": 1,
-      "BTC": 82642.5791096089,
-      "BTN": 0.0105398741,
-      "BWP": 0.0728226005,
+      "BTC": 82643.2620948414,
+      "BTN": 0.0105514113,
+      "BWP": 0.0728132574,
       "BYN": 0.33333333333333,
       "BYR": 0.000036561,
-      "BZD": 0.4953158798,
-      "CAD": 0.7080828626,
-      "CDF": 0.0004327368,
-      "CHF": 1.2127937798,
-      "CLP": 0.0010185146,
-      "CNH": 0.1496855388,
-      "CNY": 0.1496486293,
-      "COP": 0.0003146729,
-      "CRC": 0.0021994199,
+      "BZD": 0.4947398055,
+      "CAD": 0.7089026307,
+      "CDF": 0.0004327516,
+      "CHF": 1.2131240437,
+      "CLP": 0.0010194227,
+      "CNH": 0.149673361,
+      "CNY": 0.1496519596,
+      "COP": 0.0003146811,
+      "CRC": 0.0021996218,
       "CUC": 1,
       "CUP": 0.04166666666667,
-      "CVE": 0.0101817788,
-      "CZK": 0.0461455194,
-      "DJF": 0.0056106797,
-      "DKK": 0.1501972247,
-      "DOP": 0.0162558173,
-      "DZD": 0.0074348939,
-      "EEK": 0.0717562844,
-      "EGP": 0.0186858224,
+      "CVE": 0.0101741672,
+      "CZK": 0.0461195269,
+      "DJF": 0.0056107445,
+      "DKK": 0.1500885803,
+      "DOP": 0.0162633853,
+      "DZD": 0.007437054,
+      "EEK": 0.0717026416,
+      "EGP": 0.0186851116,
       "ERN": 0.0666666667,
-      "ETB": 0.0061046004,
-      "EUR": 1.1227447489,
-      "FJD": 0.442598649,
-      "FKP": 1.3331307238,
-      "GBP": 1.3331307238,
-      "GEL": 0.3857626345,
-      "GGP": 1.3331307238,
-      "GHS": 0.0857489672,
-      "GIP": 1.3331307238,
-      "GMD": 0.0134933014,
-      "GNF": 0.0001130913,
-      "GTQ": 0.1307830426,
-      "GYD": 0.0047676592,
-      "HKD": 0.1274242208,
-      "HNL": 0.0372106206,
-      "HRK": 0.1490138362,
-      "HTG": 0.0076185865,
-      "HUF": 0.0030973047,
-      "IDR": 0.0000554299,
-      "ILS": 0.3225565192,
-      "IMP": 1.3331307238,
-      "INR": 0.0105398741,
-      "IQD": 0.0006578918,
+      "ETB": 0.0061120644,
+      "EUR": 1.1219054208,
+      "FJD": 0.4425972605,
+      "FKP": 1.3327029677,
+      "GBP": 1.3327029677,
+      "GEL": 0.3852517236,
+      "GGP": 1.3327029677,
+      "GHS": 0.0856729458,
+      "GIP": 1.3327029677,
+      "GMD": 0.0134939749,
+      "GNF": 0.000113078,
+      "GTQ": 0.1307730965,
+      "GYD": 0.0047673542,
+      "HKD": 0.1274245345,
+      "HNL": 0.0372151708,
+      "HRK": 0.1489024382,
+      "HTG": 0.0076187231,
+      "HUF": 0.0030957903,
+      "IDR": 0.0000554041,
+      "ILS": 0.3220644129,
+      "IMP": 1.3327029677,
+      "INR": 0.0105514113,
+      "IQD": 0.0006578489,
       "IRR": 5.5218721e-7,
-      "ISK": 0.0082428671,
-      "JEP": 1.3331307238,
-      "JMD": 0.0062790744,
+      "ISK": 0.0082367461,
+      "JEP": 1.3327029677,
+      "JMD": 0.0062803162,
       "JOD": 1.4104372355,
-      "JPY": 0.0063250377,
-      "KES": 0.0076968072,
-      "KGS": 0.0114338812,
-      "KHR": 0.0002454175,
-      "KMF": 0.0022821511,
+      "JPY": 0.0063253591,
+      "KES": 0.0077016774,
+      "KGS": 0.0114334648,
+      "KHR": 0.0002454906,
+      "KMF": 0.0022804451,
       "KPW": 0.0011109408,
-      "KRW": 0.0007525274,
-      "KWD": 3.2177344244,
-      "KYD": 1.2017860986,
-      "KZT": 0.0022056554,
-      "LAK": 0.0000443391,
-      "LBP": 0.0000110861,
-      "LKR": 0.0030145336,
-      "LRD": 0.005856902,
-      "LSL": 0.0607739488,
-      "LTL": 0.325169355,
-      "LVL": 1.5975309461,
-      "LYD": 0.1553002963,
-      "MAD": 0.1026945609,
-      "MDL": 0.0556486316,
-      "MGA": 0.0002214189,
-      "MKD": 0.0182187334,
-      "MMK": 0.0004764005,
-      "MNT": 0.000277908,
-      "MOP": 0.1237128357,
-      "MRU": 0.0249383541,
-      "MUR": 0.021165136,
-      "MVR": 0.0646860818,
-      "MWK": 0.0005752034,
-      "MXN": 0.0541912748,
-      "MYR": 0.2449654405,
-      "MZN": 0.015666188,
-      "NAD": 0.0607739488,
-      "NGN": 0.0007503893,
-      "NIO": 0.0271381945,
-      "NOK": 0.1060637286,
-      "NPR": 0.0065843349,
+      "KRW": 0.0007510824,
+      "KWD": 3.2172972546,
+      "KYD": 1.2020290793,
+      "KZT": 0.0022065353,
+      "LAK": 0.0000443186,
+      "LBP": 0.0000111194,
+      "LKR": 0.0030152028,
+      "LRD": 0.0058568981,
+      "LSL": 0.0607453698,
+      "LTL": 0.3249262688,
+      "LVL": 1.5963366829,
+      "LYD": 0.1552932073,
+      "MAD": 0.1025074286,
+      "MDL": 0.0556482621,
+      "MGA": 0.0002215859,
+      "MKD": 0.0182187167,
+      "MMK": 0.0004763033,
+      "MNT": 0.0002778629,
+      "MOP": 0.1237131403,
+      "MRU": 0.0249375993,
+      "MUR": 0.0211675068,
+      "MVR": 0.0646854481,
+      "MWK": 0.0005754967,
+      "MXN": 0.0541490216,
+      "MYR": 0.2449867928,
+      "MZN": 0.0156670419,
+      "NAD": 0.0607453698,
+      "NGN": 0.0007501683,
+      "NIO": 0.027145023,
+      "NOK": 0.1060272121,
+      "NPR": 0.0065915423,
       "NTD": 0.0337206,
-      "NZD": 0.5658118819,
-      "OMR": 2.5979935647,
+      "NZD": 0.5657355252,
+      "OMR": 2.5979541221,
       "PAB": 1,
-      "PEN": 0.2903928762,
-      "PGK": 0.2198203579,
-      "PHP": 0.0158512132,
-      "PKR": 0.003606272,
-      "PLN": 0.2568745345,
-      "PYG": 0.0001749252,
+      "PEN": 0.2903528786,
+      "PGK": 0.2198626684,
+      "PHP": 0.0158503371,
+      "PKR": 0.0036079965,
+      "PLN": 0.2567723277,
+      "PYG": 0.0001748287,
       "QAR": 0.2747252747,
-      "RON": 0.2107388425,
-      "RSD": 0.0095755523,
-      "RUB": 0.01201331074831,
-      "RWF": 0.0006771146,
+      "RON": 0.2105415171,
+      "RSD": 0.0095541911,
+      "RUB": 0.01203514261644,
+      "RWF": 0.0006771207,
       "SAR": 0.2666666667,
-      "SBD": 0.1239200892,
-      "SCR": 0.0683917339,
-      "SDG": 0.0016660738,
-      "SEK": 0.1008890342,
-      "SGD": 0.7816475099,
-      "SHP": 1.3331307238,
-      "SKK": 0.0372682981,
-      "SLE": 0.0435447643,
+      "SBD": 0.1239164848,
+      "SCR": 0.0694143516,
+      "SDG": 0.0016659611,
+      "SEK": 0.1008607855,
+      "SGD": 0.7815041551,
+      "SHP": 1.3327029677,
+      "SKK": 0.0372404375,
+      "SLE": 0.043544763,
       "SLL": 0.0000440506,
-      "SOS": 0.0017470436,
+      "SOS": 0.0017479912,
       "SPL": 6.000000024,
-      "SRD": 0.0264423416,
-      "STN": 0.0455090352,
+      "SRD": 0.0264412436,
+      "STN": 0.0454906681,
       "SVC": 0.1142857143,
       "SYP": 0.00822909809085,
-      "SZL": 0.0607739488,
-      "THB": 0.0298310334,
-      "TJS": 0.1085090378,
-      "TMT": 0.2860067657,
-      "TND": 0.3365879028,
-      "TOP": 0.4155213476,
-      "TRY": 0.0201827278,
-      "TTD": 0.1472559366,
-      "TVD": 0.6974750308,
-      "TWD": 0.0307843622,
-      "TZS": 0.0003786278,
-      "UAH": 0.0222657823,
-      "UGX": 0.0002416932,
+      "SZL": 0.0607453698,
+      "THB": 0.0298162928,
+      "TJS": 0.1085057366,
+      "TMT": 0.2859207703,
+      "TND": 0.3378425609,
+      "TOP": 0.415505482,
+      "TRY": 0.0201832292,
+      "TTD": 0.1472557714,
+      "TVD": 0.6972232223,
+      "TWD": 0.0307381164,
+      "TZS": 0.0003785595,
+      "UAH": 0.022232403,
+      "UGX": 0.000240999,
       "USD": 1,
-      "UYU": 0.0248417568,
-      "UZS": 0.0000826958,
-      "VED": 0.0011371683,
+      "UYU": 0.0248431879,
+      "UZS": 0.0000827694,
+      "VED": 0.001137154,
       "VEF": 2.77168e-7,
-      "VES": 0.0011371683,
-      "VND": 0.0000386025,
-      "VUV": 0.0083660843,
-      "WST": 0.3587359077,
-      "XAF": 0.0017116133,
-      "XCD": 0.3693725946,
-      "XDR": 1.356450494,
-      "XOF": 0.0017116133,
-      "XPF": 0.009408601,
-      "YER": 0.0042342886,
-      "ZAR": 0.0607739488,
-      "ZMW": 0.0497608513,
+      "VES": 0.001137154,
+      "VND": 0.0000386405,
+      "VUV": 0.0083651431,
+      "WST": 0.3587164161,
+      "XAF": 0.0017103338,
+      "XCD": 0.3693666727,
+      "XDR": 1.3563964364,
+      "XOF": 0.0017103338,
+      "XPF": 0.0094015674,
+      "YER": 0.0042342504,
+      "ZAR": 0.0607453698,
+      "ZMW": 0.0498290287,
       "ZWD": 0.00276319,
-      "ZWL": 0.0000150406
+      "ZWL": 0.0000150357
     },
     "unitsPerUsd": {
-      "TRY": 49.54731639397128,
-      "EUR": 0.8906743950303414,
-      "INR": 94.87779365410066,
+      "TRY": 49.546085519357824,
+      "EUR": 0.8913407328818568,
+      "INR": 94.77405169486663,
       "AED": 3.6725000000514147,
-      "SAR": 3.74999999953125
+      "SAR": 3.74999999953125,
+      "GBP": 0.7503547483846427,
+      "CHF": 0.8243180119899556
     }
   },
   "tr": {
-    "altin": 6631.63,
-    "gumus": 86.2916,
+    "altin": 6614.94,
+    "gumus": 86.1013,
     "usd": 49.45,
-    "eur": 55.368,
-    "gbp": 65.575,
+    "eur": 55.338,
+    "gbp": 65.557,
     "stale": false,
-    "sourceUpdatedAt": "2026-10-19T06:00:51.553Z",
+    "sourceUpdatedAt": "2026-10-19T06:30:37.891Z",
+    "dayStart": "2026-10-19",
     "symbols": [
       {
         "symbol": "PARUSD",
         "category": "MADEN",
-        "bid": 133.407,
-        "ask": 133.755,
-        "change": 0.11200000000002319,
-        "changePct": 0.08402415694513912
+        "bid": 133.105,
+        "ask": 133.453,
+        "change": -0.3020000000000209,
+        "changePct": -0.22637492785237723,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 133.105,
+        "dayHigh": 133.105,
+        "dayLow": 133.105
       },
       {
         "symbol": "ALTIN",
         "category": "GRAM ALTIN",
-        "bid": 6631.63,
-        "ask": 6657.18,
-        "change": 6.9099999999998545,
-        "changePct": 0.10430629520945571
+        "bid": 6614.94,
+        "ask": 6640.46,
+        "change": -16.69000000000051,
+        "changePct": -0.2516726656945654,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6614.94,
+        "dayHigh": 6614.94,
+        "dayLow": 6614.94
       },
       {
         "symbol": "PAREUR",
         "category": "MADEN",
-        "bid": 118.943,
-        "ask": 119.465,
-        "change": 0.15500000000000114,
-        "changePct": 0.13048456073004103
+        "bid": 118.733,
+        "ask": 119.255,
+        "change": -0.20999999999999375,
+        "changePct": -0.17655515667167782,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 118.733,
+        "dayHigh": 118.733,
+        "dayLow": 118.733
       },
       {
         "symbol": "PARGBP",
         "category": "MADEN",
-        "bid": 100.269,
-        "ask": 100.865,
-        "change": 0.10699999999999932,
-        "changePct": 0.10682694035662157
+        "bid": 100.067,
+        "ask": 100.663,
+        "change": -0.2020000000000124,
+        "changePct": -0.2014580777708089,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 100.067,
+        "dayHigh": 100.067,
+        "dayLow": 100.067
       },
       {
         "symbol": "PARCHF",
         "category": "MADEN",
-        "bid": 111.0613,
-        "ask": 110.4549,
-        "change": 0.09319999999999595,
-        "changePct": 0.08398810108490273
+        "bid": 110.7966,
+        "ask": 110.2055,
+        "change": -0.2647000000000048,
+        "changePct": -0.23833684640824915,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 110.7966,
+        "dayHigh": 110.7966,
+        "dayLow": 110.7966
       },
       {
         "symbol": "XAUUSD",
         "category": "MADEN",
-        "bid": 4183.19,
-        "ask": 4183.81,
-        "change": 5.210000000000036,
-        "changePct": 0.1247014107295879
+        "bid": 4175.3,
+        "ask": 4175.91,
+        "change": -7.889999999999418,
+        "changePct": -0.18861204009379012,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4175.3,
+        "dayHigh": 4175.3,
+        "dayLow": 4175.3
       },
       {
         "symbol": "XAUXAG",
         "category": "MADEN",
-        "bid": 70.57,
-        "ask": 76.65,
-        "change": -0.18000000000000682,
-        "changePct": -0.2544169611307517
+        "bid": 70.56,
+        "ask": 76.66,
+        "change": -0.009999999999990905,
+        "changePct": -0.014170327334548543,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 70.56,
+        "dayHigh": 70.56,
+        "dayLow": 70.56
       },
       {
         "symbol": "XAGUSD",
         "category": "MADEN",
-        "bid": 57.78,
-        "ask": 57.81,
-        "change": 0.21000000000000085,
-        "changePct": 0.36477331943720837
+        "bid": 57.64,
+        "ask": 57.66,
+        "change": -0.14000000000000057,
+        "changePct": -0.2422983731394956,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 57.64,
+        "dayHigh": 57.64,
+        "dayLow": 57.64
       },
       {
         "symbol": "GUMUSD",
         "category": "MADEN",
-        "bid": 1.7449,
-        "ask": 1.8904,
-        "change": 0.006299999999999972,
-        "changePct": 0.3623605199585858
+        "bid": 1.7411,
+        "ask": 1.8866,
+        "change": -0.0037999999999998035,
+        "changePct": -0.21777752306721324,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.7411,
+        "dayHigh": 1.7411,
+        "dayLow": 1.7411
       },
       {
         "symbol": "GUMTRY",
         "category": "MADEN",
-        "bid": 86.2916,
-        "ask": 93.6075,
-        "change": 0.32260000000000844,
-        "changePct": 0.3752515441612773
+        "bid": 86.1013,
+        "ask": 93.4193,
+        "change": -0.19030000000000769,
+        "changePct": -0.2205313147513868,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 86.1013,
+        "dayHigh": 86.1013,
+        "dayLow": 86.1013
       },
       {
         "symbol": "AUDTRY",
         "category": "DOVIZ",
-        "bid": 33.736,
-        "ask": 34.333,
-        "change": 0,
-        "changePct": 0
+        "bid": 33.73,
+        "ask": 34.328,
+        "change": -0.006000000000000227,
+        "changePct": -0.017785155323690502,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 33.73,
+        "dayHigh": 33.73,
+        "dayLow": 33.73
       },
       {
         "symbol": "USDTRY",
         "category": "DOVIZ",
         "bid": 49.45,
         "ask": 49.518,
-        "change": 0.007000000000005002,
-        "changePct": 0.014157716967022636
+        "change": 0,
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 49.45,
+        "dayHigh": 49.45,
+        "dayLow": 49.45
       },
       {
         "symbol": "EURTRY",
         "category": "DOVIZ",
-        "bid": 55.368,
-        "ask": 55.542,
+        "bid": 55.338,
+        "ask": 55.512,
         "change": -0.030000000000001137,
-        "changePct": -0.054153579551610403
+        "changePct": -0.05418292154313165,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 55.338,
+        "dayHigh": 55.338,
+        "dayLow": 55.338
       },
       {
         "symbol": "GBPTRY",
         "category": "DOVIZ",
-        "bid": 65.575,
-        "ask": 65.884,
-        "change": -0.0049999999999954525,
-        "changePct": -0.007624275693802154
+        "bid": 65.557,
+        "ask": 65.866,
+        "change": -0.018000000000000682,
+        "changePct": -0.02744948532215125,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 65.557,
+        "dayHigh": 65.557,
+        "dayLow": 65.557
       },
       {
         "symbol": "CADTRY",
         "category": "DOVIZ",
-        "bid": 34.694,
-        "ask": 35.019,
-        "change": 0.008000000000002672,
-        "changePct": 0.023064060427846023
+        "bid": 34.726,
+        "ask": 35.051,
+        "change": 0.031999999999996476,
+        "changePct": 0.09223496858245367,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 34.726,
+        "dayHigh": 34.726,
+        "dayLow": 34.726
       },
       {
         "symbol": "CHFTRY",
         "category": "DOVIZ",
-        "bid": 59.401,
-        "ask": 59.961,
-        "change": 0.007000000000005002,
-        "changePct": 0.011785702259495913
+        "bid": 59.402,
+        "ask": 59.962,
+        "change": 0.0009999999999976694,
+        "changePct": 0.0016834733421957028,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 59.402,
+        "dayHigh": 59.402,
+        "dayLow": 59.402
       },
       {
         "symbol": "SARTRY",
         "category": "DOVIZ",
         "bid": 12.879,
         "ask": 13.312,
-        "change": 0.0019999999999988916,
-        "changePct": 0.015531567911772085
+        "change": 0,
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 12.879,
+        "dayHigh": 12.879,
+        "dayLow": 12.879
       },
       {
         "symbol": "JPYTRY",
         "category": "DOVIZ",
         "bid": 0.306,
         "ask": 0.3132,
-        "change": 0.00009999999999998899,
-        "changePct": 0.032690421706436414
+        "change": 0,
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.306,
+        "dayHigh": 0.306,
+        "dayLow": 0.306
       },
       {
         "symbol": "NOKTRY",
         "category": "DOVIZ",
-        "bid": 3.6815,
-        "ask": 5.2292,
-        "change": -0.0013999999999998458,
-        "changePct": -0.03801352195280474
+        "bid": 3.6809,
+        "ask": 5.2278,
+        "change": -0.000600000000000378,
+        "changePct": -0.01629770473992606,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.6809,
+        "dayHigh": 3.6809,
+        "dayLow": 3.6809
       },
       {
         "symbol": "SEKTRY",
         "category": "DOVIZ",
-        "bid": 3.5536,
-        "ask": 4.9752,
-        "change": -0.000700000000000145,
-        "changePct": -0.019694454604286215
+        "bid": 3.5532,
+        "ask": 4.9743,
+        "change": -0.00039999999999995595,
+        "changePct": -0.01125619090499651,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.5532,
+        "dayHigh": 3.5532,
+        "dayLow": 3.5532
       },
       {
         "symbol": "DKKTRY",
         "category": "DOVIZ",
-        "bid": 1.5211,
-        "ask": 7.2729,
-        "change": 0,
-        "changePct": 0
+        "bid": 1.521,
+        "ask": 7.2693,
+        "change": -0.00009999999999998899,
+        "changePct": -0.006574189731114916,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.521,
+        "dayHigh": 1.521,
+        "dayLow": 1.521
       },
       {
         "symbol": "EURUSD",
         "category": "PARITE",
-        "bid": 1.1197,
-        "ask": 1.1217,
-        "change": -0.000700000000000145,
-        "changePct": -0.06247768654053418
+        "bid": 1.1191,
+        "ask": 1.1211,
+        "change": -0.0005999999999999339,
+        "changePct": -0.05358578190586174,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.1191,
+        "dayHigh": 1.1191,
+        "dayLow": 1.1191
       },
       {
         "symbol": "GBPUSD",
         "category": "PARITE",
         "bid": 1.326,
-        "ask": 1.331,
+        "ask": 1.33,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.326,
+        "dayHigh": 1.326,
+        "dayLow": 1.326
       },
       {
         "symbol": "USDCHF",
@@ -420,15 +620,27 @@
         "bid": 0.826,
         "ask": 0.833,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.826,
+        "dayHigh": 0.826,
+        "dayLow": 0.826
       },
       {
         "symbol": "USDCAD",
         "category": "PARITE",
-        "bid": 1.414,
-        "ask": 1.425,
-        "change": 0,
-        "changePct": 0
+        "bid": 1.413,
+        "ask": 1.424,
+        "change": -0.0009999999999998899,
+        "changePct": -0.07072135785006294,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.413,
+        "dayHigh": 1.413,
+        "dayLow": 1.413
       },
       {
         "symbol": "AUDUSD",
@@ -436,7 +648,13 @@
         "bid": 0.682,
         "ask": 0.693,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.682,
+        "dayHigh": 0.682,
+        "dayLow": 0.682
       },
       {
         "symbol": "USDSAR",
@@ -444,127 +662,223 @@
         "bid": 3.72,
         "ask": 3.84,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.72,
+        "dayHigh": 3.72,
+        "dayLow": 3.72
       },
       {
         "symbol": "USDJPY",
         "category": "PARITE",
-        "bid": 158.105,
-        "ask": 161.622,
-        "change": -0.016000000000019554,
-        "changePct": -0.010118833045591386
+        "bid": 158.098,
+        "ask": 161.616,
+        "change": -0.0069999999999765805,
+        "changePct": -0.004427437462431031,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 158.098,
+        "dayHigh": 158.098,
+        "dayLow": 158.098
       },
       {
         "symbol": "USDNOK",
         "category": "PARITE",
-        "bid": 9.4695,
-        "ask": 13.4318,
-        "change": 0.007199999999999207,
-        "changePct": 0.07609143654290401
+        "bid": 9.4721,
+        "ask": 13.4343,
+        "change": 0.0025999999999992696,
+        "changePct": 0.027456571096671097,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 9.4721,
+        "dayHigh": 9.4721,
+        "dayLow": 9.4721
       },
       {
         "symbol": "USDSEK",
         "category": "PARITE",
-        "bid": 9.9531,
-        "ask": 13.9154,
-        "change": 0.005799999999998917,
-        "changePct": 0.058307279362228105
+        "bid": 9.9548,
+        "ask": 13.9169,
+        "change": 0.001700000000001367,
+        "changePct": 0.017080105695726627,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 9.9548,
+        "dayHigh": 9.9548,
+        "dayLow": 9.9548
       },
       {
         "symbol": "USDDKK",
         "category": "PARITE",
-        "bid": 6.8086,
-        "ask": 32.5085,
-        "change": 0.0030999999999998806,
-        "changePct": 0.045551392256261564
+        "bid": 6.8119,
+        "ask": 32.5118,
+        "change": 0.0032999999999994145,
+        "changePct": 0.04846811385599704,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6.8119,
+        "dayHigh": 6.8119,
+        "dayLow": 6.8119
       },
       {
         "symbol": "XAUEUR",
         "category": "MADEN",
-        "bid": 3729.6297,
-        "ask": 3736.8125,
-        "change": 6.371200000000044,
-        "changePct": 0.17111892714406063
+        "bid": 3724.488,
+        "ask": 3731.623,
+        "change": -5.141700000000128,
+        "changePct": -0.13786087128167518,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3724.488,
+        "dayHigh": 3724.488,
+        "dayLow": 3724.488
       },
       {
         "symbol": "XPTUSD",
         "category": "MADEN",
-        "bid": 1657.7,
-        "ask": 1659.7,
-        "change": 5,
-        "changePct": 0.30253524535608395
+        "bid": 1652.5,
+        "ask": 1655.2,
+        "change": -5.2000000000000455,
+        "changePct": -0.31368763950051554,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1652.5,
+        "dayHigh": 1652.5,
+        "dayLow": 1652.5
       },
       {
         "symbol": "XPDUSD",
         "category": "MADEN",
-        "bid": 1134.2,
-        "ask": 1136.7,
-        "change": 2.7999999999999545,
-        "changePct": 0.24748099699486958
+        "bid": 1129.7,
+        "ask": 1131.9,
+        "change": -4.5,
+        "changePct": -0.39675542232410504,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1129.7,
+        "dayHigh": 1129.7,
+        "dayLow": 1129.7
       },
       {
         "symbol": "PLATIN",
         "category": "MADEN",
-        "bid": 48300,
-        "ask": 53360,
-        "change": 170,
-        "changePct": 0.35321005609806777
+        "bid": 48130,
+        "ask": 53220,
+        "change": -170,
+        "changePct": -0.35196687370600416,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 48130,
+        "dayHigh": 48130,
+        "dayLow": 48130
       },
       {
         "symbol": "PALADYUM",
         "category": "MADEN",
-        "bid": 26470,
-        "ask": 36540,
-        "change": 100,
-        "changePct": 0.37921880925293894
+        "bid": 26320,
+        "ask": 36390,
+        "change": -150,
+        "changePct": -0.5666792595391008,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 26320,
+        "dayHigh": 26320,
+        "dayLow": 26320
       },
       {
         "symbol": "5 Gr Gram Altın",
         "category": "GRAM ALTIN",
-        "bid": 503.8139,
-        "ask": 509.3936,
-        "change": 0.5375999999999976,
-        "changePct": 0.10682005093424778
+        "bid": 502.799,
+        "ask": 508.3734,
+        "change": -1.0149000000000115,
+        "changePct": -0.20144342980612712,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 502.799,
+        "dayHigh": 502.799,
+        "dayLow": 502.799
       },
       {
         "symbol": "10 Gr Gram Altın",
         "category": "GRAM ALTIN",
-        "bid": 1340.6398,
-        "ask": 1350.9927,
-        "change": 1.1254999999998745,
-        "changePct": 0.08402299251302314
+        "bid": 1337.6049,
+        "ask": 1347.9424,
+        "change": -3.0348999999998796,
+        "changePct": -0.22637698806195963,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1337.6049,
+        "dayHigh": 1337.6049,
+        "dayLow": 1337.6049
       },
       {
         "symbol": "20 Gr Gram Altın",
         "category": "GRAM ALTIN",
-        "bid": 2015.2557,
-        "ask": 2037.5744,
-        "change": 2.1504999999999654,
-        "changePct": 0.10682501838453179
+        "bid": 2011.1958,
+        "ask": 2033.4938,
+        "change": -4.0598999999999705,
+        "changePct": -0.20145830625860384,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 2011.1958,
+        "dayHigh": 2011.1958,
+        "dayLow": 2011.1958
       },
       {
         "symbol": "50 Gr Gram Altın",
         "category": "GRAM ALTIN",
-        "bid": 5038.1394,
-        "ask": 5093.9359,
-        "change": 5.376400000000103,
-        "changePct": 0.10682799885470673
+        "bid": 5027.9896,
+        "ask": 5083.7344,
+        "change": -10.149800000000141,
+        "changePct": -0.201459292690475,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 5027.9896,
+        "dayHigh": 5027.9896,
+        "dayLow": 5027.9896
       },
       {
         "symbol": "100 Gr Gram Altın",
         "category": "GRAM ALTIN",
-        "bid": 10076.2787,
-        "ask": 10187.8719,
-        "change": 10.752700000000914,
-        "changePct": 0.10682700536465668
+        "bid": 10055.9792,
+        "ask": 10167.4688,
+        "change": -20.29950000000099,
+        "changePct": -0.2014583022599503,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 10055.9792,
+        "dayHigh": 10055.9792,
+        "dayLow": 10055.9792
       },
       {
         "symbol": "XAUUSDS",
         "category": "MADEN",
-        "bid": 4183.19,
-        "ask": 4183.81,
-        "change": 5.210000000000036,
-        "changePct": 0.1247014107295879
+        "bid": 4175.3,
+        "ask": 4175.91,
+        "change": -7.889999999999418,
+        "changePct": -0.18861204009379012,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4175.3,
+        "dayHigh": 4175.3,
+        "dayLow": 4175.3
       },
       {
         "symbol": "USDRUB",
@@ -572,31 +886,55 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "EURUSDS",
         "category": "DOVIZ",
-        "bid": 1.1196,
-        "ask": 1.1216,
-        "change": -0.0008000000000001339,
-        "changePct": -0.07140307033203623
+        "bid": 1.1191,
+        "ask": 1.121,
+        "change": -0.0004999999999999449,
+        "changePct": -0.044658806716679614,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.1191,
+        "dayHigh": 1.1191,
+        "dayLow": 1.1191
       },
       {
         "symbol": "KXAGUSD",
         "category": "MADEN",
-        "bid": 57.773,
-        "ask": 57.797,
-        "change": 0.19600000000000506,
-        "changePct": 0.34041370686212385
+        "bid": 57.653,
+        "ask": 57.679,
+        "change": -0.12000000000000455,
+        "changePct": -0.2077094836688497,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 57.653,
+        "dayHigh": 57.653,
+        "dayLow": 57.653
       },
       {
         "symbol": "XUSDTRY",
         "category": "DOVIZ",
-        "bid": 49.4497,
-        "ask": 49.5182,
-        "change": 0.006300000000003081,
-        "changePct": 0.012741842187234455
+        "bid": 49.45,
+        "ask": 49.518,
+        "change": 0.00030000000000285354,
+        "changePct": 0.0006066770880366383,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 49.45,
+        "dayHigh": 49.45,
+        "dayLow": 49.45
       },
       {
         "symbol": "FARKEUR",
@@ -604,7 +942,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "FARK",
@@ -612,23 +956,41 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "EURGBP",
         "category": "DOVIZ",
-        "bid": 0.8415,
-        "ask": 0.8458,
-        "change": -0.00039999999999995595,
-        "changePct": -0.04751158094785081
+        "bid": 0.8413,
+        "ask": 0.8456,
+        "change": -0.00019999999999997797,
+        "changePct": -0.023767082590609383,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.8413,
+        "dayHigh": 0.8413,
+        "dayLow": 0.8413
       },
       {
         "symbol": "EURCHF",
         "category": "DOVIZ",
-        "bid": 0.9262,
-        "ask": 0.9321,
-        "change": -0.00039999999999995595,
-        "changePct": -0.043168573278648384
+        "bid": 0.9257,
+        "ask": 0.9315,
+        "change": -0.000500000000000056,
+        "changePct": -0.05398402072987,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.9257,
+        "dayHigh": 0.9257,
+        "dayLow": 0.9257
       },
       {
         "symbol": "VADE FARK",
@@ -636,191 +998,335 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "BANKA ALTIN",
         "category": "MADEN",
-        "bid": 6624.0558,
-        "ask": 6645.4323,
-        "change": 5.876000000000204,
-        "changePct": 0.08878574136049014
+        "bid": 6609.094,
+        "ask": 6630.4051,
+        "change": -14.96180000000004,
+        "changePct": -0.2258706818260806,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6609.094,
+        "dayHigh": 6609.094,
+        "dayLow": 6609.094
       },
       {
         "symbol": "BANKAUSD",
         "category": "DOVIZ",
-        "bid": 49.4047,
-        "ask": 49.4352,
-        "change": 0.0022999999999981924,
-        "changePct": 0.004655644260194226
+        "bid": 49.405,
+        "ask": 49.435,
+        "change": 0.00030000000000285354,
+        "changePct": 0.0006072296765345272,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 49.405,
+        "dayHigh": 49.405,
+        "dayLow": 49.405
       },
       {
         "symbol": "AYAR22",
         "category": "SARRAFIYE",
-        "bid": 6032.78,
-        "ask": 6237.75,
-        "change": 6.279999999999745,
-        "changePct": 0.1042064216377623
+        "bid": 6017.59,
+        "ask": 6222.03,
+        "change": -15.1899999999996,
+        "changePct": -0.2517910482397767,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6017.59,
+        "dayHigh": 6017.59,
+        "dayLow": 6017.59
       },
       {
         "symbol": "KULCEALTIN",
         "category": "SARRAFIYE",
-        "bid": 6597.86,
-        "ask": 6676.53,
-        "change": 6.359999999999673,
-        "changePct": 0.09648790108472537
+        "bid": 6582.73,
+        "ask": 6661.25,
+        "change": -15.13000000000011,
+        "changePct": -0.2293167784705967,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6582.73,
+        "dayHigh": 6582.73,
+        "dayLow": 6582.73
       },
       {
         "symbol": "CEYREK_YENI",
         "category": "SARRAFIYE",
-        "bid": 10809,
-        "ask": 10882,
-        "change": 11,
-        "changePct": 0.1018707167994073
+        "bid": 10784,
+        "ask": 10857,
+        "change": -25,
+        "changePct": -0.23128874086409476,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 10784,
+        "dayHigh": 10784,
+        "dayLow": 10784
       },
       {
         "symbol": "CEYREK_ESKI",
         "category": "SARRAFIYE",
-        "bid": 10596,
-        "ask": 10689,
-        "change": 10,
-        "changePct": 0.09446438692612885
+        "bid": 10572,
+        "ask": 10664,
+        "change": -24,
+        "changePct": -0.22650056625141565,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 10572,
+        "dayHigh": 10572,
+        "dayLow": 10572
       },
       {
         "symbol": "YARIM_YENI",
         "category": "SARRAFIYE",
-        "bid": 21617,
-        "ask": 21757,
-        "change": 21,
-        "changePct": 0.0972402296721615
+        "bid": 21568,
+        "ask": 21707,
+        "change": -49,
+        "changePct": -0.22667345145024748,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 21568,
+        "dayHigh": 21568,
+        "dayLow": 21568
       },
       {
         "symbol": "YARIM_ESKI",
         "category": "SARRAFIYE",
-        "bid": 21189,
-        "ask": 21344,
-        "change": 20,
-        "changePct": 0.09447777410364212
+        "bid": 21141,
+        "ask": 21295,
+        "change": -48,
+        "changePct": -0.2265326348577092,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 21141,
+        "dayHigh": 21141,
+        "dayLow": 21141
       },
       {
         "symbol": "TEK_YENI",
         "category": "SARRAFIYE",
-        "bid": 43122,
-        "ask": 43387,
-        "change": 42,
-        "changePct": 0.09749303621169916
+        "bid": 43023,
+        "ask": 43288,
+        "change": -99,
+        "changePct": -0.22958118825657436,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 43023,
+        "dayHigh": 43023,
+        "dayLow": 43023
       },
       {
         "symbol": "TEK_ESKI",
         "category": "SARRAFIYE",
-        "bid": 42405,
-        "ask": 42689,
-        "change": 41,
-        "changePct": 0.09678028514776697
+        "bid": 42308,
+        "ask": 42591,
+        "change": -97,
+        "changePct": -0.22874661006956729,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 42308,
+        "dayHigh": 42308,
+        "dayLow": 42308
       },
       {
         "symbol": "ATA_YENI",
         "category": "SARRAFIYE",
-        "bid": 43698,
-        "ask": 44153,
-        "change": 42,
-        "changePct": 0.09620670698185817
+        "bid": 43598,
+        "ask": 44052,
+        "change": -100,
+        "changePct": -0.2288434253283903,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 43598,
+        "dayHigh": 43598,
+        "dayLow": 43598
       },
       {
         "symbol": "ATA_ESKI",
         "category": "SARRAFIYE",
-        "bid": 43665,
-        "ask": 44020,
-        "change": 42,
-        "changePct": 0.0962794855924627
+        "bid": 43565,
+        "ask": 43919,
+        "change": -100,
+        "changePct": -0.22901637467078895,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 43565,
+        "dayHigh": 43565,
+        "dayLow": 43565
       },
       {
         "symbol": "ATA5_YENI",
         "category": "SARRAFIYE",
-        "bid": 218824,
-        "ask": 222046,
-        "change": 212,
-        "changePct": 0.09697546337803963
+        "bid": 218322,
+        "ask": 221538,
+        "change": -502,
+        "changePct": -0.22940810879976603,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 218322,
+        "dayHigh": 218322,
+        "dayLow": 218322
       },
       {
         "symbol": "ATA5_ESKI",
         "category": "SARRAFIYE",
-        "bid": 218492,
-        "ask": 220715,
-        "change": 211,
-        "changePct": 0.09666439131211604
+        "bid": 217991,
+        "ask": 220210,
+        "change": -501,
+        "changePct": -0.22929901323618254,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 217991,
+        "dayHigh": 217991,
+        "dayLow": 217991
       },
       {
         "symbol": "GREMESE_YENI",
         "category": "SARRAFIYE",
-        "bid": 106958,
-        "ask": 107953,
-        "change": 103,
-        "changePct": 0.09639230733236628
+        "bid": 106713,
+        "ask": 107706,
+        "change": -245,
+        "changePct": -0.22906187475457657,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 106713,
+        "dayHigh": 106713,
+        "dayLow": 106713
       },
       {
         "symbol": "GREMESE_ESKI",
         "category": "SARRAFIYE",
-        "bid": 105765,
-        "ask": 106954,
-        "change": 102,
-        "changePct": 0.09653331819085205
+        "bid": 105522,
+        "ask": 106710,
+        "change": -243,
+        "changePct": -0.2297546447312438,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 105522,
+        "dayHigh": 105522,
+        "dayLow": 105522
       },
       {
         "symbol": "AYAR14",
         "category": "SARRAFIYE",
-        "bid": 3623.71,
-        "ask": 4827.16,
-        "change": 3.8600000000001273,
-        "changePct": 0.10663425280053394
+        "bid": 3614.36,
+        "ask": 4816.3,
+        "change": -9.349999999999909,
+        "changePct": -0.2580228550297874,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3614.36,
+        "dayHigh": 3614.36,
+        "dayLow": 3614.36
       },
       {
         "symbol": "ONS",
         "category": "GRAM ALTIN",
-        "bid": 4183.6,
-        "ask": 4184.2,
-        "change": 5.5,
-        "changePct": 0.13163878317895694
+        "bid": 4174.6,
+        "ask": 4175.2,
+        "change": -9,
+        "changePct": -0.21512572903719285,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4174.6,
+        "dayHigh": 4174.6,
+        "dayLow": 4174.6
       },
       {
         "symbol": "USDPURE",
         "category": "DOVIZ",
-        "bid": 134.088,
-        "ask": 134.44,
-        "change": 0.12199999999998568,
-        "changePct": 0.0910678828956494
+        "bid": 133.75,
+        "ask": 134.102,
+        "change": -0.33799999999999386,
+        "changePct": -0.2520732653182939,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 133.75,
+        "dayHigh": 133.75,
+        "dayLow": 133.75
       },
       {
         "symbol": "USDKG",
         "category": "DOVIZ",
-        "bid": 133420,
-        "ask": 133770,
-        "change": 120,
-        "changePct": 0.09002250562640661
+        "bid": 133080,
+        "ask": 133430,
+        "change": -340,
+        "changePct": -0.2548343576675161,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 133080,
+        "dayHigh": 133080,
+        "dayLow": 133080
       },
       {
         "symbol": "GUMUSTRY",
         "category": "MADEN",
-        "bid": 86.295,
-        "ask": 93.619,
-        "change": 0.3370000000000033,
-        "changePct": 0.3920519323390531
+        "bid": 86.071,
+        "ask": 93.395,
+        "change": -0.22400000000000375,
+        "changePct": -0.25957471464164056,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 86.071,
+        "dayHigh": 86.071,
+        "dayLow": 86.071
       },
       {
         "symbol": "GUMUSUSD",
         "category": "MADEN",
-        "bid": 1745.1,
-        "ask": 1890.6,
-        "change": 6.599999999999909,
-        "changePct": 0.3796376186367506
+        "bid": 1740.6,
+        "ask": 1886.1,
+        "change": -4.5,
+        "changePct": -0.25786487880350695,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1740.6,
+        "dayHigh": 1740.6,
+        "dayLow": 1740.6
       },
       {
         "symbol": "EURKG",
         "category": "DOVIZ",
-        "bid": 118950,
-        "ask": 119470,
-        "change": 160,
-        "changePct": 0.13469147234615708
+        "bid": 118710,
+        "ask": 119230,
+        "change": -240,
+        "changePct": -0.201765447667087,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 118710,
+        "dayHigh": 118710,
+        "dayLow": 118710
       },
       {
         "symbol": "OMRUSD",
@@ -828,7 +1334,13 @@
         "bid": 2.5884090000000004,
         "ask": 2.593591,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 2.5884090000000004,
+        "dayHigh": 2.5884090000000004,
+        "dayLow": 2.5884090000000004
       },
       {
         "symbol": "AEDUSD",
@@ -836,7 +1348,13 @@
         "bid": 3.8851109999999998,
         "ask": 3.8928889999999994,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.8851109999999998,
+        "dayHigh": 3.8851109999999998,
+        "dayLow": 3.8851109999999998
       },
       {
         "symbol": "KWDUSD",
@@ -844,15 +1362,27 @@
         "bid": 3.072,
         "ask": 3.283,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.072,
+        "dayHigh": 3.072,
+        "dayLow": 3.072
       },
       {
         "symbol": "JODTRY",
         "category": "DOVIZ",
-        "bid": 67.2508,
-        "ask": 70.8121,
-        "change": 0.008700000000004593,
-        "changePct": 0.012938322866187395
+        "bid": 67.251,
+        "ask": 70.8123,
+        "change": 0.0002000000000066393,
+        "changePct": 0.00029739423175135365,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 67.251,
+        "dayHigh": 67.251,
+        "dayLow": 67.251
       },
       {
         "symbol": "USDILS",
@@ -860,7 +1390,13 @@
         "bid": 3.422574,
         "ask": 3.429426,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.422574,
+        "dayHigh": 3.422574,
+        "dayLow": 3.422574
       },
       {
         "symbol": "USDMAD",
@@ -868,7 +1404,13 @@
         "bid": 8.735256,
         "ask": 8.752743999999998,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 8.735256,
+        "dayHigh": 8.735256,
+        "dayLow": 8.735256
       },
       {
         "symbol": "OMRTRY",
@@ -876,7 +1418,13 @@
         "bid": 116.67011310000001,
         "ask": 116.9036869,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 116.67011310000001,
+        "dayHigh": 116.67011310000001,
+        "dayLow": 116.67011310000001
       },
       {
         "symbol": "USDQAR",
@@ -884,7 +1432,13 @@
         "bid": 3.6595,
         "ask": 3.9215,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.6595,
+        "dayHigh": 3.6595,
+        "dayLow": 3.6595
       },
       {
         "symbol": "JODUSD",
@@ -892,15 +1446,27 @@
         "bid": 1.36,
         "ask": 1.43,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.36,
+        "dayHigh": 1.36,
+        "dayLow": 1.36
       },
       {
         "symbol": "KWDTRY",
         "category": "DOVIZ",
-        "bid": 151.911,
-        "ask": 162.5456,
-        "change": 0.019800000000003593,
-        "changePct": 0.013035646568072143
+        "bid": 151.9113,
+        "ask": 162.5459,
+        "change": 0.00030000000000995897,
+        "changePct": 0.00019748405316926288,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 151.9113,
+        "dayHigh": 151.9113,
+        "dayLow": 151.9113
       },
       {
         "symbol": "ILSTRY",
@@ -908,7 +1474,13 @@
         "bid": 15.2615232,
         "ask": 15.292076799999998,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 15.2615232,
+        "dayHigh": 15.2615232,
+        "dayLow": 15.2615232
       },
       {
         "symbol": "MADTRY",
@@ -916,15 +1488,27 @@
         "bid": 5.2071876,
         "ask": 5.217612399999999,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 5.2071876,
+        "dayHigh": 5.2071876,
+        "dayLow": 5.2071876
       },
       {
         "symbol": "DS_XUSD",
         "category": "DOVIZ",
         "bid": 49.45,
         "ask": 49.518,
-        "change": 0.006000000000000227,
-        "changePct": 0.012134940538791819
+        "change": 0,
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 49.45,
+        "dayHigh": 49.45,
+        "dayLow": 49.45
       },
       {
         "symbol": "DS_USDSAR",
@@ -932,7 +1516,13 @@
         "bid": 3.745,
         "ask": 3.805,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.745,
+        "dayHigh": 3.745,
+        "dayLow": 3.745
       },
       {
         "symbol": "DS_USDRUB",
@@ -940,447 +1530,783 @@
         "bid": 73.3933,
         "ask": 73.401,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 73.3933,
+        "dayHigh": 73.3933,
+        "dayLow": 73.3933
       },
       {
         "symbol": "DS_USDDKK",
         "category": "DOVIZ",
-        "bid": 6.8076,
-        "ask": 32.5075,
-        "change": 0.0016999999999995907,
-        "changePct": 0.024978327627493652
+        "bid": 6.8118,
+        "ask": 32.5117,
+        "change": 0.0041999999999999815,
+        "changePct": 0.06169575180680389,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6.8118,
+        "dayHigh": 6.8118,
+        "dayLow": 6.8118
       },
       {
         "symbol": "DS_USDJPY",
         "category": "DOVIZ",
-        "bid": 158.394,
-        "ask": 159.611,
-        "change": -0.036000000000001364,
-        "changePct": -0.022722969134634452
+        "bid": 158.38,
+        "ask": 159.597,
+        "change": -0.014000000000010004,
+        "changePct": -0.008838718638338575,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 158.38,
+        "dayHigh": 158.38,
+        "dayLow": 158.38
       },
       {
         "symbol": "DS_USDNOK",
         "category": "DOVIZ",
-        "bid": 9.4671,
-        "ask": 13.4295,
-        "change": 0.00420000000000087,
-        "changePct": 0.04438385695717877
+        "bid": 9.4719,
+        "ask": 13.434,
+        "change": 0.004799999999999471,
+        "changePct": 0.05070190449028183,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 9.4719,
+        "dayHigh": 9.4719,
+        "dayLow": 9.4719
       },
       {
         "symbol": "DS_USDSEK",
         "category": "DOVIZ",
-        "bid": 9.9502,
-        "ask": 13.9124,
-        "change": 0.001900000000000901,
-        "changePct": 0.019098740488333696
+        "bid": 9.9545,
+        "ask": 13.9166,
+        "change": 0.00429999999999886,
+        "changePct": 0.04321521175452614,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 9.9545,
+        "dayHigh": 9.9545,
+        "dayLow": 9.9545
       },
       {
         "symbol": "DS_USDCHF",
         "category": "DOVIZ",
-        "bid": 0.8258,
-        "ask": 0.8325,
+        "bid": 0.8257,
+        "ask": 0.8323,
         "change": -0.00009999999999998899,
-        "changePct": -0.012108003390239616
+        "changePct": -0.012109469605229958,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.8257,
+        "dayHigh": 0.8257,
+        "dayLow": 0.8257
       },
       {
         "symbol": "DS_GBPUSD",
         "category": "DOVIZ",
-        "bid": 1.3262,
-        "ask": 1.3306,
-        "change": -0.00009999999999998899,
-        "changePct": -0.007539772298875743
+        "bid": 1.3258,
+        "ask": 1.3302,
+        "change": -0.00039999999999995595,
+        "changePct": -0.030161363293617547,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.3258,
+        "dayHigh": 1.3258,
+        "dayLow": 1.3258
       },
       {
         "symbol": "DS_AUDUSD",
         "category": "DOVIZ",
-        "bid": 0.6823,
-        "ask": 0.6936,
-        "change": 0,
-        "changePct": 0
+        "bid": 0.6821,
+        "ask": 0.6935,
+        "change": -0.00019999999999997797,
+        "changePct": -0.02931261908251179,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.6821,
+        "dayHigh": 0.6821,
+        "dayLow": 0.6821
       },
       {
         "symbol": "DS_USDCAD",
         "category": "DOVIZ",
-        "bid": 1.4172,
-        "ask": 1.4254,
-        "change": 0,
-        "changePct": 0
+        "bid": 1.4157,
+        "ask": 1.4239,
+        "change": -0.0015000000000000568,
+        "changePct": -0.1058425063505544,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.4157,
+        "dayHigh": 1.4157,
+        "dayLow": 1.4157
       },
       {
         "symbol": "DS_GBPTRY",
         "category": "DOVIZ",
-        "bid": 65.58,
-        "ask": 65.889,
-        "change": 0.0030000000000001137,
-        "changePct": 0.004574774692346575
+        "bid": 65.561,
+        "ask": 65.869,
+        "change": -0.018999999999991246,
+        "changePct": -0.02897224763646119,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 65.561,
+        "dayHigh": 65.561,
+        "dayLow": 65.561
       },
       {
         "symbol": "DS_AUDTRY",
         "category": "DOVIZ",
-        "bid": 33.735,
-        "ask": 34.346,
-        "change": 0,
-        "changePct": 0
+        "bid": 33.73,
+        "ask": 34.341,
+        "change": -0.005000000000002558,
+        "changePct": -0.014821402104646681,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 33.73,
+        "dayHigh": 33.73,
+        "dayLow": 33.73
       },
       {
         "symbol": "DS_SARTRY",
         "category": "DOVIZ",
         "bid": 12.996,
         "ask": 13.222,
-        "change": 0.002000000000000668,
-        "changePct": 0.01539171925504593
+        "change": 0,
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 12.996,
+        "dayHigh": 12.996,
+        "dayLow": 12.996
       },
       {
         "symbol": "DS_JPYTRY",
         "category": "DOVIZ",
         "bid": 0.3098,
         "ask": 0.3326,
-        "change": 0.0001000000000000445,
-        "changePct": 0.03228931223766371
+        "change": 0,
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.3098,
+        "dayHigh": 0.3098,
+        "dayLow": 0.3098
       },
       {
         "symbol": "DS_NOKTRY",
         "category": "DOVIZ",
-        "bid": 4.451,
-        "ask": 4.461,
-        "change": -0.002000000000000668,
-        "changePct": -0.04491354143275697
+        "bid": 4.449,
+        "ask": 4.459,
+        "change": -0.0019999999999997797,
+        "changePct": -0.04493372275892563,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4.449,
+        "dayHigh": 4.449,
+        "dayLow": 4.449
       },
       {
         "symbol": "DS_SEKTRY",
         "category": "DOVIZ",
-        "bid": 3.855,
-        "ask": 4.775,
+        "bid": 3.854,
+        "ask": 4.774,
         "change": -0.0009999999999998899,
-        "changePct": -0.025933609958503367
+        "changePct": -0.02594033722438106,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.854,
+        "dayHigh": 3.854,
+        "dayLow": 3.854
       },
       {
         "symbol": "DS_CADTRY",
         "category": "DOVIZ",
-        "bid": 34.692,
-        "ask": 35.091,
-        "change": 0.003999999999997783,
-        "changePct": 0.011531365313646744
+        "bid": 34.733,
+        "ask": 35.133,
+        "change": 0.04099999999999682,
+        "changePct": 0.11818286636687655,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 34.733,
+        "dayHigh": 34.733,
+        "dayLow": 34.733
       },
       {
         "symbol": "DS_DKKTRY",
         "category": "DOVIZ",
         "bid": 1.521,
-        "ask": 7.274,
+        "ask": 7.269,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.521,
+        "dayHigh": 1.521,
+        "dayLow": 1.521
       },
       {
         "symbol": "DS_CHFTRY",
         "category": "DOVIZ",
-        "bid": 59.399,
-        "ask": 59.957,
-        "change": 0.006999999999997897,
-        "changePct": 0.011786099137927492
+        "bid": 59.414,
+        "ask": 59.971,
+        "change": 0.015000000000000568,
+        "changePct": 0.025252950386371098,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 59.414,
+        "dayHigh": 59.414,
+        "dayLow": 59.414
       },
       {
         "symbol": "DS_KULCEALTIN",
         "category": "DOVIZ",
-        "bid": 6598.57,
-        "ask": 6677.21,
-        "change": 7.069999999999709,
-        "changePct": 0.10725934916179487
+        "bid": 6583.22,
+        "ask": 6661.66,
+        "change": -15.349999999999454,
+        "changePct": -0.23262615991039656,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6583.22,
+        "dayHigh": 6583.22,
+        "dayLow": 6583.22
       },
       {
         "symbol": "DS_EURUSD",
         "category": "DOVIZ",
-        "bid": 1.1198,
-        "ask": 1.1218,
-        "change": -0.000600000000000156,
-        "changePct": -0.053552302749032124
+        "bid": 1.1191,
+        "ask": 1.1211,
+        "change": -0.0006999999999999229,
+        "changePct": -0.06251116270761949,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.1191,
+        "dayHigh": 1.1191,
+        "dayLow": 1.1191
       },
       {
         "symbol": "DS_EURCHF",
         "category": "DOVIZ",
-        "bid": 0.9264,
-        "ask": 0.9322,
-        "change": -0.00029999999999996696,
-        "changePct": -0.03237293622531207
+        "bid": 0.9257,
+        "ask": 0.9314,
+        "change": -0.0007000000000000339,
+        "changePct": -0.07556131260794839,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.9257,
+        "dayHigh": 0.9257,
+        "dayLow": 0.9257
       },
       {
         "symbol": "DS_XPTUSD",
         "category": "DOVIZ",
-        "bid": 1657,
-        "ask": 1659,
-        "change": 5,
-        "changePct": 0.3026634382566586
+        "bid": 1653,
+        "ask": 1656,
+        "change": -4,
+        "changePct": -0.24140012070006037,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1653,
+        "dayHigh": 1653,
+        "dayLow": 1653
       },
       {
         "symbol": "DS_USDTRY",
         "category": "DOVIZ",
         "bid": 49.45,
         "ask": 49.518,
-        "change": 0.006000000000000227,
-        "changePct": 0.012134940538791819
+        "change": 0,
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 49.45,
+        "dayHigh": 49.45,
+        "dayLow": 49.45
       },
       {
         "symbol": "DS_ALTIN",
         "category": "MADEN",
-        "bid": 6631.73,
-        "ask": 6657.24,
-        "change": 7.109999999999673,
-        "changePct": 0.10732691082657832
+        "bid": 6616.3,
+        "ask": 6641.73,
+        "change": -15.429999999999382,
+        "changePct": -0.23266930348490336,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6616.3,
+        "dayHigh": 6616.3,
+        "dayLow": 6616.3
       },
       {
         "symbol": "DS_BANKAALTIN",
         "category": "DOVIZ",
-        "bid": 6624.7012,
-        "ask": 6646.0782,
-        "change": 6.587200000000848,
-        "changePct": 0.09953288807054167
+        "bid": 6609.2926,
+        "ask": 6630.6038,
+        "change": -15.40860000000066,
+        "changePct": -0.2325931318985475,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6609.2926,
+        "dayHigh": 6609.2926,
+        "dayLow": 6609.2926
       },
       {
         "symbol": "DS_XAUXAG",
         "category": "MADEN",
         "bid": 70.56,
         "ask": 76.65,
-        "change": -0.1700000000000017,
-        "changePct": -0.24035062915311992
+        "change": 0,
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 70.56,
+        "dayHigh": 70.56,
+        "dayLow": 70.56
       },
       {
         "symbol": "DS_XAGUSD",
         "category": "MADEN",
-        "bid": 57.78,
-        "ask": 57.81,
-        "change": 0.20000000000000284,
-        "changePct": 0.3473428273706197
+        "bid": 57.66,
+        "ask": 57.68,
+        "change": -0.12000000000000455,
+        "changePct": -0.20768431983386043,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 57.66,
+        "dayHigh": 57.66,
+        "dayLow": 57.66
       },
       {
         "symbol": "DS_EURTRY",
         "category": "DOVIZ",
-        "bid": 55.373,
-        "ask": 55.549,
-        "change": -0.02200000000000557,
-        "changePct": -0.03971477570178819
+        "bid": 55.339,
+        "ask": 55.513,
+        "change": -0.03399999999999892,
+        "changePct": -0.06140176620374356,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 55.339,
+        "dayHigh": 55.339,
+        "dayLow": 55.339
       },
       {
         "symbol": "DS_BANKAUSD",
         "category": "DOVIZ",
-        "bid": 49.4047,
-        "ask": 49.4352,
-        "change": 0.0020999999999986585,
-        "changePct": 0.004250788420039954
+        "bid": 49.405,
+        "ask": 49.435,
+        "change": 0.00030000000000285354,
+        "changePct": 0.0006072296765345272,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 49.405,
+        "dayHigh": 49.405,
+        "dayLow": 49.405
       },
       {
         "symbol": "DS_XPDUSD",
         "category": "DOVIZ",
-        "bid": 1134,
-        "ask": 1136,
-        "change": 3,
-        "changePct": 0.2652519893899204
+        "bid": 1130,
+        "ask": 1132,
+        "change": -4,
+        "changePct": -0.3527336860670194,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1130,
+        "dayHigh": 1130,
+        "dayLow": 1130
       },
       {
         "symbol": "DS_PLATIN",
         "category": "DOVIZ",
-        "bid": 48270,
-        "ask": 53350,
-        "change": 150,
-        "changePct": 0.3117206982543641
+        "bid": 48150,
+        "ask": 53220,
+        "change": -120,
+        "changePct": -0.2486016159105034,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 48150,
+        "dayHigh": 48150,
+        "dayLow": 48150
       },
       {
         "symbol": "DS_PALADYUM",
         "category": "DOVIZ",
-        "bid": 26460,
-        "ask": 36530,
-        "change": 90,
-        "changePct": 0.3412969283276451
+        "bid": 26330,
+        "ask": 36400,
+        "change": -130,
+        "changePct": -0.4913076341647771,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 26330,
+        "dayHigh": 26330,
+        "dayLow": 26330
       },
       {
         "symbol": "DS_XAUEUR",
         "category": "MADEN",
-        "bid": 3729.4,
-        "ask": 3736.6,
-        "change": 6,
-        "changePct": 0.16114304130633292
+        "bid": 3724.5,
+        "ask": 3731.7,
+        "change": -4.900000000000091,
+        "changePct": -0.13138842709283238,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3724.5,
+        "dayHigh": 3724.5,
+        "dayLow": 3724.5
       },
       {
         "symbol": "DS_EURGBP",
         "category": "DOVIZ",
-        "bid": 0.8416,
-        "ask": 0.8459,
-        "change": -0.00039999999999995595,
-        "changePct": -0.04750593824227505
+        "bid": 0.8413,
+        "ask": 0.8456,
+        "change": -0.00029999999999996696,
+        "changePct": -0.03564638783269569,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.8413,
+        "dayHigh": 0.8413,
+        "dayLow": 0.8413
       },
       {
         "symbol": "DS_GBPPURE",
         "category": "DOVIZ",
-        "bid": 100770,
-        "ask": 101370,
-        "change": 100,
-        "changePct": 0.09933445912387008
+        "bid": 100570,
+        "ask": 101170,
+        "change": -200,
+        "changePct": -0.19847176739108863,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 100570,
+        "dayHigh": 100570,
+        "dayLow": 100570
       },
       {
         "symbol": "DS_EURPURE",
         "category": "DOVIZ",
-        "bid": 119410,
-        "ask": 120040,
-        "change": 140,
-        "changePct": 0.11738073279114615
+        "bid": 119210,
+        "ask": 119840,
+        "change": -200,
+        "changePct": -0.16749015995310276,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 119210,
+        "dayHigh": 119210,
+        "dayLow": 119210
       },
       {
         "symbol": "DS_PAREUR",
         "category": "DOVIZ",
-        "bid": 118940,
-        "ask": 119460,
-        "change": 150,
-        "changePct": 0.12627325532452224
+        "bid": 118730,
+        "ask": 119260,
+        "change": -210,
+        "changePct": -0.17655960988733815,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 118730,
+        "dayHigh": 118730,
+        "dayLow": 118730
       },
       {
         "symbol": "DS_HAUGTRY",
         "category": "DOVIZ",
-        "bid": 86.3,
-        "ask": 93.629,
-        "change": 0.3269999999999982,
-        "changePct": 0.38035197096762724
+        "bid": 86.102,
+        "ask": 93.421,
+        "change": -0.1979999999999933,
+        "changePct": -0.22943221320972573,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 86.102,
+        "dayHigh": 86.102,
+        "dayLow": 86.102
       },
       {
         "symbol": "DS_PARGBP",
         "category": "DOVIZ",
-        "bid": 100270,
-        "ask": 100870,
-        "change": 100,
-        "changePct": 0.0998302885095338
+        "bid": 100070,
+        "ask": 100660,
+        "change": -200,
+        "changePct": -0.19946145407400018,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 100070,
+        "dayHigh": 100070,
+        "dayLow": 100070
       },
       {
         "symbol": "DS_USDPURE",
         "category": "DOVIZ",
-        "bid": 134090,
-        "ask": 134440,
-        "change": 130,
-        "changePct": 0.09704389369961183
+        "bid": 133780,
+        "ask": 134130,
+        "change": -310,
+        "changePct": -0.23118800805429188,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 133780,
+        "dayHigh": 133780,
+        "dayLow": 133780
       },
       {
         "symbol": "DS_14AYAR",
         "category": "DOVIZ",
-        "bid": 3623.77,
-        "ask": 4827.21,
-        "change": 3.980000000000018,
-        "changePct": 0.10995112976167176
+        "bid": 3615.13,
+        "ask": 4817.12,
+        "change": -8.639999999999873,
+        "changePct": -0.23842572790215363,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3615.13,
+        "dayHigh": 3615.13,
+        "dayLow": 3615.13
       },
       {
         "symbol": "DS_22AYAR",
         "category": "DOVIZ",
-        "bid": 6032.87,
-        "ask": 6244.38,
-        "change": 6.470000000000255,
-        "changePct": 0.10736094517456948
+        "bid": 6018.83,
+        "ask": 6229.64,
+        "change": -14.039999999999964,
+        "changePct": -0.23272505457601378,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6018.83,
+        "dayHigh": 6018.83,
+        "dayLow": 6018.83
       },
       {
         "symbol": "DS_GUMUSUSD",
         "category": "DOVIZ",
-        "bid": 1745,
-        "ask": 1891,
-        "change": 6,
-        "changePct": 0.3450258769407705
+        "bid": 1741,
+        "ask": 1887,
+        "change": -4,
+        "changePct": -0.2292263610315186,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1741,
+        "dayHigh": 1741,
+        "dayLow": 1741
       },
       {
         "symbol": "DS_PARUSD",
         "category": "DOVIZ",
-        "bid": 133420,
-        "ask": 133770,
-        "change": 130,
-        "changePct": 0.09753169780178558
+        "bid": 133110,
+        "ask": 133460,
+        "change": -310,
+        "changePct": -0.2323489731674412,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 133110,
+        "dayHigh": 133110,
+        "dayLow": 133110
       },
       {
         "symbol": "DS_CEYREK_ESKI",
         "category": "DOVIZ",
-        "bid": 10710,
-        "ask": 10876,
-        "change": 11,
-        "changePct": 0.10281334704177959
+        "bid": 10685,
+        "ask": 10851,
+        "change": -25,
+        "changePct": -0.2334267040149393,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 10685,
+        "dayHigh": 10685,
+        "dayLow": 10685
       },
       {
         "symbol": "DS_CEYREK_YENI",
         "category": "DOVIZ",
-        "bid": 10810,
-        "ask": 10890,
-        "change": 12,
-        "changePct": 0.11113169105389886
+        "bid": 10785,
+        "ask": 10864,
+        "change": -25,
+        "changePct": -0.23126734505087881,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 10785,
+        "dayHigh": 10785,
+        "dayLow": 10785
       },
       {
         "symbol": "DS_YARIM_ESKI",
         "category": "DOVIZ",
-        "bid": 21221.5,
-        "ask": 21413,
-        "change": 22.700000000000728,
-        "changePct": 0.10708153291696099
+        "bid": 21172.2,
+        "ask": 21363.2,
+        "change": -49.29999999999927,
+        "changePct": -0.23231157081261586,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 21172.2,
+        "dayHigh": 21172.2,
+        "dayLow": 21172.2
       },
       {
         "symbol": "DS_YARIM_YENI",
         "category": "DOVIZ",
-        "bid": 21619.4,
-        "ask": 21759.2,
-        "change": 23.100000000002183,
-        "changePct": 0.1069627667702439
+        "bid": 21569.1,
+        "ask": 21708.5,
+        "change": -50.30000000000291,
+        "changePct": -0.2326614059594758,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 21569.1,
+        "dayHigh": 21569.1,
+        "dayLow": 21569.1
       },
       {
         "symbol": "DS_TEK_ESKI",
         "category": "DOVIZ",
-        "bid": 42589,
-        "ask": 42826.1,
-        "change": 45.69999999999709,
-        "changePct": 0.10741996977196663
+        "bid": 42489.9,
+        "ask": 42726.3,
+        "change": -99.09999999999854,
+        "changePct": -0.23268919204489077,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 42489.9,
+        "dayHigh": 42489.9,
+        "dayLow": 42489.9
       },
       {
         "symbol": "DS_TEK_YENI",
         "category": "DOVIZ",
-        "bid": 43126.1,
-        "ask": 43411.9,
-        "change": 46.19999999999709,
-        "changePct": 0.10724258877109066
+        "bid": 43025.8,
+        "ask": 43310.8,
+        "change": -100.29999999999563,
+        "changePct": -0.23257377782826558,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 43025.8,
+        "dayHigh": 43025.8,
+        "dayLow": 43025.8
       },
       {
         "symbol": "DS_ATA_ESKI",
         "category": "DOVIZ",
-        "bid": 43902.1,
-        "ask": 44157.5,
-        "change": 47.099999999998545,
-        "changePct": 0.10739938433473617
+        "bid": 43799.9,
+        "ask": 44054.7,
+        "change": -102.19999999999709,
+        "changePct": -0.23279068655029508,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 43799.9,
+        "dayHigh": 43799.9,
+        "dayLow": 43799.9
       },
       {
         "symbol": "DS_ATA_YENI",
         "category": "DOVIZ",
-        "bid": 44200.5,
-        "ask": 44510.3,
-        "change": 47.400000000001455,
-        "changePct": 0.10735373054213963
+        "bid": 44097.6,
+        "ask": 44406.7,
+        "change": -102.90000000000146,
+        "changePct": -0.23280279634846088,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 44097.6,
+        "dayHigh": 44097.6,
+        "dayLow": 44097.6
       },
       {
         "symbol": "DS_GREMESE_ESKI",
         "category": "DOVIZ",
-        "bid": 106107.7,
-        "ask": 107231.6,
-        "change": 113.80000000000291,
-        "changePct": 0.10736466909888485
+        "bid": 105860.8,
+        "ask": 106981.9,
+        "change": -246.89999999999418,
+        "changePct": -0.23268810840306048,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 105860.8,
+        "dayHigh": 105860.8,
+        "dayLow": 105860.8
       },
       {
         "symbol": "DS_GREMESE_YENI",
         "category": "DOVIZ",
-        "bid": 107434,
-        "ask": 108563,
-        "change": 115.19999999999709,
-        "changePct": 0.10734372728729458
+        "bid": 107184.1,
+        "ask": 108310.2,
+        "change": -249.89999999999418,
+        "changePct": -0.23260792672710148,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 107184.1,
+        "dayHigh": 107184.1,
+        "dayLow": 107184.1
       },
       {
         "symbol": "DS_ATA5_ESKI",
         "category": "DOVIZ",
-        "bid": 219510.3,
-        "ask": 221403.2,
-        "change": 235.39999999999418,
-        "changePct": 0.10735382845915979
+        "bid": 218999.5,
+        "ask": 220887.5,
+        "change": -510.79999999998836,
+        "changePct": -0.23269978675259811,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 218999.5,
+        "dayHigh": 218999.5,
+        "dayLow": 218999.5
       },
       {
         "symbol": "DS_ATA5_YENI",
         "category": "DOVIZ",
-        "bid": 220173.4,
-        "ask": 223067.5,
-        "change": 236,
-        "changePct": 0.1073032599275976
+        "bid": 219661.2,
+        "ask": 222548,
+        "change": -512.1999999999825,
+        "changePct": -0.23263482328018853,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 219661.2,
+        "dayHigh": 219661.2,
+        "dayLow": 219661.2
       },
       {
         "symbol": "DS_USDILS",
@@ -1388,7 +2314,13 @@
         "bid": 2.905,
         "ask": 3.38,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 2.905,
+        "dayHigh": 2.905,
+        "dayLow": 2.905
       },
       {
         "symbol": "DS_ILSTRY",
@@ -1396,7 +2328,13 @@
         "bid": 14.4172,
         "ask": 16.7941,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 14.4172,
+        "dayHigh": 14.4172,
+        "dayLow": 14.4172
       },
       {
         "symbol": "DS_THBTRY",
@@ -1404,7 +2342,13 @@
         "bid": 1.454,
         "ask": 1.477,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.454,
+        "dayHigh": 1.454,
+        "dayLow": 1.454
       },
       {
         "symbol": "DS_USDTHB",
@@ -1412,7 +2356,13 @@
         "bid": 33.019,
         "ask": 33.519,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 33.019,
+        "dayHigh": 33.019,
+        "dayLow": 33.019
       },
       {
         "symbol": "DS_IDRTRY",
@@ -1420,7 +2370,13 @@
         "bid": 0.003,
         "ask": 0.003,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.003,
+        "dayHigh": 0.003,
+        "dayLow": 0.003
       },
       {
         "symbol": "DS_USDIDR",
@@ -1428,7 +2384,13 @@
         "bid": 18239.4,
         "ask": 18519.4,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 18239.4,
+        "dayHigh": 18239.4,
+        "dayLow": 18239.4
       },
       {
         "symbol": "DS_INRTRY",
@@ -1436,7 +2398,13 @@
         "bid": 0.485,
         "ask": 0.493,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.485,
+        "dayHigh": 0.485,
+        "dayLow": 0.485
       },
       {
         "symbol": "DS_USDINR",
@@ -1444,7 +2412,13 @@
         "bid": 98.95,
         "ask": 100.45,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 98.95,
+        "dayHigh": 98.95,
+        "dayLow": 98.95
       },
       {
         "symbol": "DS_CZKTRY",
@@ -1452,7 +2426,13 @@
         "bid": 2.283,
         "ask": 2.341,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 2.283,
+        "dayHigh": 2.283,
+        "dayLow": 2.283
       },
       {
         "symbol": "DS_USDHKD",
@@ -1460,7 +2440,13 @@
         "bid": 7.78,
         "ask": 8.28,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 7.78,
+        "dayHigh": 7.78,
+        "dayLow": 7.78
       },
       {
         "symbol": "DS_USDCZK",
@@ -1468,7 +2454,13 @@
         "bid": 20.842,
         "ask": 21.342,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 20.842,
+        "dayHigh": 20.842,
+        "dayLow": 20.842
       },
       {
         "symbol": "DS_SGDTRY",
@@ -1476,7 +2468,13 @@
         "bid": 34.753,
         "ask": 36.349,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 34.753,
+        "dayHigh": 34.753,
+        "dayLow": 34.753
       },
       {
         "symbol": "DS_USDSGD",
@@ -1484,7 +2482,13 @@
         "bid": 1.342,
         "ask": 1.402,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.342,
+        "dayHigh": 1.342,
+        "dayLow": 1.342
       },
       {
         "symbol": "DS_SCAD",
@@ -1492,7 +2496,13 @@
         "bid": 33.0723,
         "ask": 33.238,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 33.0723,
+        "dayHigh": 33.0723,
+        "dayLow": 33.0723
       },
       {
         "symbol": "DS_SNOK",
@@ -1500,7 +2510,13 @@
         "bid": 4.9328,
         "ask": 4.9575,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4.9328,
+        "dayHigh": 4.9328,
+        "dayLow": 4.9328
       },
       {
         "symbol": "DS_SAUD",
@@ -1508,7 +2524,13 @@
         "bid": 32.8124,
         "ask": 32.9769,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 32.8124,
+        "dayHigh": 32.8124,
+        "dayLow": 32.8124
       },
       {
         "symbol": "DS_SGBP",
@@ -1516,7 +2538,13 @@
         "bid": 61.3079,
         "ask": 61.6152,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 61.3079,
+        "dayHigh": 61.3079,
+        "dayLow": 61.3079
       },
       {
         "symbol": "DS_PLNTRY",
@@ -1524,7 +2552,13 @@
         "bid": 12.823,
         "ask": 13.185,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 12.823,
+        "dayHigh": 12.823,
+        "dayLow": 12.823
       },
       {
         "symbol": "DS_USDPLN",
@@ -1532,7 +2566,13 @@
         "bid": 3.7,
         "ask": 3.8,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.7,
+        "dayHigh": 3.7,
+        "dayLow": 3.7
       },
       {
         "symbol": "DS_ZARTRY",
@@ -1540,7 +2580,13 @@
         "bid": 2.917,
         "ask": 3.011,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 2.917,
+        "dayHigh": 2.917,
+        "dayLow": 2.917
       },
       {
         "symbol": "DS_USDZAR",
@@ -1548,7 +2594,13 @@
         "bid": 16.203,
         "ask": 16.703,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 16.203,
+        "dayHigh": 16.203,
+        "dayLow": 16.203
       },
       {
         "symbol": "DS_RONTRY",
@@ -1556,7 +2608,13 @@
         "bid": 10.555,
         "ask": 10.802,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 10.555,
+        "dayHigh": 10.555,
+        "dayLow": 10.555
       },
       {
         "symbol": "DS_USDRON",
@@ -1564,7 +2622,13 @@
         "bid": 4.516,
         "ask": 4.617,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4.516,
+        "dayHigh": 4.516,
+        "dayLow": 4.516
       },
       {
         "symbol": "DS_HKDTRY",
@@ -1572,7 +2636,13 @@
         "bid": 5.885,
         "ask": 6.27,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 5.885,
+        "dayHigh": 5.885,
+        "dayLow": 5.885
       },
       {
         "symbol": "DS_SJPY",
@@ -1580,7 +2650,13 @@
         "bid": 28.73,
         "ask": 28.87,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 28.73,
+        "dayHigh": 28.73,
+        "dayLow": 28.73
       },
       {
         "symbol": "DS_MYRTRY",
@@ -1588,7 +2664,13 @@
         "bid": 11.527,
         "ask": 12.113,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 11.527,
+        "dayHigh": 11.527,
+        "dayLow": 11.527
       },
       {
         "symbol": "DS_USDMYR",
@@ -1596,7 +2678,13 @@
         "bid": 4.027,
         "ask": 4.228,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4.027,
+        "dayHigh": 4.027,
+        "dayLow": 4.027
       },
       {
         "symbol": "DS_RUBTRY",
@@ -1604,7 +2692,13 @@
         "bid": 0.6639,
         "ask": 0.7147,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.6639,
+        "dayHigh": 0.6639,
+        "dayLow": 0.6639
       },
       {
         "symbol": "DS_BRLTRY",
@@ -1612,7 +2706,13 @@
         "bid": 9.46,
         "ask": 9.697,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 9.46,
+        "dayHigh": 9.46,
+        "dayLow": 9.46
       },
       {
         "symbol": "DS_USDBRL",
@@ -1620,7 +2720,13 @@
         "bid": 5.031,
         "ask": 5.151,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 5.031,
+        "dayHigh": 5.031,
+        "dayLow": 5.031
       },
       {
         "symbol": "DS_SEUR",
@@ -1628,7 +2734,13 @@
         "bid": 53.05,
         "ask": 53.1,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 53.05,
+        "dayHigh": 53.05,
+        "dayLow": 53.05
       },
       {
         "symbol": "DS_SUSD",
@@ -1636,7 +2748,13 @@
         "bid": 45.44,
         "ask": 45.45,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 45.44,
+        "dayHigh": 45.44,
+        "dayLow": 45.44
       },
       {
         "symbol": "DS_SGLDD",
@@ -1644,7 +2762,13 @@
         "bid": 149100,
         "ask": 149200,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 149100,
+        "dayHigh": 149100,
+        "dayLow": 149100
       },
       {
         "symbol": "DS_SGLDE",
@@ -1652,7 +2776,13 @@
         "bid": 127100,
         "ask": 127200,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 127100,
+        "dayHigh": 127100,
+        "dayLow": 127100
       },
       {
         "symbol": "DS_SGLD",
@@ -1660,7 +2790,13 @@
         "bid": 6804.65,
         "ask": 6810.72,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6804.65,
+        "dayHigh": 6804.65,
+        "dayLow": 6804.65
       },
       {
         "symbol": "DS_KWDUSD",
@@ -1668,7 +2804,13 @@
         "bid": 3.19,
         "ask": 3.245,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.19,
+        "dayHigh": 3.19,
+        "dayLow": 3.19
       },
       {
         "symbol": "DS_KWDTRY",
@@ -1676,7 +2818,13 @@
         "bid": 155.4343,
         "ask": 158.2974,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 155.4343,
+        "dayHigh": 155.4343,
+        "dayLow": 155.4343
       },
       {
         "symbol": "DS_OMRUSD",
@@ -1684,7 +2832,13 @@
         "bid": 2.561,
         "ask": 2.591,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 2.561,
+        "dayHigh": 2.561,
+        "dayLow": 2.561
       },
       {
         "symbol": "DS_OMRTRY",
@@ -1692,7 +2846,13 @@
         "bid": 124.7837,
         "ask": 126.3917,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 124.7837,
+        "dayHigh": 124.7837,
+        "dayLow": 124.7837
       },
       {
         "symbol": "DS_USDMAD",
@@ -1700,7 +2860,13 @@
         "bid": 8.533,
         "ask": 8.633,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 8.533,
+        "dayHigh": 8.533,
+        "dayLow": 8.533
       },
       {
         "symbol": "DS_MADTRY",
@@ -1708,7 +2874,13 @@
         "bid": 5.6448,
         "ask": 5.7176,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 5.6448,
+        "dayHigh": 5.6448,
+        "dayLow": 5.6448
       },
       {
         "symbol": "DS_JODUSD",
@@ -1716,7 +2888,13 @@
         "bid": 1.375,
         "ask": 1.415,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.375,
+        "dayHigh": 1.375,
+        "dayLow": 1.375
       },
       {
         "symbol": "DS_JODTRY",
@@ -1724,7 +2902,13 @@
         "bid": 67.0241,
         "ask": 69.0531,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 67.0241,
+        "dayHigh": 67.0241,
+        "dayLow": 67.0241
       },
       {
         "symbol": "DS_CEYREK_YENI_TL_alis",
@@ -1732,7 +2916,13 @@
         "bid": 1.63,
         "ask": null,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.63,
+        "dayHigh": 1.63,
+        "dayLow": 1.63
       },
       {
         "symbol": "DS_CEYREK_YENI_TL_satis",
@@ -1740,7 +2930,13 @@
         "bid": null,
         "ask": 135,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_CEYREK_ESKI_TL_alis",
@@ -1748,7 +2944,13 @@
         "bid": 1.615,
         "ask": null,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.615,
+        "dayHigh": 1.615,
+        "dayLow": 1.615
       },
       {
         "symbol": "DS_CEYREK_ESKI_TL_satis",
@@ -1756,7 +2958,13 @@
         "bid": null,
         "ask": 1.62,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_YARIM_YENI_TL_alis",
@@ -1764,7 +2972,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_YARIM_YENI_TL_satis",
@@ -1772,7 +2986,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_YARIM_ESKI_TL_alis",
@@ -1780,7 +3000,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_YARIM_ESKI_TL_satis",
@@ -1788,7 +3014,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_TEK_YENI_TL_alis",
@@ -1796,7 +3028,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_TEK_YENI_TL_satis",
@@ -1804,7 +3042,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_TEK_ESKI_TL_alis",
@@ -1812,7 +3056,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_TEK_ESKI_TL_satis",
@@ -1820,7 +3070,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA_YENI_TL_alis",
@@ -1828,7 +3084,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA_YENI_TL_satis",
@@ -1836,7 +3098,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA_ESKI_TL_alis",
@@ -1844,7 +3112,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA_ESKI_TL_satis",
@@ -1852,7 +3126,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_GREMESE_YENI_TL_alis",
@@ -1860,7 +3140,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_GREMESE_YENI_TL_satis",
@@ -1868,7 +3154,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_GREMESE_ESKI_TL_alis",
@@ -1876,7 +3168,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_GREMESE_ESKI_TL_satis",
@@ -1884,7 +3182,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA5_YENI_TL_alis",
@@ -1892,7 +3196,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA5_YENI_TL_satis",
@@ -1900,7 +3210,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA5_ESKI_TL_alis",
@@ -1908,7 +3224,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA5_ESKI_TL_satis",
@@ -1916,7 +3238,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_CEYREK_YENI_HAS_alis",
@@ -1924,7 +3252,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_CEYREK_YENI_HAS_satis",
@@ -1932,7 +3266,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_CEYREK_ESKI_HAS_alis",
@@ -1940,7 +3280,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_CEYREK_ESKI_HAS_satis",
@@ -1948,7 +3294,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_YARIM_YENI_HAS_alis",
@@ -1956,7 +3308,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_YARIM_YENI_HAS_satis",
@@ -1964,7 +3322,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_YARIM_ESKI_HAS_alis",
@@ -1972,7 +3336,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_YARIM_ESKI_HAS_satis",
@@ -1980,7 +3350,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_TEK_YENI_HAS_alis",
@@ -1988,7 +3364,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_TEK_YENI_HAS_satis",
@@ -1996,7 +3378,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_TEK_ESKI_HAS_alis",
@@ -2004,7 +3392,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_TEK_ESKI_HAS_satis",
@@ -2012,7 +3406,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA_YENI_HAS_alis",
@@ -2020,7 +3420,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA_YENI_HAS_satis",
@@ -2028,7 +3434,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA_ESKI_HAS_alis",
@@ -2036,7 +3448,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA_ESKI_HAS_satis",
@@ -2044,7 +3462,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_GREMESE_YENI_HAS_alis",
@@ -2052,7 +3476,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_GREMESE_YENI_HAS_satis",
@@ -2060,7 +3490,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_GREMESE_ESKI_HAS_alis",
@@ -2068,7 +3504,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_GREMESE_ESKI_HAS_satis",
@@ -2076,7 +3518,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA5_YENI_HAS_alis",
@@ -2084,7 +3532,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA5_YENI_HAS_satis",
@@ -2092,7 +3546,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA5_ESKI_HAS_alis",
@@ -2100,7 +3560,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_ATA5_ESKI_HAS_satis",
@@ -2108,7 +3574,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_PKRTRY",
@@ -2116,7 +3588,13 @@
         "bid": 0.168,
         "ask": 0.169,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.168,
+        "dayHigh": 0.168,
+        "dayLow": 0.168
       },
       {
         "symbol": "DS_USDPKR",
@@ -2124,7 +3602,13 @@
         "bid": 288.025,
         "ask": 289.725,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 288.025,
+        "dayHigh": 288.025,
+        "dayLow": 288.025
       },
       {
         "symbol": "DS_USDQAR",
@@ -2132,7 +3616,13 @@
         "bid": 3.673,
         "ask": 3.738,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.673,
+        "dayHigh": 3.673,
+        "dayLow": 3.673
       },
       {
         "symbol": "DS_QARTRY",
@@ -2140,7 +3630,13 @@
         "bid": 12.916,
         "ask": 13.3021,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 12.916,
+        "dayHigh": 12.916,
+        "dayLow": 12.916
       },
       {
         "symbol": "DS_AEDUSD",
@@ -2148,7 +3644,13 @@
         "bid": 3.6345,
         "ask": 3.8895,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.6345,
+        "dayHigh": 3.6345,
+        "dayLow": 3.6345
       },
       {
         "symbol": "DS_AEDTRY",
@@ -2156,7 +3658,13 @@
         "bid": 12.7283,
         "ask": 13.3228,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 12.7283,
+        "dayHigh": 12.7283,
+        "dayLow": 12.7283
       },
       {
         "symbol": "DS_BHDTRY",
@@ -2164,7 +3672,13 @@
         "bid": 126.31,
         "ask": 128.408,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 126.31,
+        "dayHigh": 126.31,
+        "dayLow": 126.31
       },
       {
         "symbol": "DS_GELTRY",
@@ -2172,7 +3686,13 @@
         "bid": 17.623,
         "ask": 23.708,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 17.623,
+        "dayHigh": 17.623,
+        "dayLow": 17.623
       },
       {
         "symbol": "DS_CNYTRY",
@@ -2180,7 +3700,13 @@
         "bid": 7.248,
         "ask": 7.663,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 7.248,
+        "dayHigh": 7.248,
+        "dayLow": 7.248
       },
       {
         "symbol": "DS_BHDUSD",
@@ -2188,7 +3714,13 @@
         "bid": 2.592,
         "ask": 2.632,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 2.592,
+        "dayHigh": 2.592,
+        "dayLow": 2.592
       },
       {
         "symbol": "DS_USDUAH",
@@ -2196,7 +3728,13 @@
         "bid": 44.904,
         "ask": 45.404,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 44.904,
+        "dayHigh": 44.904,
+        "dayLow": 44.904
       },
       {
         "symbol": "DS_USDGEL",
@@ -2204,7 +3742,13 @@
         "bid": 2.755,
         "ask": 2.765,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 2.755,
+        "dayHigh": 2.755,
+        "dayLow": 2.755
       },
       {
         "symbol": "DS_USDCNY",
@@ -2212,7 +3756,13 @@
         "bid": 6.137,
         "ask": 7.304,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6.137,
+        "dayHigh": 6.137,
+        "dayLow": 6.137
       },
       {
         "symbol": "DS_USDBGN",
@@ -2220,7 +3770,13 @@
         "bid": 1.7127,
         "ask": 1.7631,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.7127,
+        "dayHigh": 1.7127,
+        "dayLow": 1.7127
       },
       {
         "symbol": "DS_BGNTRY",
@@ -2228,7 +3784,13 @@
         "bid": 26.9882,
         "ask": 28.8843,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 26.9882,
+        "dayHigh": 26.9882,
+        "dayLow": 26.9882
       },
       {
         "symbol": "DS_UAHTRY",
@@ -2236,7 +3798,13 @@
         "bid": 1.073,
         "ask": 1.086,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.073,
+        "dayHigh": 1.073,
+        "dayLow": 1.073
       },
       {
         "symbol": "DS_FARK",
@@ -2244,15 +3812,27 @@
         "bid": 0.99,
         "ask": 11.46,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.99,
+        "dayHigh": 0.99,
+        "dayLow": 0.99
       },
       {
         "symbol": "DS_ALTIN_XAUUSD",
         "category": "MADEN",
-        "bid": 4183.6,
-        "ask": 4184.2,
-        "change": 5.700000000000728,
-        "changePct": 0.13643217884584907
+        "bid": 4175.4,
+        "ask": 4176,
+        "change": -8.200000000000728,
+        "changePct": -0.19600344201168196,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4175.4,
+        "dayHigh": 4175.4,
+        "dayLow": 4175.4
       },
       {
         "symbol": "DS_CEYREK_yeni_TL_alis",
@@ -2260,7 +3840,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_CEYREK_yeni_TL_satis",
@@ -2268,7 +3854,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_CEYREK_eski_TL_alis",
@@ -2276,7 +3868,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "DS_CEYREK_eski_TL_satis",
@@ -2284,7 +3882,13 @@
         "bid": null,
         "ask": null,
         "change": null,
-        "changePct": null
+        "changePct": null,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": null,
+        "dayHigh": null,
+        "dayLow": null
       },
       {
         "symbol": "G2_USDTRY",
@@ -2292,7 +3896,13 @@
         "bid": 48.64,
         "ask": 48.72,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 48.64,
+        "dayHigh": 48.64,
+        "dayLow": 48.64
       },
       {
         "symbol": "G2_ALTIN",
@@ -2300,7 +3910,13 @@
         "bid": 6812.86,
         "ask": 6842.54,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6812.86,
+        "dayHigh": 6812.86,
+        "dayLow": 6812.86
       },
       {
         "symbol": "G2_USDPURE",
@@ -2308,7 +3924,13 @@
         "bid": 140.046,
         "ask": 140.448,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 140.046,
+        "dayHigh": 140.046,
+        "dayLow": 140.046
       },
       {
         "symbol": "G2_EURTRY",
@@ -2316,7 +3938,13 @@
         "bid": 55.744,
         "ask": 55.912,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 55.744,
+        "dayHigh": 55.744,
+        "dayLow": 55.744
       },
       {
         "symbol": "G2_ONS",
@@ -2324,7 +3952,13 @@
         "bid": 4378.1,
         "ask": 4378.7,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 4378.1,
+        "dayHigh": 4378.1,
+        "dayLow": 4378.1
       },
       {
         "symbol": "G2_EURUSD",
@@ -2332,7 +3966,13 @@
         "bid": 1.146,
         "ask": 1.1476,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.146,
+        "dayHigh": 1.146,
+        "dayLow": 1.146
       },
       {
         "symbol": "G2_USDKG",
@@ -2340,7 +3980,13 @@
         "bid": 139350,
         "ask": 139750,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 139350,
+        "dayHigh": 139350,
+        "dayLow": 139350
       },
       {
         "symbol": "G2_KWDUSD",
@@ -2348,7 +3994,13 @@
         "bid": 3.072,
         "ask": 3.283,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.072,
+        "dayHigh": 3.072,
+        "dayLow": 3.072
       },
       {
         "symbol": "G2_EURKG",
@@ -2356,7 +4008,13 @@
         "bid": 121420,
         "ask": 121940,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 121420,
+        "dayHigh": 121420,
+        "dayLow": 121420
       },
       {
         "symbol": "G2_GBPTRY",
@@ -2364,7 +4022,13 @@
         "bid": 64.802,
         "ask": 65.138,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 64.802,
+        "dayHigh": 64.802,
+        "dayLow": 64.802
       },
       {
         "symbol": "G2_JODTRY",
@@ -2372,7 +4036,13 @@
         "bid": 66.1498,
         "ask": 69.6704,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 66.1498,
+        "dayHigh": 66.1498,
+        "dayLow": 66.1498
       },
       {
         "symbol": "G2_AYAR22",
@@ -2380,7 +4050,13 @@
         "bid": 6197.7,
         "ask": 6411.99,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6197.7,
+        "dayHigh": 6197.7,
+        "dayLow": 6197.7
       },
       {
         "symbol": "G2_CHFTRY",
@@ -2388,7 +4064,13 @@
         "bid": 58.484,
         "ask": 59.267,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 58.484,
+        "dayHigh": 58.484,
+        "dayLow": 58.484
       },
       {
         "symbol": "G2_AUDTRY",
@@ -2396,7 +4078,13 @@
         "bid": 33.922,
         "ask": 34.52,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 33.922,
+        "dayHigh": 33.922,
+        "dayLow": 33.922
       },
       {
         "symbol": "G2_CADTRY",
@@ -2404,7 +4092,13 @@
         "bid": 34.46,
         "ask": 34.794,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 34.46,
+        "dayHigh": 34.46,
+        "dayLow": 34.46
       },
       {
         "symbol": "G2_XAUXAG",
@@ -2412,7 +4106,13 @@
         "bid": 64.64,
         "ask": 70.38,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 64.64,
+        "dayHigh": 64.64,
+        "dayLow": 64.64
       },
       {
         "symbol": "G2_SARTRY",
@@ -2420,7 +4120,13 @@
         "bid": 12.668,
         "ask": 13.097,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 12.668,
+        "dayHigh": 12.668,
+        "dayLow": 12.668
       },
       {
         "symbol": "G2_USDQAR",
@@ -2428,7 +4134,13 @@
         "bid": 3.6595,
         "ask": 3.9215,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.6595,
+        "dayHigh": 3.6595,
+        "dayLow": 3.6595
       },
       {
         "symbol": "G2_JODUSD",
@@ -2436,7 +4148,13 @@
         "bid": 1.36,
         "ask": 1.43,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.36,
+        "dayHigh": 1.36,
+        "dayLow": 1.36
       },
       {
         "symbol": "G2_USDCHF",
@@ -2444,7 +4162,13 @@
         "bid": 0.822,
         "ask": 0.832,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.822,
+        "dayHigh": 0.822,
+        "dayLow": 0.822
       },
       {
         "symbol": "G2_JPYTRY",
@@ -2452,7 +4176,13 @@
         "bid": 0.3033,
         "ask": 0.3106,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.3033,
+        "dayHigh": 0.3033,
+        "dayLow": 0.3033
       },
       {
         "symbol": "G2_KWDTRY",
@@ -2460,7 +4190,13 @@
         "bid": 149.4238,
         "ask": 159.9247,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 149.4238,
+        "dayHigh": 149.4238,
+        "dayLow": 149.4238
       },
       {
         "symbol": "G2_AUDUSD",
@@ -2468,7 +4204,13 @@
         "bid": 0.697,
         "ask": 0.709,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 0.697,
+        "dayHigh": 0.697,
+        "dayLow": 0.697
       },
       {
         "symbol": "G2_USDCAD",
@@ -2476,7 +4218,13 @@
         "bid": 1.4,
         "ask": 1.411,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.4,
+        "dayHigh": 1.4,
+        "dayLow": 1.4
       },
       {
         "symbol": "G2_USDSAR",
@@ -2484,7 +4232,13 @@
         "bid": 3.72,
         "ask": 3.84,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3.72,
+        "dayHigh": 3.72,
+        "dayLow": 3.72
       },
       {
         "symbol": "G2_USDJPY",
@@ -2492,7 +4246,13 @@
         "bid": 156.862,
         "ask": 160.383,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 156.862,
+        "dayHigh": 156.862,
+        "dayLow": 156.862
       },
       {
         "symbol": "G2_GBPUSD",
@@ -2500,7 +4260,13 @@
         "bid": 1.332,
         "ask": 1.337,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1.332,
+        "dayHigh": 1.332,
+        "dayLow": 1.332
       },
       {
         "symbol": "G2_AYAR14",
@@ -2508,7 +4274,13 @@
         "bid": 3725.2,
         "ask": 4947.65,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 3725.2,
+        "dayHigh": 3725.2,
+        "dayLow": 3725.2
       },
       {
         "symbol": "G2_GUMUSTRY",
@@ -2516,7 +4288,13 @@
         "bid": 96.584,
         "ask": 105.029,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 96.584,
+        "dayHigh": 96.584,
+        "dayLow": 96.584
       },
       {
         "symbol": "G2_XAGUSD",
@@ -2524,7 +4302,13 @@
         "bid": 66.26,
         "ask": 66.3,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 66.26,
+        "dayHigh": 66.26,
+        "dayLow": 66.26
       },
       {
         "symbol": "G2_GUMUSUSD",
@@ -2532,7 +4316,13 @@
         "bid": 1985.7,
         "ask": 2155.8,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1985.7,
+        "dayHigh": 1985.7,
+        "dayLow": 1985.7
       },
       {
         "symbol": "G2_XPTUSD",
@@ -2540,7 +4330,13 @@
         "bid": 1800.7,
         "ask": 1805.7,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1800.7,
+        "dayHigh": 1800.7,
+        "dayLow": 1800.7
       },
       {
         "symbol": "G2_XPDUSD",
@@ -2548,7 +4344,13 @@
         "bid": 1301.2,
         "ask": 1307.5,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 1301.2,
+        "dayHigh": 1301.2,
+        "dayLow": 1301.2
       },
       {
         "symbol": "G2_PLATIN",
@@ -2556,7 +4358,13 @@
         "bid": 52890,
         "ask": 58050,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 52890,
+        "dayHigh": 52890,
+        "dayLow": 52890
       },
       {
         "symbol": "G2_PALADYUM",
@@ -2564,7 +4372,13 @@
         "bid": 31830,
         "ask": 42040,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 31830,
+        "dayHigh": 31830,
+        "dayLow": 31830
       },
       {
         "symbol": "G2_KULCEALTIN",
@@ -2572,7 +4386,13 @@
         "bid": 6778.8,
         "ask": 6856.23,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 6778.8,
+        "dayHigh": 6778.8,
+        "dayLow": 6778.8
       },
       {
         "symbol": "G2_CEYREK_YENI",
@@ -2580,7 +4400,13 @@
         "bid": 11105,
         "ask": 11186,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 11105,
+        "dayHigh": 11105,
+        "dayLow": 11105
       },
       {
         "symbol": "G2_CEYREK_ESKI",
@@ -2588,7 +4414,13 @@
         "bid": 10884,
         "ask": 10987,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 10884,
+        "dayHigh": 10884,
+        "dayLow": 10884
       },
       {
         "symbol": "G2_YARIM_YENI",
@@ -2596,7 +4428,13 @@
         "bid": 22210,
         "ask": 22365,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 22210,
+        "dayHigh": 22210,
+        "dayLow": 22210
       },
       {
         "symbol": "G2_YARIM_ESKI",
@@ -2604,7 +4442,13 @@
         "bid": 21770,
         "ask": 21940,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 21770,
+        "dayHigh": 21770,
+        "dayLow": 21770
       },
       {
         "symbol": "G2_TEK_YENI",
@@ -2612,7 +4456,13 @@
         "bid": 44284,
         "ask": 44585,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 44284,
+        "dayHigh": 44284,
+        "dayLow": 44284
       },
       {
         "symbol": "G2_TEK_ESKI",
@@ -2620,7 +4470,13 @@
         "bid": 43575,
         "ask": 43949,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 43575,
+        "dayHigh": 43575,
+        "dayLow": 43575
       },
       {
         "symbol": "G2_ATA_YENI",
@@ -2628,7 +4484,13 @@
         "bid": 44910,
         "ask": 45352,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 44910,
+        "dayHigh": 44910,
+        "dayLow": 44910
       },
       {
         "symbol": "G2_ATA_ESKI",
@@ -2636,7 +4498,13 @@
         "bid": 44897,
         "ask": 45249,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 44897,
+        "dayHigh": 44897,
+        "dayLow": 44897
       },
       {
         "symbol": "G2_ATA5_YENI",
@@ -2644,7 +4512,13 @@
         "bid": 224824,
         "ask": 228591,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 224824,
+        "dayHigh": 224824,
+        "dayLow": 224824
       },
       {
         "symbol": "G2_ATA5_ESKI",
@@ -2652,7 +4526,13 @@
         "bid": 223802,
         "ask": 226880,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 223802,
+        "dayHigh": 223802,
+        "dayLow": 223802
       },
       {
         "symbol": "G2_GREMESE_YENI",
@@ -2660,7 +4540,13 @@
         "bid": 109891,
         "ask": 111036,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 109891,
+        "dayHigh": 109891,
+        "dayLow": 109891
       },
       {
         "symbol": "G2_GREMESE_ESKI",
@@ -2668,7 +4554,13 @@
         "bid": 108733,
         "ask": 109941,
         "change": 0,
-        "changePct": 0
+        "changePct": 0,
+        "prevClose": null,
+        "dayChange": null,
+        "dayChangePct": null,
+        "dayOpen": 108733,
+        "dayHigh": 108733,
+        "dayLow": 108733
       }
     ]
   }
