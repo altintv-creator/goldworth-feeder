@@ -1,0 +1,45 @@
+name: GoldWorth Gecmis Fiyat Doldurma
+
+# TEK SEFERLIK: Actions > "GoldWorth Gecmis Fiyat Doldurma" > Run workflow
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: "Kac yillik gecmis (1-10)"
+        default: "5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Gecmisi cek
+        env:
+          METALS_API_KEY: ${{ secrets.METALS_API_KEY }}
+          YEARS: ${{ github.event.inputs.years }}
+        run: node scripts/backfill.js
+
+      - name: Kaydet
+        run: |
+          git config user.name "goldworth-feeder"
+          git config user.email "feeder@users.noreply.github.com"
+          git add history/daily.json
+          git diff --staged --quiet && exit 0
+          git commit -m "gecmis fiyat doldurma"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 10
+          done
+          exit 1
