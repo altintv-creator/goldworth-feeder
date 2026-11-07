@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:30:40.582Z",
+  "updatedAt": "2026-11-07T21:00:47.214Z",
   "historyFiles": {
     "daily": "history/daily.json",
     "intraday": "history/intraday.json"
@@ -15,39 +15,39 @@
     "day": {
       "gold": {
         "price": 4071.67,
-        "prevClose": 4063.54,
-        "dayChange": 8.13000000000011,
-        "dayChangePct": 0.20007185852729661,
-        "dayOpen": 4064.62,
+        "prevClose": 4071.67,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 4071.67,
         "dayHigh": 4071.67,
-        "dayLow": 4063.36
+        "dayLow": 4071.67
       },
       "silver": {
         "price": 51.9445,
-        "prevClose": 51.985,
-        "dayChange": -0.040500000000001535,
-        "dayChangePct": -0.07790708858324813,
-        "dayOpen": 51.92,
+        "prevClose": 51.9445,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 51.9445,
         "dayHigh": 51.9445,
-        "dayLow": 51.856
+        "dayLow": 51.9445
       },
       "platinum": {
         "price": 1535.7,
-        "prevClose": 1532.6,
-        "dayChange": 3.1000000000001364,
-        "dayChangePct": 0.2022706511810085,
-        "dayOpen": 1531.2,
+        "prevClose": 1535.7,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1535.7,
         "dayHigh": 1535.7,
-        "dayLow": 1531.2
+        "dayLow": 1535.7
       },
       "palladium": {
         "price": 1023.085,
-        "prevClose": 1023.965,
-        "dayChange": -0.8799999999999955,
-        "dayChangePct": -0.0859404374172941,
-        "dayOpen": 1024.815,
-        "dayHigh": 1024.815,
-        "dayLow": 1022.505
+        "prevClose": 1023.085,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1023.085,
+        "dayHigh": 1023.085,
+        "dayLow": 1023.085
       }
     },
     "lbma": {
@@ -104,80 +104,80 @@
       "ANG": 0.556033949,
       "AOA": 0.0010885267,
       "ARS": 0.00064728,
-      "AUD": 0.686665465,
+      "AUD": 0.6866801953,
       "AWG": 0.5586592179,
       "AZN": 0.5873656091,
-      "BAM": 0.569660647,
+      "BAM": 0.5697496396,
       "BBD": 0.5,
       "BDT": 0.0080262407,
-      "BGN": 0.569660647,
+      "BGN": 0.5697496396,
       "BHD": 2.6595744681,
       "BIF": 0.0003323881,
       "BMD": 1,
-      "BND": 0.7796010192,
+      "BND": 0.7795795664,
       "BOB": 0.0840573936,
       "BRL": 0.1823063032,
       "BSD": 1,
-      "BTC": 75675.0211890059,
+      "BTC": 75540.6824345251,
       "BTN": 0.0106334226,
       "BWP": 0.0726240569,
       "BYN": 0.33444816053512,
       "BYR": 0.000036561,
       "BZD": 0.496231845,
-      "CAD": 0.7077197841,
+      "CAD": 0.7079520275,
       "CDF": 0.000439711,
-      "CHF": 1.2197309576,
+      "CHF": 1.2195675511,
       "CLP": 0.0010239431,
-      "CNH": 0.1499070509,
-      "CNY": 0.1498015134,
+      "CNH": 0.1499041327,
+      "CNY": 0.149801513,
       "COP": 0.0003078759,
       "CRC": 0.0022243718,
       "CUC": 1,
       "CUP": 0.04166666666667,
-      "CVE": 0.0101039211,
-      "CZK": 0.045801327,
+      "CVE": 0.0101054996,
+      "CZK": 0.0458005556,
       "DJF": 0.005684451,
-      "DKK": 0.1490414453,
+      "DKK": 0.1490398991,
       "DOP": 0.0164916752,
       "DZD": 0.0073433986,
-      "EEK": 0.0712075809,
+      "EEK": 0.071218705,
       "EGP": 0.0185602395,
       "ERN": 0.0666666667,
       "ETB": 0.006198201,
-      "EUR": 1.1141593833,
+      "EUR": 1.1143334377,
       "FJD": 0.4434380523,
-      "FKP": 1.3353015914,
-      "GBP": 1.3353015914,
+      "FKP": 1.3353791964,
+      "GBP": 1.3353791964,
       "GEL": 0.385371226,
-      "GGP": 1.3353015914,
+      "GGP": 1.3353791964,
       "GHS": 0.0856330775,
-      "GIP": 1.3353015914,
+      "GIP": 1.3353791964,
       "GMD": 0.0133977642,
       "GNF": 0.0001128896,
       "GTQ": 0.1308485786,
       "GYD": 0.0047730933,
-      "HKD": 0.1275441662,
+      "HKD": 0.1275384807,
       "HNL": 0.0371001145,
-      "HRK": 0.1478743624,
+      "HRK": 0.1478974634,
       "HTG": 0.0076156542,
-      "HUF": 0.0030681903,
+      "HUF": 0.0030681435,
       "IDR": 0.0000552543,
       "ILS": 0.3154564541,
-      "IMP": 1.3353015914,
+      "IMP": 1.3353791964,
       "INR": 0.0106334226,
       "IQD": 0.0006614625,
       "IRR": 5.2897402e-7,
       "ISK": 0.0081462111,
-      "JEP": 1.3353015914,
+      "JEP": 1.3353791964,
       "JMD": 0.0063029801,
       "JOD": 1.4104372355,
-      "JPY": 0.0063098755,
+      "JPY": 0.0063099215,
       "KES": 0.0076969812,
       "KGS": 0.011433996,
       "KHR": 0.0002451059,
-      "KMF": 0.0022647,
+      "KMF": 0.0022650538,
       "KPW": 0.0011109408,
-      "KRW": 0.0007331612,
+      "KRW": 0.0007329393,
       "KWD": 3.2163208967,
       "KYD": 1.2079134394,
       "KZT": 0.0022332316,
@@ -185,9 +185,9 @@
       "LBP": 0.0000111093,
       "LKR": 0.0030074496,
       "LRD": 0.005871381,
-      "LSL": 0.0604405773,
-      "LTL": 0.3226828612,
-      "LVL": 1.5853150019,
+      "LSL": 0.0605009688,
+      "LTL": 0.3227332709,
+      "LVL": 1.5855626605,
       "LYD": 0.1554187225,
       "MAD": 0.1024826961,
       "MDL": 0.0558723521,
@@ -195,28 +195,28 @@
       "MKD": 0.0181828012,
       "MMK": 0.0004761929,
       "MNT": 0.000277722,
-      "MOP": 0.1238292876,
+      "MOP": 0.1238237677,
       "MRU": 0.0247770316,
       "MUR": 0.0212918157,
       "MVR": 0.0647422606,
       "MWK": 0.0005753714,
-      "MXN": 0.0536928584,
+      "MXN": 0.0536938037,
       "MYR": 0.2462806998,
       "MZN": 0.0156561104,
-      "NAD": 0.0604405773,
+      "NAD": 0.0605009688,
       "NGN": 0.0007448043,
       "NIO": 0.0273120207,
-      "NOK": 0.1056439436,
+      "NOK": 0.1056483708,
       "NPR": 0.0066427753,
       "NTD": 0.0337206,
-      "NZD": 0.554394973,
+      "NZD": 0.5543882318,
       "OMR": 2.5981684632,
       "PAB": 1,
       "PEN": 0.2904705564,
       "PGK": 0.221588576,
       "PHP": 0.015849164,
       "PKR": 0.0036163415,
-      "PLN": 0.2535284197,
+      "PLN": 0.2535002152,
       "PYG": 0.0001592884,
       "QAR": 0.2747252747,
       "RON": 0.2090498023,
@@ -227,10 +227,10 @@
       "SBD": 0.1242397684,
       "SCR": 0.0689387317,
       "SDG": 0.0016660585,
-      "SEK": 0.1010789111,
-      "SGD": 0.7796010192,
-      "SHP": 1.3353015914,
-      "SKK": 0.0369833162,
+      "SEK": 0.1010759356,
+      "SGD": 0.7795795664,
+      "SHP": 1.3353791964,
+      "SKK": 0.0369890937,
       "SLE": 0.0435350262,
       "SLL": 0.0000440506,
       "SOS": 0.001749859,
@@ -239,7 +239,7 @@
       "STN": 0.0455280745,
       "SVC": 0.1142857143,
       "SYP": 0.0082304526749,
-      "SZL": 0.0604405773,
+      "SZL": 0.0605009688,
       "THB": 0.0298335266,
       "TJS": 0.1084468219,
       "TMT": 0.2854481594,
@@ -247,7 +247,7 @@
       "TOP": 0.4169504914,
       "TRY": 0.0199042505,
       "TTD": 0.1478219197,
-      "TVD": 0.686665465,
+      "TVD": 0.6866801953,
       "TWD": 0.0305036235,
       "TZS": 0.0003785837,
       "UAH": 0.0220379573,
@@ -261,25 +261,25 @@
       "VND": 0.0000390666,
       "VUV": 0.0084223824,
       "WST": 0.3587026264,
-      "XAF": 0.001698525,
+      "XAF": 0.0016987904,
       "XCD": 0.3702604667,
       "XDR": 1.3688513868,
-      "XOF": 0.001698525,
-      "XPF": 0.0093366556,
+      "XOF": 0.0016987904,
+      "XPF": 0.0093381142,
       "YER": 0.0042282178,
-      "ZAR": 0.0604405773,
+      "ZAR": 0.0605009688,
       "ZMW": 0.0490838268,
       "ZWD": 0.00276319,
       "ZWL": 0.0000149339
     },
     "unitsPerUsd": {
       "TRY": 50.240525258662714,
-      "EUR": 0.897537654835456,
+      "EUR": 0.897397463064569,
       "INR": 94.04309765700462,
       "AED": 3.6725000000514147,
       "SAR": 3.74999999953125,
-      "GBP": 0.7488944867889716,
-      "CHF": 0.8198529304918579
+      "GBP": 0.7488509651010467,
+      "CHF": 0.8199627803298317
     }
   },
   "tr": {
@@ -289,8 +289,8 @@
     "eur": 55.708,
     "gbp": 66.592,
     "stale": false,
-    "sourceUpdatedAt": "2026-11-07T20:30:31.793Z",
-    "dayStart": "2026-11-07",
+    "sourceUpdatedAt": "2026-11-07T21:00:31.814Z",
+    "dayStart": "2026-11-08",
     "symbols": [
       {
         "symbol": "PARUSD",
@@ -299,12 +299,12 @@
         "ask": 130.746,
         "change": 0,
         "changePct": 0,
-        "prevClose": 130.202,
-        "dayChange": 0.24600000000000932,
-        "dayChangePct": 0.18893718990492414,
-        "dayOpen": 130.217,
-        "dayHigh": 130.503,
-        "dayLow": 130.187
+        "prevClose": 130.448,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 130.448,
+        "dayHigh": 130.448,
+        "dayLow": 130.448
       },
       {
         "symbol": "ALTIN",
@@ -313,12 +313,12 @@
         "ask": 6601.13,
         "change": 0,
         "changePct": 0,
-        "prevClose": 6558.65,
-        "dayChange": 17.26000000000022,
-        "dayChangePct": 0.26316391330533295,
-        "dayOpen": 6559.72,
-        "dayHigh": 6581.3,
-        "dayLow": 6558.23
+        "prevClose": 6575.91,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 6575.91,
+        "dayHigh": 6575.91,
+        "dayLow": 6575.91
       },
       {
         "symbol": "PAREUR",
@@ -327,12 +327,12 @@
         "ask": 117.701,
         "change": 0,
         "changePct": 0,
-        "prevClose": 117.054,
-        "dayChange": 0.17799999999999727,
-        "dayChangePct": 0.15206656756710346,
-        "dayOpen": 117.017,
-        "dayHigh": 117.313,
-        "dayLow": 117.002
+        "prevClose": 117.232,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 117.232,
+        "dayHigh": 117.232,
+        "dayLow": 117.232
       },
       {
         "symbol": "PARGBP",
@@ -341,12 +341,12 @@
         "ask": 98.464,
         "change": 0,
         "changePct": 0,
-        "prevClose": 97.711,
-        "dayChange": 0.19299999999999784,
-        "dayChangePct": 0.1975212616798496,
-        "dayOpen": 97.718,
-        "dayHigh": 97.945,
-        "dayLow": 97.704
+        "prevClose": 97.904,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 97.904,
+        "dayHigh": 97.904,
+        "dayLow": 97.904
       },
       {
         "symbol": "PARCHF",
@@ -355,12 +355,12 @@
         "ask": 107.4994,
         "change": 0,
         "changePct": 0,
-        "prevClose": 107.9375,
-        "dayChange": 0.17780000000000484,
-        "dayChangePct": 0.16472495657209482,
-        "dayOpen": 107.8718,
-        "dayHigh": 108.1609,
-        "dayLow": 107.8339
+        "prevClose": 108.1153,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 108.1153,
+        "dayHigh": 108.1153,
+        "dayLow": 108.1153
       },
       {
         "symbol": "XAUUSD",
@@ -369,12 +369,12 @@
         "ask": 4071.24,
         "change": 0,
         "changePct": 0,
-        "prevClose": 4063.57,
-        "dayChange": 7.049999999999727,
-        "dayChangePct": 0.17349276621295381,
-        "dayOpen": 4064.02,
+        "prevClose": 4070.62,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 4070.62,
         "dayHigh": 4070.62,
-        "dayLow": 4063.09
+        "dayLow": 4070.62
       },
       {
         "symbol": "XAUXAG",
@@ -383,12 +383,12 @@
         "ask": 81.46,
         "change": 0,
         "changePct": 0,
-        "prevClose": 75.03,
-        "dayChange": 0.15000000000000568,
-        "dayChangePct": 0.1999200319872127,
-        "dayOpen": 75.1,
-        "dayHigh": 75.21,
-        "dayLow": 75.1
+        "prevClose": 75.18,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 75.18,
+        "dayHigh": 75.18,
+        "dayLow": 75.18
       },
       {
         "symbol": "XAGUSD",
@@ -397,12 +397,12 @@
         "ask": 51.97,
         "change": 0,
         "changePct": 0,
-        "prevClose": 51.95,
-        "dayChange": -0.020000000000003126,
-        "dayChangePct": -0.03849855630414461,
-        "dayOpen": 51.91,
+        "prevClose": 51.93,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 51.93,
         "dayHigh": 51.93,
-        "dayLow": 51.86
+        "dayLow": 51.93
       },
       {
         "symbol": "GUMUSD",
@@ -411,12 +411,12 @@
         "ask": 1.7352,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1.6061,
-        "dayChange": -0.0009000000000001229,
-        "dayChangePct": -0.05603636137227587,
-        "dayOpen": 1.6045,
+        "prevClose": 1.6052,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1.6052,
         "dayHigh": 1.6052,
-        "dayLow": 1.6029
+        "dayLow": 1.6052
       },
       {
         "symbol": "GUMTRY",
@@ -425,12 +425,12 @@
         "ask": 87.169,
         "change": 0,
         "changePct": 0,
-        "prevClose": 80.4917,
-        "dayChange": 0.01310000000000855,
-        "dayChangePct": 0.016274969965858033,
-        "dayOpen": 80.4096,
-        "dayHigh": 80.5369,
-        "dayLow": 80.3332
+        "prevClose": 80.5048,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 80.5048,
+        "dayHigh": 80.5048,
+        "dayLow": 80.5048
       },
       {
         "symbol": "AUDTRY",
@@ -439,12 +439,12 @@
         "ask": 34.283,
         "change": 0,
         "changePct": 0,
-        "prevClose": 33.651,
-        "dayChange": 0.013999999999995794,
-        "dayChangePct": 0.041603518468978015,
-        "dayOpen": 33.637,
-        "dayHigh": 33.678,
-        "dayLow": 33.634
+        "prevClose": 33.665,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 33.665,
+        "dayHigh": 33.665,
+        "dayLow": 33.665
       },
       {
         "symbol": "USDTRY",
@@ -453,12 +453,12 @@
         "ask": 50.235,
         "change": 0,
         "changePct": 0,
-        "prevClose": 50.113,
-        "dayChange": 0.036999999999999034,
-        "dayChangePct": 0.07383313711012918,
-        "dayOpen": 50.112,
-        "dayHigh": 50.17,
-        "dayLow": 50.1
+        "prevClose": 50.15,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 50.15,
+        "dayHigh": 50.15,
+        "dayLow": 50.15
       },
       {
         "symbol": "EURTRY",
@@ -467,12 +467,12 @@
         "ask": 55.898,
         "change": 0,
         "changePct": 0,
-        "prevClose": 55.662,
-        "dayChange": 0.045999999999999375,
-        "dayChangePct": 0.08264165858215547,
-        "dayOpen": 55.684,
-        "dayHigh": 55.73,
-        "dayLow": 55.643
+        "prevClose": 55.708,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 55.708,
+        "dayHigh": 55.708,
+        "dayLow": 55.708
       },
       {
         "symbol": "GBPTRY",
@@ -481,12 +481,12 @@
         "ask": 66.933,
         "change": 0,
         "changePct": 0,
-        "prevClose": 66.555,
-        "dayChange": 0.03699999999999193,
-        "dayChangePct": 0.05559311847343089,
-        "dayOpen": 66.557,
-        "dayHigh": 66.619,
-        "dayLow": 66.528
+        "prevClose": 66.592,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 66.592,
+        "dayHigh": 66.592,
+        "dayLow": 66.592
       },
       {
         "symbol": "CADTRY",
@@ -495,12 +495,12 @@
         "ask": 35.503,
         "change": 0,
         "changePct": 0,
-        "prevClose": 35.123,
-        "dayChange": 0.03999999999999915,
-        "dayChangePct": 0.11388548814167113,
-        "dayOpen": 35.15,
-        "dayHigh": 35.177,
-        "dayLow": 35.128
+        "prevClose": 35.163,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 35.163,
+        "dayHigh": 35.163,
+        "dayLow": 35.163
       },
       {
         "symbol": "CHFTRY",
@@ -509,12 +509,12 @@
         "ask": 61.099,
         "change": 0,
         "changePct": 0,
-        "prevClose": 60.452,
-        "dayChange": 0.054999999999999716,
-        "dayChangePct": 0.09098127439952311,
-        "dayOpen": 60.493,
-        "dayHigh": 60.531,
-        "dayLow": 60.447
+        "prevClose": 60.507,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 60.507,
+        "dayHigh": 60.507,
+        "dayLow": 60.507
       },
       {
         "symbol": "SARTRY",
@@ -523,12 +523,12 @@
         "ask": 13.505,
         "change": 0,
         "changePct": 0,
-        "prevClose": 13.052,
-        "dayChange": 0.009000000000000341,
-        "dayChangePct": 0.06895494943303969,
-        "dayOpen": 13.052,
-        "dayHigh": 13.067,
-        "dayLow": 13.048
+        "prevClose": 13.061,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 13.061,
+        "dayHigh": 13.061,
+        "dayLow": 13.061
       },
       {
         "symbol": "JPYTRY",
@@ -537,12 +537,12 @@
         "ask": 0.3169,
         "change": 0,
         "changePct": 0,
-        "prevClose": 0.3094,
-        "dayChange": 0.00009999999999998899,
-        "dayChangePct": 0.03232062055591111,
-        "dayOpen": 0.3094,
-        "dayHigh": 0.3096,
-        "dayLow": 0.3092
+        "prevClose": 0.3095,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 0.3095,
+        "dayHigh": 0.3095,
+        "dayLow": 0.3095
       },
       {
         "symbol": "NOKTRY",
@@ -551,12 +551,12 @@
         "ask": 5.2833,
         "change": 0,
         "changePct": 0,
-        "prevClose": 3.7203,
-        "dayChange": 0.002200000000000202,
-        "dayChangePct": 0.0591350159933393,
-        "dayOpen": 3.7207,
-        "dayHigh": 3.724,
-        "dayLow": 3.7188
+        "prevClose": 3.7225,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 3.7225,
+        "dayHigh": 3.7225,
+        "dayLow": 3.7225
       },
       {
         "symbol": "SEKTRY",
@@ -565,12 +565,12 @@
         "ask": 5.0538,
         "change": 0,
         "changePct": 0,
-        "prevClose": 3.6048,
-        "dayChange": 0.002200000000000202,
-        "dayChangePct": 0.06102973812694745,
-        "dayOpen": 3.6053,
-        "dayHigh": 3.6084,
-        "dayLow": 3.6034
+        "prevClose": 3.607,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 3.607,
+        "dayHigh": 3.607,
+        "dayLow": 3.607
       },
       {
         "symbol": "DKKTRY",
@@ -579,12 +579,12 @@
         "ask": 7.322,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1.5391,
-        "dayChange": 0.001100000000000101,
-        "dayChangePct": 0.07147033980898583,
-        "dayOpen": 1.5392,
-        "dayHigh": 1.5408,
-        "dayLow": 1.5386
+        "prevClose": 1.5402,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1.5402,
+        "dayHigh": 1.5402,
+        "dayLow": 1.5402
       },
       {
         "symbol": "EURUSD",
@@ -593,12 +593,12 @@
         "ask": 1.1127,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1.1107,
-        "dayChange": 0.00009999999999998899,
-        "dayChangePct": 0.009003331232555053,
-        "dayOpen": 1.1112,
-        "dayHigh": 1.1112,
-        "dayLow": 1.1105
+        "prevClose": 1.1108,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1.1108,
+        "dayHigh": 1.1108,
+        "dayLow": 1.1108
       },
       {
         "symbol": "GBPUSD",
@@ -638,9 +638,9 @@
         "prevClose": 1.415,
         "dayChange": 0,
         "dayChangePct": 0,
-        "dayOpen": 1.414,
+        "dayOpen": 1.415,
         "dayHigh": 1.415,
-        "dayLow": 1.414
+        "dayLow": 1.415
       },
       {
         "symbol": "AUDUSD",
@@ -677,12 +677,12 @@
         "ask": 162.048,
         "change": 0,
         "changePct": 0,
-        "prevClose": 158.458,
-        "dayChange": 0.0589999999999975,
-        "dayChangePct": 0.03723384114402397,
-        "dayOpen": 158.472,
+        "prevClose": 158.517,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 158.517,
         "dayHigh": 158.517,
-        "dayLow": 158.472
+        "dayLow": 158.517
       },
       {
         "symbol": "USDNOK",
@@ -691,12 +691,12 @@
         "ask": 13.472,
         "change": 0,
         "changePct": 0,
-        "prevClose": 9.5076,
-        "dayChange": 0.000600000000000378,
-        "dayChangePct": 0.006310740880983402,
-        "dayOpen": 9.5061,
+        "prevClose": 9.5082,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 9.5082,
         "dayHigh": 9.5082,
-        "dayLow": 9.5061
+        "dayLow": 9.5082
       },
       {
         "symbol": "USDSEK",
@@ -705,12 +705,12 @@
         "ask": 13.9036,
         "change": 0,
         "changePct": 0,
-        "prevClose": 9.9399,
-        "dayChange": 0.00009999999999976694,
-        "dayChangePct": 0.0010060463384920064,
-        "dayOpen": 9.9378,
+        "prevClose": 9.94,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 9.94,
         "dayHigh": 9.94,
-        "dayLow": 9.9365
+        "dayLow": 9.94
       },
       {
         "symbol": "USDDKK",
@@ -722,9 +722,9 @@
         "prevClose": 6.8607,
         "dayChange": 0,
         "dayChangePct": 0,
-        "dayOpen": 6.8578,
+        "dayOpen": 6.8607,
         "dayHigh": 6.8607,
-        "dayLow": 6.8578
+        "dayLow": 6.8607
       },
       {
         "symbol": "XAUEUR",
@@ -733,12 +733,12 @@
         "ask": 3665.0433,
         "change": 0,
         "changePct": 0,
-        "prevClose": 3653.2054,
-        "dayChange": 5.022600000000239,
-        "dayChangePct": 0.13748474148210332,
-        "dayOpen": 3652.0669,
-        "dayHigh": 3659.8725,
-        "dayLow": 3651.5921
+        "prevClose": 3658.228,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 3658.228,
+        "dayHigh": 3658.228,
+        "dayLow": 3658.228
       },
       {
         "symbol": "XPTUSD",
@@ -747,11 +747,11 @@
         "ask": 1543.7,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1532.3,
-        "dayChange": -2.7000000000000455,
-        "dayChangePct": -0.17620570384389778,
-        "dayOpen": 1530.4,
-        "dayHigh": 1530.8,
+        "prevClose": 1529.6,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1529.6,
+        "dayHigh": 1529.6,
         "dayLow": 1529.6
       },
       {
@@ -761,11 +761,11 @@
         "ask": 1034.7,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1023.2,
-        "dayChange": -5.400000000000091,
-        "dayChangePct": -0.5277560594214318,
-        "dayOpen": 1025,
-        "dayHigh": 1025,
+        "prevClose": 1017.8,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1017.8,
+        "dayHigh": 1017.8,
         "dayLow": 1017.8
       },
       {
@@ -775,11 +775,11 @@
         "ask": 49630,
         "change": 0,
         "changePct": 0,
-        "prevClose": 44260,
-        "dayChange": -80,
-        "dayChangePct": -0.18075011296882063,
-        "dayOpen": 44200,
-        "dayHigh": 44210,
+        "prevClose": 44180,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 44180,
+        "dayHigh": 44180,
         "dayLow": 44180
       },
       {
@@ -789,11 +789,11 @@
         "ask": 33270,
         "change": 0,
         "changePct": 0,
-        "prevClose": 22890,
-        "dayChange": -170,
-        "dayChangePct": -0.7426823940585409,
-        "dayOpen": 22950,
-        "dayHigh": 22950,
+        "prevClose": 22720,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 22720,
+        "dayHigh": 22720,
         "dayLow": 22720
       },
       {
@@ -803,12 +803,12 @@
         "ask": 497.2679,
         "change": 0,
         "changePct": 0,
-        "prevClose": 490.9609,
-        "dayChange": 0.9698000000000206,
-        "dayChangePct": 0.19753100501486384,
-        "dayOpen": 490.9961,
-        "dayHigh": 492.1367,
-        "dayLow": 490.9258
+        "prevClose": 491.9307,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 491.9307,
+        "dayHigh": 491.9307,
+        "dayLow": 491.9307
       },
       {
         "symbol": "10 Gr Gram Altın",
@@ -817,12 +817,12 @@
         "ask": 1320.6003,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1308.432,
-        "dayChange": 2.472099999999955,
-        "dayChangePct": 0.18893607004414098,
-        "dayOpen": 1308.5827,
-        "dayHigh": 1311.4568,
-        "dayLow": 1308.2812
+        "prevClose": 1310.9041,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1310.9041,
+        "dayHigh": 1310.9041,
+        "dayLow": 1310.9041
       },
       {
         "symbol": "20 Gr Gram Altın",
@@ -831,12 +831,12 @@
         "ask": 1989.0718,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1963.8438,
-        "dayChange": 3.8789999999999054,
-        "dayChangePct": 0.1975208007887341,
-        "dayOpen": 1963.9845,
-        "dayHigh": 1968.5468,
-        "dayLow": 1963.7031
+        "prevClose": 1967.7228,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1967.7228,
+        "dayHigh": 1967.7228,
+        "dayLow": 1967.7228
       },
       {
         "symbol": "50 Gr Gram Altın",
@@ -845,12 +845,12 @@
         "ask": 4972.6794,
         "change": 0,
         "changePct": 0,
-        "prevClose": 4909.6095,
-        "dayChange": 9.697500000000218,
-        "dayChangePct": 0.19752080078874337,
-        "dayOpen": 4909.9612,
-        "dayHigh": 4921.3671,
-        "dayLow": 4909.2578
+        "prevClose": 4919.307,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 4919.307,
+        "dayHigh": 4919.307,
+        "dayLow": 4919.307
       },
       {
         "symbol": "100 Gr Gram Altın",
@@ -859,12 +859,12 @@
         "ask": 9945.3588,
         "change": 0,
         "changePct": 0,
-        "prevClose": 9819.219,
-        "dayChange": 19.395000000000437,
-        "dayChangePct": 0.19752080078874337,
-        "dayOpen": 9819.9224,
-        "dayHigh": 9842.7342,
-        "dayLow": 9818.5155
+        "prevClose": 9838.614,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 9838.614,
+        "dayHigh": 9838.614,
+        "dayLow": 9838.614
       },
       {
         "symbol": "XAUUSDS",
@@ -873,12 +873,12 @@
         "ask": 4071.24,
         "change": 0,
         "changePct": 0,
-        "prevClose": 4063.57,
-        "dayChange": 7.049999999999727,
-        "dayChangePct": 0.17349276621295381,
-        "dayOpen": 4064.02,
+        "prevClose": 4070.62,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 4070.62,
         "dayHigh": 4070.62,
-        "dayLow": 4063.09
+        "dayLow": 4070.62
       },
       {
         "symbol": "USDRUB",
@@ -901,12 +901,12 @@
         "ask": 1.1127,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1.1107,
-        "dayChange": 0.00009999999999998899,
-        "dayChangePct": 0.009003331232555053,
-        "dayOpen": 1.1112,
-        "dayHigh": 1.1112,
-        "dayLow": 1.1105
+        "prevClose": 1.1108,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1.1108,
+        "dayHigh": 1.1108,
+        "dayLow": 1.1108
       },
       {
         "symbol": "KXAGUSD",
@@ -915,12 +915,12 @@
         "ask": 51.972,
         "change": 0,
         "changePct": 0,
-        "prevClose": 51.955,
-        "dayChange": -0.028999999999996362,
-        "dayChangePct": -0.055817534404766354,
-        "dayOpen": 51.905,
+        "prevClose": 51.926,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 51.926,
         "dayHigh": 51.926,
-        "dayLow": 51.856
+        "dayLow": 51.926
       },
       {
         "symbol": "XUSDTRY",
@@ -929,12 +929,12 @@
         "ask": 50.2346,
         "change": 0,
         "changePct": 0,
-        "prevClose": 50.1129,
-        "dayChange": 0.03719999999999857,
-        "dayChangePct": 0.07423238327855415,
-        "dayOpen": 50.1119,
-        "dayHigh": 50.1701,
-        "dayLow": 50.1001
+        "prevClose": 50.1501,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 50.1501,
+        "dayHigh": 50.1501,
+        "dayLow": 50.1501
       },
       {
         "symbol": "FARKEUR",
@@ -957,12 +957,12 @@
         "ask": 15.85,
         "change": 0,
         "changePct": 0,
-        "prevClose": 6.52,
-        "dayChange": 0.6400000000000006,
-        "dayChangePct": 9.81595092024541,
-        "dayOpen": 6.54,
-        "dayHigh": 8.88,
-        "dayLow": 5.6
+        "prevClose": 7.16,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 7.16,
+        "dayHigh": 7.16,
+        "dayLow": 7.16
       },
       {
         "symbol": "EURGBP",
@@ -971,12 +971,12 @@
         "ask": 0.8379,
         "change": 0,
         "changePct": 0,
-        "prevClose": 0.8335,
-        "dayChange": 0.00019999999999997797,
-        "dayChangePct": 0.023995200959805393,
-        "dayOpen": 0.8339,
-        "dayHigh": 0.8339,
-        "dayLow": 0.8335
+        "prevClose": 0.8337,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 0.8337,
+        "dayHigh": 0.8337,
+        "dayLow": 0.8337
       },
       {
         "symbol": "EURCHF",
@@ -985,12 +985,12 @@
         "ask": 0.9206,
         "change": 0,
         "changePct": 0,
-        "prevClose": 0.9146,
-        "dayChange": 0.000300000000000078,
-        "dayChangePct": 0.03280122457905948,
-        "dayOpen": 0.9144,
+        "prevClose": 0.9149,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 0.9149,
         "dayHigh": 0.9149,
-        "dayLow": 0.9142
+        "dayLow": 0.9149
       },
       {
         "symbol": "VADE FARK",
@@ -1013,12 +1013,12 @@
         "ask": 6589.3303,
         "change": 0,
         "changePct": 0,
-        "prevClose": 6555.4234,
-        "dayChange": 10.71140000000014,
-        "dayChangePct": 0.16339753127159018,
-        "dayOpen": 6556.0517,
-        "dayHigh": 6568.9033,
-        "dayLow": 6554.744
+        "prevClose": 6566.1348,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 6566.1348,
+        "dayHigh": 6566.1348,
+        "dayLow": 6566.1348
       },
       {
         "symbol": "BANKAUSD",
@@ -1027,11 +1027,11 @@
         "ask": 50.146,
         "change": 0,
         "changePct": 0,
-        "prevClose": 50.0964,
-        "dayChange": -0.012800000000005696,
-        "dayChangePct": -0.025550738176806507,
-        "dayOpen": 50.0954,
-        "dayHigh": 50.0969,
+        "prevClose": 50.0836,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 50.0836,
+        "dayHigh": 50.0836,
         "dayLow": 50.0836
       },
       {
@@ -1041,12 +1041,12 @@
         "ask": 6185.06,
         "change": 0,
         "changePct": 0,
-        "prevClose": 5966.37,
-        "dayChange": 15.699999999999818,
-        "dayChangePct": 0.26314157519563514,
-        "dayOpen": 5967.35,
-        "dayHigh": 5986.98,
-        "dayLow": 5965.99
+        "prevClose": 5982.07,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 5982.07,
+        "dayHigh": 5982.07,
+        "dayLow": 5982.07
       },
       {
         "symbol": "KULCEALTIN",
@@ -1055,12 +1055,12 @@
         "ask": 6620.93,
         "change": 0,
         "changePct": 0,
-        "prevClose": 6525.86,
-        "dayChange": 17.170000000000073,
-        "dayChangePct": 0.2631070847367255,
-        "dayOpen": 6526.92,
-        "dayHigh": 6548.39,
-        "dayLow": 6525.44
+        "prevClose": 6543.03,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 6543.03,
+        "dayHigh": 6543.03,
+        "dayLow": 6543.03
       },
       {
         "symbol": "CEYREK_YENI",
@@ -1069,12 +1069,12 @@
         "ask": 10791,
         "change": 0,
         "changePct": 0,
-        "prevClose": 10677,
-        "dayChange": 29,
-        "dayChangePct": 0.2716118759951297,
-        "dayOpen": 10679,
-        "dayHigh": 10714,
-        "dayLow": 10677
+        "prevClose": 10706,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 10706,
+        "dayHigh": 10706,
+        "dayLow": 10706
       },
       {
         "symbol": "CEYREK_ESKI",
@@ -1083,12 +1083,12 @@
         "ask": 10666,
         "change": 0,
         "changePct": 0,
-        "prevClose": 10540,
-        "dayChange": 47,
-        "dayChangePct": 0.4459203036053131,
-        "dayOpen": 10541,
-        "dayHigh": 10596,
-        "dayLow": 10539
+        "prevClose": 10587,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 10587,
+        "dayHigh": 10587,
+        "dayLow": 10587
       },
       {
         "symbol": "YARIM_YENI",
@@ -1097,12 +1097,12 @@
         "ask": 21576,
         "change": 0,
         "changePct": 0,
-        "prevClose": 21381,
-        "dayChange": 56,
-        "dayChangePct": 0.2619147841541556,
-        "dayOpen": 21385,
-        "dayHigh": 21455,
-        "dayLow": 21380
+        "prevClose": 21437,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 21437,
+        "dayHigh": 21437,
+        "dayLow": 21437
       },
       {
         "symbol": "YARIM_ESKI",
@@ -1111,12 +1111,12 @@
         "ask": 21200,
         "change": 0,
         "changePct": 0,
-        "prevClose": 21020,
-        "dayChange": 56,
-        "dayChangePct": 0.2664129400570885,
-        "dayOpen": 21024,
-        "dayHigh": 21093,
-        "dayLow": 21019
+        "prevClose": 21076,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 21076,
+        "dayHigh": 21076,
+        "dayLow": 21076
       },
       {
         "symbol": "TEK_YENI",
@@ -1125,12 +1125,12 @@
         "ask": 42993,
         "change": 0,
         "changePct": 0,
-        "prevClose": 42631,
-        "dayChange": 112,
-        "dayChangePct": 0.2627196171799864,
-        "dayOpen": 42638,
-        "dayHigh": 42778,
-        "dayLow": 42628
+        "prevClose": 42743,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 42743,
+        "dayHigh": 42743,
+        "dayLow": 42743
       },
       {
         "symbol": "TEK_ESKI",
@@ -1139,12 +1139,12 @@
         "ask": 42498,
         "change": 0,
         "changePct": 0,
-        "prevClose": 42107,
-        "dayChange": 143,
-        "dayChangePct": 0.33961099104661935,
-        "dayOpen": 42113,
-        "dayHigh": 42285,
-        "dayLow": 42104
+        "prevClose": 42250,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 42250,
+        "dayHigh": 42250,
+        "dayLow": 42250
       },
       {
         "symbol": "ATA_YENI",
@@ -1153,12 +1153,12 @@
         "ask": 44142,
         "change": 0,
         "changePct": 0,
-        "prevClose": 43779,
-        "dayChange": 115,
-        "dayChangePct": 0.2626830215400078,
-        "dayOpen": 43786,
-        "dayHigh": 43930,
-        "dayLow": 43776
+        "prevClose": 43894,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 43894,
+        "dayHigh": 43894,
+        "dayLow": 43894
       },
       {
         "symbol": "ATA_ESKI",
@@ -1167,12 +1167,12 @@
         "ask": 43838,
         "change": 0,
         "changePct": 0,
-        "prevClose": 43471,
-        "dayChange": 127,
-        "dayChangePct": 0.2921487888477376,
-        "dayOpen": 43478,
-        "dayHigh": 43634,
-        "dayLow": 43468
+        "prevClose": 43598,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 43598,
+        "dayHigh": 43598,
+        "dayLow": 43598
       },
       {
         "symbol": "ATA5_YENI",
@@ -1181,12 +1181,12 @@
         "ask": 220528,
         "change": 0,
         "changePct": 0,
-        "prevClose": 218403,
-        "dayChange": 575,
-        "dayChangePct": 0.2632747718666868,
-        "dayOpen": 218439,
-        "dayHigh": 219157,
-        "dayLow": 218389
+        "prevClose": 218978,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 218978,
+        "dayHigh": 218978,
+        "dayLow": 218978
       },
       {
         "symbol": "ATA5_ESKI",
@@ -1195,12 +1195,12 @@
         "ask": 218877,
         "change": 0,
         "changePct": 0,
-        "prevClose": 216763,
-        "dayChange": 571,
-        "dayChangePct": 0.26342134035790243,
-        "dayOpen": 216799,
-        "dayHigh": 217512,
-        "dayLow": 216750
+        "prevClose": 217334,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 217334,
+        "dayHigh": 217334,
+        "dayLow": 217334
       },
       {
         "symbol": "GREMESE_YENI",
@@ -1209,12 +1209,12 @@
         "ask": 107054,
         "change": 0,
         "changePct": 0,
-        "prevClose": 105791,
-        "dayChange": 278,
-        "dayChangePct": 0.26278227826563694,
-        "dayOpen": 105808,
-        "dayHigh": 106156,
-        "dayLow": 105784
+        "prevClose": 106069,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 106069,
+        "dayHigh": 106069,
+        "dayLow": 106069
       },
       {
         "symbol": "GREMESE_ESKI",
@@ -1223,12 +1223,12 @@
         "ask": 106328,
         "change": 0,
         "changePct": 0,
-        "prevClose": 104938,
-        "dayChange": 277,
-        "dayChangePct": 0.2639653890868894,
-        "dayOpen": 104956,
-        "dayHigh": 105301,
-        "dayLow": 104932
+        "prevClose": 105215,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 105215,
+        "dayHigh": 105215,
+        "dayLow": 105215
       },
       {
         "symbol": "AYAR14",
@@ -1237,12 +1237,12 @@
         "ask": 4790.73,
         "change": 0,
         "changePct": 0,
-        "prevClose": 3582.84,
-        "dayChange": 9.670000000000073,
-        "dayChangePct": 0.2698976231146262,
-        "dayOpen": 3583.45,
-        "dayHigh": 3595.53,
-        "dayLow": 3582.61
+        "prevClose": 3592.51,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 3592.51,
+        "dayHigh": 3592.51,
+        "dayLow": 3592.51
       },
       {
         "symbol": "ONS",
@@ -1251,12 +1251,12 @@
         "ask": 4071.2,
         "change": 0,
         "changePct": 0,
-        "prevClose": 4063.6,
-        "dayChange": 7,
-        "dayChangePct": 0.17226104931587757,
-        "dayOpen": 4064.3,
+        "prevClose": 4070.6,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 4070.6,
         "dayHigh": 4070.6,
-        "dayLow": 4063.1
+        "dayLow": 4070.6
       },
       {
         "symbol": "USDPURE",
@@ -1265,12 +1265,12 @@
         "ask": 131.406,
         "change": 0,
         "changePct": 0,
-        "prevClose": 130.858,
-        "dayChange": 0.24699999999998568,
-        "dayChangePct": 0.1887542221339052,
-        "dayOpen": 130.881,
-        "dayHigh": 131.16,
-        "dayLow": 130.848
+        "prevClose": 131.105,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 131.105,
+        "dayHigh": 131.105,
+        "dayLow": 131.105
       },
       {
         "symbol": "USDKG",
@@ -1279,12 +1279,12 @@
         "ask": 130750,
         "change": 0,
         "changePct": 0,
-        "prevClose": 130200,
-        "dayChange": 250,
-        "dayChangePct": 0.19201228878648233,
-        "dayOpen": 130230,
-        "dayHigh": 130500,
-        "dayLow": 130190
+        "prevClose": 130450,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 130450,
+        "dayHigh": 130450,
+        "dayLow": 130450
       },
       {
         "symbol": "GUMUSTRY",
@@ -1293,12 +1293,12 @@
         "ask": 87.167,
         "change": 0,
         "changePct": 0,
-        "prevClose": 80.484,
-        "dayChange": 0.01300000000000523,
-        "dayChangePct": 0.01615227871378812,
-        "dayOpen": 80.409,
-        "dayHigh": 80.529,
-        "dayLow": 80.329
+        "prevClose": 80.497,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 80.497,
+        "dayHigh": 80.497,
+        "dayLow": 80.497
       },
       {
         "symbol": "GUMUSUSD",
@@ -1307,12 +1307,12 @@
         "ask": 1735.2,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1606.1,
-        "dayChange": -1,
-        "dayChangePct": -0.062262623746964695,
-        "dayOpen": 1604.6,
+        "prevClose": 1605.1,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1605.1,
         "dayHigh": 1605.1,
-        "dayLow": 1602.9
+        "dayLow": 1605.1
       },
       {
         "symbol": "EURKG",
@@ -1321,12 +1321,12 @@
         "ask": 117700,
         "change": 0,
         "changePct": 0,
-        "prevClose": 117050,
-        "dayChange": 180,
-        "dayChangePct": 0.1537804357112345,
-        "dayOpen": 117030,
-        "dayHigh": 117310,
-        "dayLow": 117000
+        "prevClose": 117230,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 117230,
+        "dayHigh": 117230,
+        "dayLow": 117230
       },
       {
         "symbol": "OMRUSD",
@@ -1377,12 +1377,12 @@
         "ask": 71.8369,
         "change": 0,
         "changePct": 0,
-        "prevClose": 68.1524,
-        "dayChange": 0.050700000000006185,
-        "dayChangePct": 0.07439209771043453,
-        "dayOpen": 68.1516,
-        "dayHigh": 68.2303,
-        "dayLow": 68.1351
+        "prevClose": 68.2031,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 68.2031,
+        "dayHigh": 68.2031,
+        "dayLow": 68.2031
       },
       {
         "symbol": "USDILS",
@@ -1461,12 +1461,12 @@
         "ask": 164.898,
         "change": 0,
         "changePct": 0,
-        "prevClose": 153.9476,
-        "dayChange": 0.1144999999999925,
-        "dayChangePct": 0.0743759564942828,
-        "dayOpen": 153.9456,
-        "dayHigh": 154.1235,
-        "dayLow": 153.9083
+        "prevClose": 154.0621,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 154.0621,
+        "dayHigh": 154.0621,
+        "dayLow": 154.0621
       },
       {
         "symbol": "ILSTRY",
@@ -1503,12 +1503,12 @@
         "ask": 50.235,
         "change": 0,
         "changePct": 0,
-        "prevClose": 50.113,
-        "dayChange": 0.036999999999999034,
-        "dayChangePct": 0.07383313711012918,
-        "dayOpen": 50.112,
-        "dayHigh": 50.17,
-        "dayLow": 50.1
+        "prevClose": 50.15,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 50.15,
+        "dayHigh": 50.15,
+        "dayLow": 50.15
       },
       {
         "symbol": "DS_USDSAR",
@@ -1548,9 +1548,9 @@
         "prevClose": 6.8607,
         "dayChange": 0,
         "dayChangePct": 0,
-        "dayOpen": 6.8578,
+        "dayOpen": 6.8607,
         "dayHigh": 6.8607,
-        "dayLow": 6.8578
+        "dayLow": 6.8607
       },
       {
         "symbol": "DS_USDJPY",
@@ -1559,12 +1559,12 @@
         "ask": 160.048,
         "change": 0,
         "changePct": 0,
-        "prevClose": 158.759,
-        "dayChange": 0.058000000000021146,
-        "dayChangePct": 0.03653336188815824,
-        "dayOpen": 158.774,
+        "prevClose": 158.817,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 158.817,
         "dayHigh": 158.817,
-        "dayLow": 158.774
+        "dayLow": 158.817
       },
       {
         "symbol": "DS_USDNOK",
@@ -1573,12 +1573,12 @@
         "ask": 13.472,
         "change": 0,
         "changePct": 0,
-        "prevClose": 9.5072,
-        "dayChange": 0.0010000000000012221,
-        "dayChangePct": 0.010518343991934768,
-        "dayOpen": 9.5057,
+        "prevClose": 9.5082,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 9.5082,
         "dayHigh": 9.5082,
-        "dayLow": 9.5057
+        "dayLow": 9.5082
       },
       {
         "symbol": "DS_USDSEK",
@@ -1587,12 +1587,12 @@
         "ask": 13.9036,
         "change": 0,
         "changePct": 0,
-        "prevClose": 9.9399,
-        "dayChange": 0.00009999999999976694,
-        "dayChangePct": 0.0010060463384920064,
-        "dayOpen": 9.9378,
+        "prevClose": 9.94,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 9.94,
         "dayHigh": 9.94,
-        "dayLow": 9.9359
+        "dayLow": 9.94
       },
       {
         "symbol": "DS_USDCHF",
@@ -1601,12 +1601,12 @@
         "ask": 0.8288,
         "change": 0,
         "changePct": 0,
-        "prevClose": 0.8223,
-        "dayChange": -0.00009999999999998899,
-        "dayChangePct": -0.012161011796180102,
-        "dayOpen": 0.8217,
+        "prevClose": 0.8222,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 0.8222,
         "dayHigh": 0.8222,
-        "dayLow": 0.8216
+        "dayLow": 0.8222
       },
       {
         "symbol": "DS_GBPUSD",
@@ -1615,11 +1615,11 @@
         "ask": 1.3324,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1.3281,
-        "dayChange": -0.00019999999999997797,
-        "dayChangePct": -0.015059106994953539,
-        "dayOpen": 1.3282,
-        "dayHigh": 1.3282,
+        "prevClose": 1.3279,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1.3279,
+        "dayHigh": 1.3279,
         "dayLow": 1.3279
       },
       {
@@ -1629,12 +1629,12 @@
         "ask": 0.6827,
         "change": 0,
         "changePct": 0,
-        "prevClose": 0.6715,
-        "dayChange": -0.00019999999999997797,
-        "dayChangePct": -0.029784065524940877,
-        "dayOpen": 0.6712,
+        "prevClose": 0.6713,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 0.6713,
         "dayHigh": 0.6713,
-        "dayLow": 0.6712
+        "dayLow": 0.6713
       },
       {
         "symbol": "DS_USDCAD",
@@ -1643,12 +1643,12 @@
         "ask": 1.4261,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1.4185,
-        "dayChange": -0.000600000000000156,
-        "dayChangePct": -0.04229820232641212,
-        "dayOpen": 1.4174,
+        "prevClose": 1.4179,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1.4179,
         "dayHigh": 1.4179,
-        "dayLow": 1.4174
+        "dayLow": 1.4179
       },
       {
         "symbol": "DS_GBPTRY",
@@ -1657,12 +1657,12 @@
         "ask": 66.933,
         "change": 0,
         "changePct": 0,
-        "prevClose": 66.555,
-        "dayChange": 0.03899999999998727,
-        "dayChangePct": 0.058598151904420796,
-        "dayOpen": 66.559,
-        "dayHigh": 66.621,
-        "dayLow": 66.528
+        "prevClose": 66.594,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 66.594,
+        "dayHigh": 66.594,
+        "dayLow": 66.594
       },
       {
         "symbol": "DS_AUDTRY",
@@ -1671,12 +1671,12 @@
         "ask": 34.295,
         "change": 0,
         "changePct": 0,
-        "prevClose": 33.651,
-        "dayChange": 0.014999999999993463,
-        "dayChangePct": 0.044575198359613266,
-        "dayOpen": 33.635,
-        "dayHigh": 33.679,
-        "dayLow": 33.632
+        "prevClose": 33.666,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 33.666,
+        "dayHigh": 33.666,
+        "dayLow": 33.666
       },
       {
         "symbol": "DS_SARTRY",
@@ -1685,12 +1685,12 @@
         "ask": 13.414,
         "change": 0,
         "changePct": 0,
-        "prevClose": 13.17,
-        "dayChange": 0.009999999999999787,
-        "dayChangePct": 0.07593014426727249,
-        "dayOpen": 13.17,
-        "dayHigh": 13.185,
-        "dayLow": 13.167
+        "prevClose": 13.18,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 13.18,
+        "dayHigh": 13.18,
+        "dayLow": 13.18
       },
       {
         "symbol": "DS_JPYTRY",
@@ -1699,12 +1699,12 @@
         "ask": 0.3363,
         "change": 0,
         "changePct": 0,
-        "prevClose": 0.3132,
-        "dayChange": 0.0001000000000000445,
-        "dayChangePct": 0.031928480204356485,
-        "dayOpen": 0.3132,
-        "dayHigh": 0.3135,
-        "dayLow": 0.313
+        "prevClose": 0.3133,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 0.3133,
+        "dayHigh": 0.3133,
+        "dayLow": 0.3133
       },
       {
         "symbol": "DS_NOKTRY",
@@ -1713,12 +1713,12 @@
         "ask": 4.508,
         "change": 0,
         "changePct": 0,
-        "prevClose": 4.495,
-        "dayChange": 0.0030000000000001137,
-        "dayChangePct": 0.06674082313682121,
-        "dayOpen": 4.496,
-        "dayHigh": 4.499,
-        "dayLow": 4.494
+        "prevClose": 4.498,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 4.498,
+        "dayHigh": 4.498,
+        "dayLow": 4.498
       },
       {
         "symbol": "DS_SEKTRY",
@@ -1727,12 +1727,12 @@
         "ask": 4.84,
         "change": 0,
         "changePct": 0,
-        "prevClose": 3.918,
-        "dayChange": 0.0019999999999997797,
-        "dayChangePct": 0.0510464522715615,
-        "dayOpen": 3.919,
-        "dayHigh": 3.921,
-        "dayLow": 3.917
+        "prevClose": 3.92,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 3.92,
+        "dayHigh": 3.92,
+        "dayLow": 3.92
       },
       {
         "symbol": "DS_CADTRY",
@@ -1741,12 +1741,12 @@
         "ask": 35.579,
         "change": 0,
         "changePct": 0,
-        "prevClose": 35.125,
-        "dayChange": 0.04099999999999682,
-        "dayChangePct": 0.11672597864767777,
-        "dayOpen": 35.151,
-        "dayHigh": 35.18,
-        "dayLow": 35.131
+        "prevClose": 35.166,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 35.166,
+        "dayHigh": 35.166,
+        "dayLow": 35.166
       },
       {
         "symbol": "DS_DKKTRY",
@@ -1755,12 +1755,12 @@
         "ask": 7.322,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1.539,
-        "dayChange": 0.001000000000000112,
-        "dayChangePct": 0.06497725795972137,
-        "dayOpen": 1.539,
-        "dayHigh": 1.541,
-        "dayLow": 1.539
+        "prevClose": 1.54,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1.54,
+        "dayHigh": 1.54,
+        "dayLow": 1.54
       },
       {
         "symbol": "DS_CHFTRY",
@@ -1769,12 +1769,12 @@
         "ask": 61.098,
         "change": 0,
         "changePct": 0,
-        "prevClose": 60.45,
-        "dayChange": 0.0589999999999975,
-        "dayChangePct": 0.09760132340777088,
-        "dayOpen": 60.492,
-        "dayHigh": 60.533,
-        "dayLow": 60.449
+        "prevClose": 60.509,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 60.509,
+        "dayHigh": 60.509,
+        "dayLow": 60.509
       },
       {
         "symbol": "DS_KULCEALTIN",
@@ -1783,12 +1783,12 @@
         "ask": 6620.79,
         "change": 0,
         "changePct": 0,
-        "prevClose": 6526.29,
-        "dayChange": 16.670000000000073,
-        "dayChangePct": 0.25542842870911453,
-        "dayOpen": 6527.6,
-        "dayHigh": 6548.32,
-        "dayLow": 6525.21
+        "prevClose": 6542.96,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 6542.96,
+        "dayHigh": 6542.96,
+        "dayLow": 6542.96
       },
       {
         "symbol": "DS_EURUSD",
@@ -1797,12 +1797,12 @@
         "ask": 1.1127,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1.1107,
-        "dayChange": 0.00009999999999998899,
-        "dayChangePct": 0.009003331232555053,
-        "dayOpen": 1.1112,
-        "dayHigh": 1.1112,
-        "dayLow": 1.1105
+        "prevClose": 1.1108,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1.1108,
+        "dayHigh": 1.1108,
+        "dayLow": 1.1108
       },
       {
         "symbol": "DS_EURCHF",
@@ -1811,12 +1811,12 @@
         "ask": 0.9206,
         "change": 0,
         "changePct": 0,
-        "prevClose": 0.9146,
-        "dayChange": 0.000300000000000078,
-        "dayChangePct": 0.03280122457905948,
-        "dayOpen": 0.9144,
+        "prevClose": 0.9149,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 0.9149,
         "dayHigh": 0.9149,
-        "dayLow": 0.9142
+        "dayLow": 0.9149
       },
       {
         "symbol": "DS_XPTUSD",
@@ -1825,11 +1825,11 @@
         "ask": 1544,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1532,
-        "dayChange": -2,
-        "dayChangePct": -0.13054830287206268,
-        "dayOpen": 1531,
-        "dayHigh": 1531,
+        "prevClose": 1530,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1530,
+        "dayHigh": 1530,
         "dayLow": 1530
       },
       {
@@ -1839,12 +1839,12 @@
         "ask": 50.235,
         "change": 0,
         "changePct": 0,
-        "prevClose": 50.113,
-        "dayChange": 0.036999999999999034,
-        "dayChangePct": 0.07383313711012918,
-        "dayOpen": 50.112,
-        "dayHigh": 50.17,
-        "dayLow": 50.1
+        "prevClose": 50.15,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 50.15,
+        "dayHigh": 50.15,
+        "dayLow": 50.15
       },
       {
         "symbol": "DS_ALTIN",
@@ -1853,12 +1853,12 @@
         "ask": 6600.99,
         "change": 0,
         "changePct": 0,
-        "prevClose": 6559.09,
-        "dayChange": 16.75,
-        "dayChangePct": 0.2553707907651824,
-        "dayOpen": 6560.4,
-        "dayHigh": 6581.23,
-        "dayLow": 6558
+        "prevClose": 6575.84,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 6575.84,
+        "dayHigh": 6575.84,
+        "dayLow": 6575.84
       },
       {
         "symbol": "DS_BANKAALTIN",
@@ -1867,12 +1867,12 @@
         "ask": 6589.3303,
         "change": 0,
         "changePct": 0,
-        "prevClose": 6555.9269,
-        "dayChange": 10.207899999999427,
-        "dayChangePct": 0.15570490879023416,
-        "dayOpen": 6557.26,
-        "dayHigh": 6568.9033,
-        "dayLow": 6554.8447
+        "prevClose": 6566.1348,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 6566.1348,
+        "dayHigh": 6566.1348,
+        "dayLow": 6566.1348
       },
       {
         "symbol": "DS_XAUXAG",
@@ -1881,12 +1881,12 @@
         "ask": 81.45,
         "change": 0,
         "changePct": 0,
-        "prevClose": 75.02,
-        "dayChange": 0.1600000000000108,
-        "dayChangePct": 0.21327645961078484,
-        "dayOpen": 75.09,
-        "dayHigh": 75.21,
-        "dayLow": 75.09
+        "prevClose": 75.18,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 75.18,
+        "dayHigh": 75.18,
+        "dayLow": 75.18
       },
       {
         "symbol": "DS_XAGUSD",
@@ -1895,12 +1895,12 @@
         "ask": 51.97,
         "change": 0,
         "changePct": 0,
-        "prevClose": 51.96,
-        "dayChange": -0.030000000000001137,
-        "dayChangePct": -0.05773672055427471,
-        "dayOpen": 51.92,
+        "prevClose": 51.93,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 51.93,
         "dayHigh": 51.93,
-        "dayLow": 51.86
+        "dayLow": 51.93
       },
       {
         "symbol": "DS_EURTRY",
@@ -1909,12 +1909,12 @@
         "ask": 55.898,
         "change": 0,
         "changePct": 0,
-        "prevClose": 55.661,
-        "dayChange": 0.046999999999997044,
-        "dayChangePct": 0.084439733386028,
-        "dayOpen": 55.685,
-        "dayHigh": 55.73,
-        "dayLow": 55.643
+        "prevClose": 55.708,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 55.708,
+        "dayHigh": 55.708,
+        "dayLow": 55.708
       },
       {
         "symbol": "DS_BANKAUSD",
@@ -1923,11 +1923,11 @@
         "ask": 50.146,
         "change": 0,
         "changePct": 0,
-        "prevClose": 50.0964,
-        "dayChange": -0.012800000000005696,
-        "dayChangePct": -0.025550738176806507,
-        "dayOpen": 50.0954,
-        "dayHigh": 50.0969,
+        "prevClose": 50.0836,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 50.0836,
+        "dayHigh": 50.0836,
         "dayLow": 50.0836
       },
       {
@@ -1937,11 +1937,11 @@
         "ask": 1035,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1023,
-        "dayChange": -5,
-        "dayChangePct": -0.4887585532746823,
-        "dayOpen": 1025,
-        "dayHigh": 1025,
+        "prevClose": 1018,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 1018,
+        "dayHigh": 1018,
         "dayLow": 1018
       },
       {
@@ -1951,11 +1951,11 @@
         "ask": 49630,
         "change": 0,
         "changePct": 0,
-        "prevClose": 44250,
-        "dayChange": -70,
-        "dayChangePct": -0.1581920903954802,
-        "dayOpen": 44210,
-        "dayHigh": 44210,
+        "prevClose": 44180,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 44180,
+        "dayHigh": 44180,
         "dayLow": 44180
       },
       {
@@ -1965,11 +1965,11 @@
         "ask": 33270,
         "change": 0,
         "changePct": 0,
-        "prevClose": 22880,
-        "dayChange": -160,
-        "dayChangePct": -0.6993006993006993,
-        "dayOpen": 22960,
-        "dayHigh": 22960,
+        "prevClose": 22720,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 22720,
+        "dayHigh": 22720,
         "dayLow": 22720
       },
       {
@@ -1979,12 +1979,12 @@
         "ask": 3665,
         "change": 0,
         "changePct": 0,
-        "prevClose": 3653.5,
-        "dayChange": 4.699999999999818,
-        "dayChangePct": 0.12864376625153465,
-        "dayOpen": 3652.8,
-        "dayHigh": 3659.9,
-        "dayLow": 3651.5
+        "prevClose": 3658.2,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 3658.2,
+        "dayHigh": 3658.2,
+        "dayLow": 3658.2
       },
       {
         "symbol": "DS_EURGBP",
@@ -1993,12 +1993,12 @@
         "ask": 0.8379,
         "change": 0,
         "changePct": 0,
-        "prevClose": 0.8335,
-        "dayChange": 0.00019999999999997797,
-        "dayChangePct": 0.023995200959805393,
-        "dayOpen": 0.8339,
-        "dayHigh": 0.8339,
-        "dayLow": 0.8335
+        "prevClose": 0.8337,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 0.8337,
+        "dayHigh": 0.8337,
+        "dayLow": 0.8337
       },
       {
         "symbol": "DS_GBPPURE",
@@ -2007,12 +2007,12 @@
         "ask": 98960,
         "change": 0,
         "changePct": 0,
-        "prevClose": 98210,
-        "dayChange": 190,
-        "dayChangePct": 0.19346298747581714,
-        "dayOpen": 98230,
-        "dayHigh": 98440,
-        "dayLow": 98190
+        "prevClose": 98400,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 98400,
+        "dayHigh": 98400,
+        "dayLow": 98400
       },
       {
         "symbol": "DS_EURPURE",
@@ -2021,12 +2021,12 @@
         "ask": 118270,
         "change": 0,
         "changePct": 0,
-        "prevClose": 117530,
-        "dayChange": 170,
-        "dayChangePct": 0.1446439207010976,
-        "dayOpen": 117510,
-        "dayHigh": 117780,
-        "dayLow": 117470
+        "prevClose": 117700,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 117700,
+        "dayHigh": 117700,
+        "dayLow": 117700
       },
       {
         "symbol": "DS_PAREUR",
@@ -2035,12 +2035,12 @@
         "ask": 117700,
         "change": 0,
         "changePct": 0,
-        "prevClose": 117060,
-        "dayChange": 170,
-        "dayChangePct": 0.14522467110883308,
-        "dayOpen": 117040,
-        "dayHigh": 117310,
-        "dayLow": 117000
+        "prevClose": 117230,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 117230,
+        "dayHigh": 117230,
+        "dayLow": 117230
       },
       {
         "symbol": "DS_HAUGTRY",
@@ -2049,12 +2049,12 @@
         "ask": 87.167,
         "change": 0,
         "changePct": 0,
-        "prevClose": 80.496,
-        "dayChange": 0.005000000000009663,
-        "dayChangePct": 0.00621148876964031,
-        "dayOpen": 80.43,
-        "dayHigh": 80.533,
-        "dayLow": 80.332
+        "prevClose": 80.501,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 80.501,
+        "dayHigh": 80.501,
+        "dayLow": 80.501
       },
       {
         "symbol": "DS_PARGBP",
@@ -2063,12 +2063,12 @@
         "ask": 98460,
         "change": 0,
         "changePct": 0,
-        "prevClose": 97720,
-        "dayChange": 180,
-        "dayChangePct": 0.18419975440032746,
-        "dayOpen": 97740,
-        "dayHigh": 97950,
-        "dayLow": 97700
+        "prevClose": 97900,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 97900,
+        "dayHigh": 97900,
+        "dayLow": 97900
       },
       {
         "symbol": "DS_USDPURE",
@@ -2077,12 +2077,12 @@
         "ask": 131400,
         "change": 0,
         "changePct": 0,
-        "prevClose": 130870,
-        "dayChange": 230,
-        "dayChangePct": 0.17574692442882248,
-        "dayOpen": 130900,
-        "dayHigh": 131160,
-        "dayLow": 130840
+        "prevClose": 131100,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 131100,
+        "dayHigh": 131100,
+        "dayLow": 131100
       },
       {
         "symbol": "DS_14AYAR",
@@ -2091,12 +2091,12 @@
         "ask": 4790.64,
         "change": 0,
         "changePct": 0,
-        "prevClose": 3583.09,
-        "dayChange": 9.379999999999654,
-        "dayChangePct": 0.2617852189032275,
-        "dayOpen": 3583.82,
-        "dayHigh": 3595.49,
-        "dayLow": 3582.48
+        "prevClose": 3592.47,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 3592.47,
+        "dayHigh": 3592.47,
+        "dayLow": 3592.47
       },
       {
         "symbol": "DS_22AYAR",
@@ -2105,12 +2105,12 @@
         "ask": 6190.94,
         "change": 0,
         "changePct": 0,
-        "prevClose": 5966.77,
-        "dayChange": 15.239999999999782,
-        "dayChangePct": 0.25541457103256504,
-        "dayOpen": 5967.96,
-        "dayHigh": 5986.92,
-        "dayLow": 5965.78
+        "prevClose": 5982.01,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 5982.01,
+        "dayHigh": 5982.01,
+        "dayLow": 5982.01
       },
       {
         "symbol": "DS_GUMUSUSD",
@@ -2119,12 +2119,12 @@
         "ask": 1735,
         "change": 0,
         "changePct": 0,
-        "prevClose": 1606,
-        "dayChange": -1,
-        "dayChangePct": -0.062266500622665005,
+        "prevClose": 1605,
+        "dayChange": 0,
+        "dayChangePct": 0,
         "dayOpen": 1605,
         "dayHigh": 1605,
-        "dayLow": 1603
+        "dayLow": 1605
       },
       {
         "symbol": "DS_PARUSD",
@@ -2133,12 +2133,12 @@
         "ask": 130750,
         "change": 0,
         "changePct": 0,
-        "prevClose": 130210,
-        "dayChange": 240,
-        "dayChangePct": 0.1843176407341986,
-        "dayOpen": 130240,
-        "dayHigh": 130500,
-        "dayLow": 130190
+        "prevClose": 130450,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 130450,
+        "dayHigh": 130450,
+        "dayLow": 130450
       },
       {
         "symbol": "DS_CEYREK_ESKI",
@@ -2147,12 +2147,12 @@
         "ask": 10784,
         "change": 0,
         "changePct": 0,
-        "prevClose": 10593,
-        "dayChange": 27,
-        "dayChangePct": 0.2548853016142736,
-        "dayOpen": 10595,
-        "dayHigh": 10629,
-        "dayLow": 10591
+        "prevClose": 10620,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 10620,
+        "dayHigh": 10620,
+        "dayLow": 10620
       },
       {
         "symbol": "DS_CEYREK_YENI",
@@ -2161,12 +2161,12 @@
         "ask": 10798,
         "change": 0,
         "changePct": 0,
-        "prevClose": 10691,
-        "dayChange": 28,
-        "dayChangePct": 0.2619025348423908,
-        "dayOpen": 10693,
-        "dayHigh": 10727,
-        "dayLow": 10690
+        "prevClose": 10719,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 10719,
+        "dayHigh": 10719,
+        "dayLow": 10719
       },
       {
         "symbol": "DS_YARIM_ESKI",
@@ -2175,12 +2175,12 @@
         "ask": 21232.2,
         "change": 0,
         "changePct": 0,
-        "prevClose": 20989.1,
-        "dayChange": 53.60000000000218,
-        "dayChangePct": 0.25537064476324467,
-        "dayOpen": 20993.3,
-        "dayHigh": 21059.9,
-        "dayLow": 20985.6
+        "prevClose": 21042.7,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 21042.7,
+        "dayHigh": 21042.7,
+        "dayLow": 21042.7
       },
       {
         "symbol": "DS_YARIM_YENI",
@@ -2189,12 +2189,12 @@
         "ask": 21575.4,
         "change": 0,
         "changePct": 0,
-        "prevClose": 21382.6,
-        "dayChange": 54.60000000000218,
-        "dayChangePct": 0.2553478061601592,
-        "dayOpen": 21386.9,
-        "dayHigh": 21454.8,
-        "dayLow": 21379.1
+        "prevClose": 21437.2,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 21437.2,
+        "dayHigh": 21437.2,
+        "dayLow": 21437.2
       },
       {
         "symbol": "DS_TEK_ESKI",
@@ -2203,12 +2203,12 @@
         "ask": 42464.4,
         "change": 0,
         "changePct": 0,
-        "prevClose": 42122.5,
-        "dayChange": 107.5,
-        "dayChangePct": 0.255208024215087,
-        "dayOpen": 42130.9,
-        "dayHigh": 42264.7,
-        "dayLow": 42115.5
+        "prevClose": 42230,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 42230,
+        "dayHigh": 42230,
+        "dayLow": 42230
       },
       {
         "symbol": "DS_TEK_YENI",
@@ -2217,12 +2217,12 @@
         "ask": 43045.3,
         "change": 0,
         "changePct": 0,
-        "prevClose": 42653.8,
-        "dayChange": 108.89999999999418,
-        "dayChangePct": 0.25531136733419807,
-        "dayOpen": 42662.3,
-        "dayHigh": 42797.7,
-        "dayLow": 42646.7
+        "prevClose": 42762.7,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 42762.7,
+        "dayHigh": 42762.7,
+        "dayLow": 42762.7
       },
       {
         "symbol": "DS_ATA_ESKI",
@@ -2231,12 +2231,12 @@
         "ask": 43784.6,
         "change": 0,
         "changePct": 0,
-        "prevClose": 43421.2,
-        "dayChange": 110.90000000000146,
-        "dayChangePct": 0.2554051937763154,
-        "dayOpen": 43429.8,
-        "dayHigh": 43567.7,
-        "dayLow": 43414
+        "prevClose": 43532.1,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 43532.1,
+        "dayHigh": 43532.1,
+        "dayLow": 43532.1
       },
       {
         "symbol": "DS_ATA_YENI",
@@ -2245,12 +2245,12 @@
         "ask": 44134.4,
         "change": 0,
         "changePct": 0,
-        "prevClose": 43716.3,
-        "dayChange": 111.69999999999709,
-        "dayChangePct": 0.2555111022661961,
-        "dayOpen": 43725.1,
-        "dayHigh": 43863.9,
-        "dayLow": 43709.1
+        "prevClose": 43828,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 43828,
+        "dayHigh": 43828,
+        "dayLow": 43828
       },
       {
         "symbol": "DS_GREMESE_ESKI",
@@ -2259,12 +2259,12 @@
         "ask": 106325.9,
         "change": 0,
         "changePct": 0,
-        "prevClose": 104945.4,
-        "dayChange": 268,
-        "dayChangePct": 0.2553708880999072,
-        "dayOpen": 104966.4,
-        "dayHigh": 105299.7,
-        "dayLow": 104928
+        "prevClose": 105213.4,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 105213.4,
+        "dayHigh": 105213.4,
+        "dayLow": 105213.4
       },
       {
         "symbol": "DS_GREMESE_YENI",
@@ -2273,12 +2273,12 @@
         "ask": 107646.1,
         "change": 0,
         "changePct": 0,
-        "prevClose": 106257.3,
-        "dayChange": 271.3000000000029,
-        "dayChangePct": 0.2553236342350153,
-        "dayOpen": 106278.5,
-        "dayHigh": 106615.9,
-        "dayLow": 106239.6
+        "prevClose": 106528.6,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 106528.6,
+        "dayHigh": 106528.6,
+        "dayLow": 106528.6
       },
       {
         "symbol": "DS_ATA5_ESKI",
@@ -2287,12 +2287,12 @@
         "ask": 219532.9,
         "change": 0,
         "changePct": 0,
-        "prevClose": 217105.9,
-        "dayChange": 554.3999999999942,
-        "dayChangePct": 0.25535925094619455,
-        "dayOpen": 217149.2,
-        "dayHigh": 217838.7,
-        "dayLow": 217069.8
+        "prevClose": 217660.3,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 217660.3,
+        "dayHigh": 217660.3,
+        "dayLow": 217660.3
       },
       {
         "symbol": "DS_ATA5_YENI",
@@ -2301,12 +2301,12 @@
         "ask": 221183.2,
         "change": 0,
         "changePct": 0,
-        "prevClose": 217761.8,
-        "dayChange": 556.1000000000058,
-        "dayChangePct": 0.25537077669270086,
-        "dayOpen": 217805.3,
-        "dayHigh": 218496.8,
-        "dayLow": 217725.6
+        "prevClose": 218317.9,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 218317.9,
+        "dayHigh": 218317.9,
+        "dayLow": 218317.9
       },
       {
         "symbol": "DS_USDILS",
@@ -3813,12 +3813,12 @@
         "ask": 15.85,
         "change": 0,
         "changePct": 0,
-        "prevClose": 6.53,
-        "dayChange": 0.6299999999999999,
-        "dayChangePct": 9.647779479326186,
-        "dayOpen": 6.54,
-        "dayHigh": 8.88,
-        "dayLow": 5.6
+        "prevClose": 7.16,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 7.16,
+        "dayHigh": 7.16,
+        "dayLow": 7.16
       },
       {
         "symbol": "DS_ALTIN_XAUUSD",
@@ -3827,12 +3827,12 @@
         "ask": 4071.2,
         "change": 0,
         "changePct": 0,
-        "prevClose": 4063.9,
-        "dayChange": 6.699999999999818,
-        "dayChangePct": 0.16486626147296485,
-        "dayOpen": 4064.8,
+        "prevClose": 4070.6,
+        "dayChange": 0,
+        "dayChangePct": 0,
+        "dayOpen": 4070.6,
         "dayHigh": 4070.6,
-        "dayLow": 4063.2
+        "dayLow": 4070.6
       },
       {
         "symbol": "DS_CEYREK_yeni_TL_alis",
